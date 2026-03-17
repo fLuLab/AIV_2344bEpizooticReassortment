@@ -64,12 +64,6 @@ In each case, the runtime for any model was less than 10 minutes.
 <br /> 
 <br /> 
 
-## **Data Curation**
-
-Scripts used to assist in the curation of sequence and location data are included within the [data_curation](scripts/data_curation/) sub directory. Required helper functions are sourced from [funcs](scripts/funcs/).
-<br /> 
-<br /> 
-
 ## **Statistical Models** 
 
 We fitted three statistical models to quantify patterns of reassortant emergence across continents and to understand the drivers of reassortant spatial diffusion. Each model has three associated scripts:
