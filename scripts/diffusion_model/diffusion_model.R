@@ -34,15 +34,15 @@ library(compositions)
 
 ################################### DATA #######################################
 # Read and inspect data
-combined_data <- read_csv('./2024Aug18/treedata_extractions/2024-09-20_combined_data.csv')
+combined_data <- read_csv('./beast_outputs_summary/2024-09-20_combined_data.csv')
 
-reassortant_ancestral_changes <- read_csv('./reassortant_ancestral_changes.csv')
+reassortant_ancestral_changes <- read_csv('./beast_outputs_summary/reassortant_ancestral_changes.csv')
 
-reassortant_stratifiedpersistence <- read_csv('./2025Aug18/reassortant_stratifiedpersistence.csv')
+reassortant_stratifiedpersistence <- read_csv('./beast_outputs_summary/reassortant_stratifiedpersistence.csv')
 
-meta <- read_csv('./2024-09-09_meta.csv') 
+meta <- read_csv('./data/2024-09-09_meta.csv') 
 
-summary_data <- read_csv('./2024Aug18/treedata_extractions/summary_reassortant_metadata_20240904.csv') %>%
+summary_data <- read_csv('./beast_outputs_summary/summary_reassortant_metadata_20240904.csv') %>%
   dplyr::select(-c(cluster_label,
                    clade)) 
 
