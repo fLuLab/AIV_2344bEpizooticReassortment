@@ -67,10 +67,10 @@ In each case, the runtime for any model was less than 10 minutes.
 ## **Statistical Models** 
 
 We fitted three statistical models to quantify patterns of reassortant emergence across continents and to understand the drivers of reassortant spatial diffusion. Each model has three associated scripts:
-one fitting the model, one to run model evaluations and one for interpretation. All models are contained within the [statistical_models](scripts/statistical_models/) sub directory. Evaluation and
-interpretation plots are produced in \*\_model_evaluation and \*model_interpretation scripts, however these may differ slightly from the final published plots (located in [scripts/figure_scripts](scripts/figure_scripts)).
+one fitting the model, one to run model evaluations and one for interpretation. All models are contained within the [scripts](scripts/) directory. Evaluation and
+interpretation plots are produced in \*\_model_evaluation and \*model_interpretation scripts, however these may differ slightly from the final published plots (located in [scripts/figures](scripts/figures)).
 
-The 'number of reassortants model' has additional scripts to describe the model in Stan (located in [scripts/statistical_models/stan_models](scripts/statistical_models/stan_models)) and for pre-processing.
+The 'number of reassortants model' has additional scripts to describe the model in Stan (located in [scripts/numberofreassortants_model](scripts/numberofreassortants_model)) and for pre-processing.
 <br /> 
 <br /> 
 
