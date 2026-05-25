@@ -67,7 +67,7 @@ data_processed_2 <- data %>%
 # Prepate Data
 numbers_data <- list(N = nrow(data_processed_2),
                      y = data_processed_2 %>% pull(n_reassortants),
-                     K = data_processed_2 %>% pull(n_reassortants) %>% max(),
+                     #K = data_processed_2 %>% pull(n_reassortants) %>% max(),
                      C = data_processed_2 %>% pull(collection_regionname) %>% n_distinct(),
                      Y = data_processed_2 %>% pull(collection_year) %>% n_distinct(),
                      continent_index = data_processed_2 %>% pull(collection_regionname) %>% as.factor() %>% as.numeric(),
