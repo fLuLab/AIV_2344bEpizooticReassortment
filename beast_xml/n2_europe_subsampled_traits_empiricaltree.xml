@@ -1,0 +1,2100 @@
+<beast version="1.10.4">
+	
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="H5N2|2344b|EPI_ISL_16839585|NA|south_korea|NA|2018-01-05">
+			<date value="2018.0109589041097" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				south korea
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				36.341057964317
+			</attr>
+			<attr name="long">
+				127.784630688405
+			</attr>
+
+			
+			<attr name="location">
+				36.341057964317 127.784630688405
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H4N2|2344b|EPI_ISL_503356|anseriformes|mongolia|NA|2019-09-20">
+			<date value="2019.717808219178" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H4N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				mongolia
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.9660284560213
+			</attr>
+			<attr name="long">
+				103.138307461425
+			</attr>
+
+			
+			<attr name="location">
+				46.9660284560213 103.138307461425
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|NA|EPI_ISL_252465|anseriformes|india|NA|2014-11-01">
+			<date value="2014.8328767123287" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				southern asia
+			</attr>
+			<attr name="collection_countryname">
+				india
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				22.2417444721501
+			</attr>
+			<attr name="long">
+				79.3532012780795
+			</attr>
+
+			
+			<attr name="location">
+				22.2417444721501 79.3532012780795
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|2344b|EPI_ISL_244552|anseriformes|china|NA|2014-12-22">
+			<date value="2014.972602739726" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				36.6848135465548
+			</attr>
+			<attr name="long">
+				103.513718494908
+			</attr>
+
+			
+			<attr name="location">
+				36.6848135465548 103.513718494908
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H3N2|2344b|EPI_ISL_337398|anseriformes|russia|NA|2018-09-15">
+			<date value="2018.704109589041" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H3N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				53.5593936765214
+			</attr>
+			<attr name="long">
+				109.267398204686
+			</attr>
+
+			
+			<attr name="location">
+				53.5593936765214 109.267398204686
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="NA|NA|EPI_ISL_387337|anseriformes|vietnam|NA|2016-03-08">
+			<date value="2016.1830601092897" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				?
+			</attr>
+			<attr name="collection_regionname">
+				south-eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				vietnam
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				16.5422416723933
+			</attr>
+			<attr name="long">
+				106.354375350692
+			</attr>
+
+			
+			<attr name="location">
+				16.5422416723933 106.354375350692
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H12N2|2344b|EPI_ISL_247287|environment|china|NA|2015-11-19">
+			<date value="2015.8821917808218" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H12N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				27.6016362656629
+			</attr>
+			<attr name="long">
+				115.709570895796
+			</attr>
+
+			
+			<attr name="location">
+				27.6016362656629 115.709570895796
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|NA|EPI_ISL_252814|anseriformes|china|NA|2015-11-21">
+			<date value="2015.8876712328768" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				30.9806813015582
+			</attr>
+			<attr name="long">
+				112.277189482252
+			</attr>
+
+			
+			<attr name="location">
+				30.9806813015582 112.277189482252
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H4N2|NA|EPI_ISL_80762|anseriformes|china|NA|2009-01-01">
+			<date value="2009.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H4N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				27.5978523947888
+			</attr>
+			<attr name="long">
+				111.713471439142
+			</attr>
+
+			
+			<attr name="location">
+				27.5978523947888 111.713471439142
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|NA|EPI_ISL_24785|charadriiformes|russia|NA|2006-01-01">
+			<date value="2006.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				55.6406420692902
+			</attr>
+			<attr name="long">
+				37.6789932871434
+			</attr>
+
+			
+			<attr name="location">
+				55.6406420692902 37.6789932871434
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_30664|anseriformes|japan|NA|2005-01-01">
+			<date value="2005.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				japan
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				36.3027610877484
+			</attr>
+			<attr name="long">
+				140.318971903473
+			</attr>
+
+			
+			<attr name="location">
+				36.3027610877484 140.318971903473
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_30875|anseriformes|china|NA|2005-01-01">
+			<date value="2005.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				32.9645721858222
+			</attr>
+			<attr name="long">
+				119.470797338049
+			</attr>
+
+			
+			<attr name="location">
+				32.9645721858222 119.470797338049
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_30874|anseriformes|china|NA|2005-01-01">
+			<date value="2005.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				32.9645721858222
+			</attr>
+			<attr name="long">
+				119.470797338049
+			</attr>
+
+			
+			<attr name="location">
+				32.9645721858222 119.470797338049
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|NA|EPI_ISL_378285|anseriformes|china|NA|2013-10-01">
+			<date value="2013.7479452054795" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				44.083329648604
+			</attr>
+			<attr name="long">
+				113.188484632426
+			</attr>
+
+			
+			<attr name="location">
+				44.083329648604 113.188484632426
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="NA|NA|EPI_ISL_376200|anseriformes|netherlands|NA|2013-04-08">
+			<date value="2013.2657534246575" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				?
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				netherlands
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|NA|EPI_ISL_144394|anseriformes|sweden|NA|2009-10-03">
+			<date value="2009.7534246575342" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="collection_countryname">
+				sweden
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				62.374013544985
+			</attr>
+			<attr name="long">
+				16.2835241791686
+			</attr>
+
+			
+			<attr name="location">
+				62.374013544985 16.2835241791686
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_507001|anseriformes|france|NA|2017-03-09">
+			<date value="2017.1835616438357" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				france
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.5103009447381
+			</attr>
+			<attr name="long">
+				2.5780749353201
+			</attr>
+
+			
+			<attr name="location">
+				46.5103009447381 2.5780749353201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_176755|anseriformes|netherlands|NA|2014-01-08">
+			<date value="2014.0191780821917" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				netherlands
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				51.9374604216783
+			</attr>
+			<attr name="long">
+				4.46477045234472
+			</attr>
+
+			
+			<attr name="location">
+				51.9374604216783 4.46477045234472
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_63510|anseriformes|russia|NA|2007-09-01">
+			<date value="2007.6657534246576" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				52.6127855839347
+			</attr>
+			<attr name="long">
+				82.5936122038562
+			</attr>
+
+			
+			<attr name="location">
+				52.6127855839347 82.5936122038562
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H2N2|NA|EPI_ISL_122028|anseriformes|sweden|NA|2006-11-05">
+			<date value="2006.8438356164384" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H2N2
+			</attr>
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="collection_countryname">
+				sweden
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				62.374013544985
+			</attr>
+			<attr name="long">
+				16.2835241791686
+			</attr>
+
+			
+			<attr name="location">
+				62.374013544985 16.2835241791686
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_3161847|anseriformes|china|NA|2019-01-15">
+			<date value="2019.0383561643835" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				33.8761853651454
+			</attr>
+			<attr name="long">
+				113.614527263456
+			</attr>
+
+			
+			<attr name="location">
+				33.8761853651454 113.614527263456
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H3N2|NA|EPI_ISL_9951289|anseriformes|bangladesh|NA|2021-01-04">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H3N2
+			</attr>
+			<attr name="collection_regionname">
+				southern asia
+			</attr>
+			<attr name="collection_countryname">
+				bangladesh
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				23.8299093538119
+			</attr>
+			<attr name="long">
+				90.2865403636969
+			</attr>
+
+			
+			<attr name="location">
+				23.8299093538119 90.2865403636969
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_1005680|anseriformes|russia|3_9_6_1_5_23_1_2|2020-08-29">
+			<date value="2020.6584699453551" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0023
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				55.2762232202593
+			</attr>
+			<attr name="long">
+				79.7845914423443
+			</attr>
+
+			
+			<attr name="location">
+				55.2762232202593 79.7845914423443
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H3N2|2344b|EPI_ISL_1041175|anseriformes|russia|NA|2020-08-29">
+			<date value="2020.6584699453551" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H3N2
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				56.0596108837778
+			</attr>
+			<attr name="long">
+				73.3669499849514
+			</attr>
+
+			
+			<attr name="location">
+				56.0596108837778 73.3669499849514
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H9N2|2344b|EPI_ISL_316596|anseriformes|italy|NA|2017-08-05">
+			<date value="2017.5917808219178" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H9N2
+			</attr>
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="collection_countryname">
+				italy
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				42.7080607219025
+			</attr>
+			<attr name="long">
+				12.208345049127
+			</attr>
+
+			
+			<attr name="location">
+				42.7080607219025 12.208345049127
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H9N2|2344b|EPI_ISL_338280|anseriformes|russia|NA|2018-09-17">
+			<date value="2018.7095890410958" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H9N2
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				58.4840286166373
+			</attr>
+			<attr name="long">
+				82.1830897425335
+			</attr>
+
+			
+			<attr name="location">
+				58.4840286166373 82.1830897425335
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H9N2|2344b|EPI_ISL_17978927|anseriformes|poland|NA|2020-09-18">
+			<date value="2020.7131147540983" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H9N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				poland
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|2344b|EPI_ISL_15585747|galliformes|united_kingdom|NA|2022-10-19">
+			<date value="2022.7972602739726" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="collection_countryname">
+				united kingdom
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_10434072|anseriformes|germany|10_1_2_1_1_15_1_1|2022-01-29">
+			<date value="2022.0767123287671" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				germany
+			</attr>
+			<attr name="cluster_number">
+				profile0015
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				48.5335196122676
+			</attr>
+			<attr name="long">
+				9.04442576424602
+			</attr>
+
+			
+			<attr name="location">
+				48.5335196122676 9.04442576424602
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_10434073|anseriformes|germany|10_1_2_1_1_15_1_1|2022-01-30">
+			<date value="2022.0794520547945" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				germany
+			</attr>
+			<attr name="cluster_number">
+				profile0015
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				48.5335196122676
+			</attr>
+			<attr name="long">
+				9.04442576424602
+			</attr>
+
+			
+			<attr name="location">
+				48.5335196122676 9.04442576424602
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_11922807|galliformes|poland|10_1_2_1_1_15_1_1|2022-02-28">
+			<date value="2022.158904109589" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				poland
+			</attr>
+			<attr name="cluster_number">
+				profile0015
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_16253342|anseriformes|netherlands|10_6_2_1_1_15_1_1|2022-11-23">
+			<date value="2022.8931506849315" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				netherlands
+			</attr>
+			<attr name="cluster_number">
+				profile0015
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				51.9374604216783
+			</attr>
+			<attr name="long">
+				4.46477045234472
+			</attr>
+
+			
+			<attr name="location">
+				51.9374604216783 4.46477045234472
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H4N2|2344b|EPI_ISL_189688|anseriformes|united_states|NA|2011-11-07">
+			<date value="2011.849315068493" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H4N2
+			</attr>
+			<attr name="collection_regionname">
+				northern america
+			</attr>
+			<attr name="collection_countryname">
+				united states
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				32.6403385373358
+			</attr>
+			<attr name="long">
+				-83.4405725551842
+			</attr>
+
+			
+			<attr name="location">
+				32.6403385373358 -83.4405725551842
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_503969|galliformes|bulgaria|1_1_18_2_5_19_1_5|2020-02-21">
+			<date value="2020.139344262295" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				bulgaria
+			</attr>
+			<attr name="cluster_number">
+				profile0019
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				42.7584172195881
+			</attr>
+			<attr name="long">
+				25.2179149681535
+			</attr>
+
+			
+			<attr name="location">
+				42.7584172195881 25.2179149681535
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_603231|galliformes|bulgaria|1_1_18_2_5_19_1_5|2020-03-02">
+			<date value="2020.1666666666667" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				bulgaria
+			</attr>
+			<attr name="cluster_number">
+				profile0019
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				42.2564257629518
+			</attr>
+			<attr name="long">
+				24.8255765075979
+			</attr>
+
+			
+			<attr name="location">
+				42.2564257629518 24.8255765075979
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H6N2|NA|EPI_ISL_88223|anseriformes|zambia|NA|2008-06-01">
+			<date value="2008.4153005464482" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H6N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern africa
+			</attr>
+			<attr name="collection_countryname">
+				zambia
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				-13.454509992155
+			</attr>
+			<attr name="long">
+				27.8242304701367
+			</attr>
+
+			
+			<attr name="location">
+				-13.454509992155 27.8242304701367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_174893|anseriformes|bulgaria|NA|2011-10-22">
+			<date value="2011.805479452055" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				bulgaria
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				42.7584172195881
+			</attr>
+			<attr name="long">
+				25.2179149681535
+			</attr>
+
+			
+			<attr name="location">
+				42.7584172195881 25.2179149681535
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|NA|EPI_ISL_174896|anseriformes|bulgaria|NA|2011-11-21">
+			<date value="2011.8876712328768" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				bulgaria
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				42.7584172195881
+			</attr>
+			<attr name="long">
+				25.2179149681535
+			</attr>
+
+			
+			<attr name="location">
+				42.7584172195881 25.2179149681535
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H12N2|NA|EPI_ISL_218647|phoenicopteriformes|kenya|NA|2008-06-28">
+			<date value="2008.4890710382513" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H12N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern africa
+			</attr>
+			<attr name="collection_countryname">
+				kenya
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				0.552434287641427
+			</attr>
+			<attr name="long">
+				37.8458110066486
+			</attr>
+
+			
+			<attr name="location">
+				0.552434287641427 37.8458110066486
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H7N2|NA|EPI_ISL_174476|anseriformes|france|NA|2009-01-01">
+			<date value="2009.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H7N2
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				france
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H9N2|NA|EPI_ISL_28844|anseriformes|japan|NA|2008-01-01">
+			<date value="2008.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H9N2
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				japan
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				43.3824165431654
+			</attr>
+			<attr name="long">
+				142.542521870972
+			</attr>
+
+			
+			<attr name="location">
+				43.3824165431654 142.542521870972
+			</attr>
+
+			
+
+		</taxon>
+	</taxa>
+	
+	
+
+	
+	
+	<empiricalTreeDistributionModel id="treeModel" fileName="n2_europe_subsampled_relaxLn_Skygrid18-40_1000.trees"><taxa idref="taxa" /></empiricalTreeDistributionModel><statistic id="treeModel.currentTree" name="Current Tree"><empiricalTreeDistributionModel idref="treeModel" /></statistic><generalDataType id="virus_subtype.dataType">
+
+		
+		<state code="H12N2" />
+		<state code="H2N2" />
+		<state code="H3N2" />
+		<state code="H4N2" />
+		<state code="H5N2" />
+		<state code="H6N2" />
+		<state code="H7N2" />
+		<state code="H9N2" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="collection_regionname.dataType">
+
+		
+		<state code="central asia" />
+		<state code="eastern africa" />
+		<state code="eastern asia" />
+		<state code="eastern europe" />
+		<state code="northern america" />
+		<state code="northern europe" />
+		<state code="south-eastern asia" />
+		<state code="southern asia" />
+		<state code="southern europe" />
+		<state code="western europe" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="collection_countryname.dataType">
+
+		
+		<state code="bangladesh" />
+		<state code="bulgaria" />
+		<state code="china" />
+		<state code="france" />
+		<state code="germany" />
+		<state code="india" />
+		<state code="italy" />
+		<state code="japan" />
+		<state code="kenya" />
+		<state code="mongolia" />
+		<state code="netherlands" />
+		<state code="poland" />
+		<state code="russia" />
+		<state code="south korea" />
+		<state code="sweden" />
+		<state code="united kingdom" />
+		<state code="united states" />
+		<state code="vietnam" />
+		<state code="zambia" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="cluster_number.dataType">
+
+		
+		<state code="profile0015" />
+		<state code="profile0019" />
+		<state code="profile0023" />
+		<state code="profileNA" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="host_simplifiedhost.dataType">
+
+		
+		<state code="anseriformes-domestic" />
+		<state code="anseriformes-wild" />
+		<state code="charadriiformes-wild" />
+		<state code="environment" />
+		<state code="galliformes-domestic" />
+		<state code="other-bird" />
+	</generalDataType>
+
+
+	
+	<attributePatterns id="virus_subtype.pattern" attribute="virus_subtype">
+		<taxa idref="taxa" />
+		<generalDataType idref="virus_subtype.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="collection_regionname.pattern" attribute="collection_regionname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_regionname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="collection_countryname.pattern" attribute="collection_countryname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_countryname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="cluster_number.pattern" attribute="cluster_number">
+		<taxa idref="taxa" />
+		<generalDataType idref="cluster_number.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="host_simplifiedhost.pattern" attribute="host_simplifiedhost">
+		<taxa idref="taxa" />
+		<generalDataType idref="host_simplifiedhost.dataType" />
+	</attributePatterns>
+
+	
+
+
+	
+	
+	<strictClockBranchRates id="virus_subtype.branchRates">
+		<rate>
+			<parameter id="virus_subtype.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="virus_subtype.meanRate" name="virus_subtype.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="virus_subtype.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="collection_regionname.branchRates">
+		<rate>
+			<parameter id="collection_regionname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_regionname.meanRate" name="collection_regionname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_regionname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="collection_countryname.branchRates">
+		<rate>
+			<parameter id="collection_countryname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_countryname.meanRate" name="collection_countryname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_countryname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="cluster_number.branchRates">
+		<rate>
+			<parameter id="cluster_number.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="cluster_number.meanRate" name="cluster_number.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="cluster_number.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="host_simplifiedhost.branchRates">
+		<rate>
+			<parameter id="host_simplifiedhost.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="host_simplifiedhost.meanRate" name="host_simplifiedhost.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<multivariateDiffusionModel id="location.diffusionModel">
+		<precisionMatrix>
+			<matrixParameter id="location.precision">
+				<parameter id="location.precision.col1" value="0.05 0.002" />
+				<parameter id="location.precision.col2" value="0.002 0.05" />
+			</matrixParameter>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+	<multivariateWishartPrior id="location.precisionPrior" df="2">
+		<scaleMatrix>
+			<matrixParameter>
+				<parameter value="1.0 0.0" />
+				<parameter value="0.0 1.0" />
+			</matrixParameter>
+		</scaleMatrix>
+		<data>
+			<parameter idref="location.precision" />
+		</data>
+	</multivariateWishartPrior>
+
+	
+
+
+	
+	<multivariateTraitLikelihood id="location.traitLikelihood" traitName="location" useTreeLength="true" scaleByTime="true" reportAsMultivariate="true" reciprocalRates="true" integrateInternalTraits="true">
+		<multivariateDiffusionModel idref="location.diffusionModel" />
+		<treeModel idref="treeModel" /><traitParameter>
+			<parameter id="leaf.location" />
+		</traitParameter>
+		<conjugateRootPrior>
+			<meanParameter>
+				<parameter value="0.0 0.0" />
+			</meanParameter>
+			<priorSampleSize>
+				<parameter value="0.000001" />
+			</priorSampleSize>
+		</conjugateRootPrior>
+	</multivariateTraitLikelihood>
+	<correlation id="location.correlation" dimension1="1" dimension2="2">
+		<matrixParameter idref="location.precision" />
+	</correlation>
+	<matrixInverse id="location.varCovar">
+		<matrixParameter idref="location.precision" />
+	</matrixInverse>
+	<continuousDiffusionStatistic id="location.diffusionRate" greatCircleDistance="true">
+		<multivariateTraitLikelihood idref="location.traitLikelihood" />
+	</continuousDiffusionStatistic>
+
+	
+
+
+	
+
+	
+	<generalSubstitutionModel id="virus_subtype.model" randomizeIndicator="false">
+		<generalDataType idref="virus_subtype.dataType" />
+		<frequencies>
+			<frequencyModel id="virus_subtype.frequencyModel" normalize="true">
+				<generalDataType idref="virus_subtype.dataType" />
+				<frequencies>
+					<parameter id="virus_subtype.frequencies" dimension="8" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="virus_subtype.rates" dimension="56" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="virus_subtype.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="virus_subtype.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="collection_regionname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_regionname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_regionname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_regionname.dataType" />
+				<frequencies>
+					<parameter id="collection_regionname.frequencies" dimension="10" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_regionname.rates" dimension="90" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_regionname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_regionname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="collection_countryname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_countryname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_countryname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_countryname.dataType" />
+				<frequencies>
+					<parameter id="collection_countryname.frequencies" dimension="19" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_countryname.rates" dimension="342" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_countryname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_countryname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="cluster_number.model" randomizeIndicator="false">
+		<generalDataType idref="cluster_number.dataType" />
+		<frequencies>
+			<frequencyModel id="cluster_number.frequencyModel" normalize="true">
+				<generalDataType idref="cluster_number.dataType" />
+				<frequencies>
+					<parameter id="cluster_number.frequencies" dimension="4" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="cluster_number.rates" dimension="12" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="cluster_number.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="cluster_number.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="host_simplifiedhost.model" randomizeIndicator="false">
+		<generalDataType idref="host_simplifiedhost.dataType" />
+		<frequencies>
+			<frequencyModel id="host_simplifiedhost.frequencyModel" normalize="true">
+				<generalDataType idref="host_simplifiedhost.dataType" />
+				<frequencies>
+					<parameter id="host_simplifiedhost.frequencies" dimension="6" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="host_simplifiedhost.rates" dimension="30" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="host_simplifiedhost.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<ancestralTreeLikelihood id="virus_subtype.treeLikelihood" stateTagName="virus_subtype.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="virus_subtype.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="virus_subtype.siteModel" />
+		<generalSubstitutionModel idref="virus_subtype.model" />
+		<generalSubstitutionModel idref="virus_subtype.model" />
+		<strictClockBranchRates idref="virus_subtype.branchRates" />
+
+		
+		<frequencyModel id="virus_subtype.root.frequencyModel" normalize="true">
+			<generalDataType idref="virus_subtype.dataType" />
+			<frequencies>
+				<parameter id="virus_subtype.root.frequencies" dimension="8" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="collection_regionname.treeLikelihood" stateTagName="collection_regionname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_regionname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_regionname.siteModel" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<strictClockBranchRates idref="collection_regionname.branchRates" />
+
+		
+		<frequencyModel id="collection_regionname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_regionname.dataType" />
+			<frequencies>
+				<parameter id="collection_regionname.root.frequencies" dimension="10" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="collection_countryname.treeLikelihood" stateTagName="collection_countryname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_countryname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_countryname.siteModel" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<strictClockBranchRates idref="collection_countryname.branchRates" />
+
+		
+		<frequencyModel id="collection_countryname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_countryname.dataType" />
+			<frequencies>
+				<parameter id="collection_countryname.root.frequencies" dimension="19" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="cluster_number.treeLikelihood" stateTagName="cluster_number.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="cluster_number.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="cluster_number.siteModel" />
+		<generalSubstitutionModel idref="cluster_number.model" />
+		<generalSubstitutionModel idref="cluster_number.model" />
+		<strictClockBranchRates idref="cluster_number.branchRates" />
+
+		
+		<frequencyModel id="cluster_number.root.frequencyModel" normalize="true">
+			<generalDataType idref="cluster_number.dataType" />
+			<frequencies>
+				<parameter id="cluster_number.root.frequencies" dimension="4" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="host_simplifiedhost.treeLikelihood" stateTagName="host_simplifiedhost.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="host_simplifiedhost.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="host_simplifiedhost.siteModel" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+		
+		<frequencyModel id="host_simplifiedhost.root.frequencyModel" normalize="true">
+			<generalDataType idref="host_simplifiedhost.dataType" />
+			<frequencies>
+				<parameter id="host_simplifiedhost.root.frequencies" dimension="6" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+	
+
+
+	
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="virus_subtype.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_regionname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_countryname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="cluster_number.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="host_simplifiedhost.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="virus_subtype.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_regionname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_countryname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="cluster_number.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="host_simplifiedhost.rates" />
+		</scaleOperator>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="virus_subtype.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_regionname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_countryname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="cluster_number.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="host_simplifiedhost.root.frequencies" />
+		</deltaExchange>
+
+		
+		<precisionGibbsOperator weight="2">
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			<multivariateWishartPrior idref="location.precisionPrior" />
+		</precisionGibbsOperator>
+
+		
+
+	<empiricalTreeDistributionOperator weight="3"><empiricalTreeDistributionModel idref="treeModel" /></empiricalTreeDistributionOperator></operators>
+	
+
+	
+	<mcmc id="mcmc" chainLength="2000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="virus_subtype.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_regionname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_countryname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="cluster_number.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="host_simplifiedhost.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="virus_subtype.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="virus_subtype.rates" />
+					</gammaPrior>
+					<parameter idref="virus_subtype.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_regionname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_regionname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_countryname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_countryname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="cluster_number.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="cluster_number.rates" />
+					</gammaPrior>
+					<parameter idref="cluster_number.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="host_simplifiedhost.rates" />
+					</gammaPrior>
+					<parameter idref="host_simplifiedhost.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="virus_subtype.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="cluster_number.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.root.frequencies" />
+				</uniformPrior>
+				<strictClockBranchRates idref="virus_subtype.branchRates" />
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+				<strictClockBranchRates idref="cluster_number.branchRates" />
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+				
+				<multivariateWishartPrior idref="location.precisionPrior" />
+
+				
+
+			</prior>
+			<likelihood id="likelihood">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+				
+
+
+				
+				<ancestralTreeLikelihood idref="virus_subtype.treeLikelihood" />
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="cluster_number.treeLikelihood" />
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+				
+
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="200">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint" />
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior" />
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="virus_subtype.clock.rate" sf="6" width="12">
+				<parameter idref="virus_subtype.clock.rate" />
+			</column>
+			<column label="collection_regionname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_regionname.clock.rate" />
+			</column>
+			<column label="collection_countryname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_countryname.clock.rate" />
+			</column>
+			<column label="cluster_number.clock.rate" sf="6" width="12">
+				<parameter idref="cluster_number.clock.rate" />
+			</column>
+			<column label="host_simplifiedhost.clock.rate" sf="6" width="12">
+				<parameter idref="host_simplifiedhost.clock.rate" />
+			</column>
+
+			
+
+			
+
+		</log>
+
+		
+		<log id="fileLog" logEvery="200" fileName="n2_europe_subsampled_traits.log" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<parameter idref="virus_subtype.clock.rate" />
+			<parameter idref="collection_regionname.clock.rate" />
+			<parameter idref="collection_countryname.clock.rate" />
+			<parameter idref="cluster_number.clock.rate" />
+			<parameter idref="host_simplifiedhost.clock.rate" />
+			<rateStatistic idref="virus_subtype.meanRate" />
+			<rateStatistic idref="collection_regionname.meanRate" />
+			<rateStatistic idref="collection_countryname.meanRate" />
+			<rateStatistic idref="cluster_number.meanRate" />
+			<rateStatistic idref="host_simplifiedhost.meanRate" />
+
+			
+			<matrixParameter idref="location.precision" />
+			<correlation idref="location.correlation" />
+			<matrixInverse idref="location.varCovar" />
+			<continuousDiffusionStatistic idref="location.diffusionRate" />
+
+			
+
+
+			
+			<parameter idref="virus_subtype.rates" />
+			<parameter idref="collection_regionname.rates" />
+			<parameter idref="collection_countryname.rates" />
+			<parameter idref="cluster_number.rates" />
+			<parameter idref="host_simplifiedhost.rates" />
+
+			
+
+			<strictClockBranchRates idref="virus_subtype.branchRates" />
+			<strictClockBranchRates idref="collection_regionname.branchRates" />
+			<strictClockBranchRates idref="collection_countryname.branchRates" />
+			<strictClockBranchRates idref="cluster_number.branchRates" />
+			<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+			
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+
+			
+			<ancestralTreeLikelihood idref="virus_subtype.treeLikelihood" />
+			<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="cluster_number.treeLikelihood" />
+			<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+			
+
+			</log>
+
+		
+		<log id="n2_europe_subsampled_traits.virus_subtyperateMatrixLog" logEvery="200" fileName="n2_europe_subsampled_traits.virus_subtype.rates.log">
+			<parameter idref="virus_subtype.rates" />
+		</log>
+		<log id="n2_europe_subsampled_traits.collection_regionnamerateMatrixLog" logEvery="200" fileName="n2_europe_subsampled_traits.collection_regionname.rates.log">
+			<parameter idref="collection_regionname.rates" />
+		</log>
+		<log id="n2_europe_subsampled_traits.collection_countrynamerateMatrixLog" logEvery="200" fileName="n2_europe_subsampled_traits.collection_countryname.rates.log">
+			<parameter idref="collection_countryname.rates" />
+		</log>
+		<log id="n2_europe_subsampled_traits.cluster_numberrateMatrixLog" logEvery="200" fileName="n2_europe_subsampled_traits.cluster_number.rates.log">
+			<parameter idref="cluster_number.rates" />
+		</log>
+		<log id="n2_europe_subsampled_traits.host_simplifiedhostrateMatrixLog" logEvery="200" fileName="n2_europe_subsampled_traits.host_simplifiedhost.rates.log">
+			<parameter idref="host_simplifiedhost.rates" />
+		</log>
+
+		
+
+
+		
+		<logTree id="treeFileLog" logEvery="200" nexusFormat="true" fileName="n2_europe_subsampled_traits.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel" /><trait name="rate" tag="virus_subtype.rate">
+				<strictClockBranchRates idref="virus_subtype.branchRates" />
+			</trait>
+			<trait name="rate" tag="collection_regionname.rate">
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+			</trait>
+			<trait name="rate" tag="collection_countryname.rate">
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+			</trait>
+			<trait name="rate" tag="cluster_number.rate">
+				<strictClockBranchRates idref="cluster_number.branchRates" />
+			</trait>
+			<trait name="rate" tag="host_simplifiedhost.rate">
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+			</trait>
+			<joint idref="joint" />
+
+			
+			<trait name="virus_subtype.states" tag="virus_subtype">
+				<ancestralTreeLikelihood idref="virus_subtype.treeLikelihood" />
+			</trait>
+			<trait name="collection_regionname.states" tag="collection_regionname">
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			</trait>
+			<trait name="collection_countryname.states" tag="collection_countryname">
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			</trait>
+			<trait name="cluster_number.states" tag="cluster_number">
+				<ancestralTreeLikelihood idref="cluster_number.treeLikelihood" />
+			</trait>
+			<trait name="host_simplifiedhost.states" tag="host_simplifiedhost">
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+			</trait>
+			<trait name="location" tag="location">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			</trait>
+
+			
+
+
+			
+			<multivariateDiffusionModel idref="location.diffusionModel" />
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+		</logTree>
+	</mcmc>
+	
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+	
+</beast>

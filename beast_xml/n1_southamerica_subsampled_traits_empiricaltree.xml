@@ -1,0 +1,1971 @@
+<beast version="1.10.4">
+	
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="H5N1|2344b|EPI_ISL_17353508|galliformes|colombia|5_4_9_1_2_1_1_1|2022-11-13">
+			<date value="2022.8657534246574" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				colombia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				5.93194075736459
+			</attr>
+			<attr name="long">
+				-76.9341377836413
+			</attr>
+
+			
+			<attr name="location">
+				5.93194075736459 -76.9341377836413
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17353507|galliformes|ecuador|4_3_1_1_2_1_1_3|2022-11-08">
+			<date value="2022.8520547945207" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				ecuador
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-1.58721983309051
+			</attr>
+			<attr name="long">
+				-79.1068925338894
+			</attr>
+
+			
+			<attr name="location">
+				-1.58721983309051 -79.1068925338894
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17353510|galliformes|colombia|4_3_1_1_2_1_1_3|2022-11-26">
+			<date value="2022.9013698630138" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				colombia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				8.35147117483191
+			</attr>
+			<attr name="long">
+				-75.7978121726542
+			</attr>
+
+			
+			<attr name="location">
+				8.35147117483191 -75.7978121726542
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16013752|pelecaniformes|venezuela|5_1_1_1_2_1_1_3|2022-11-25">
+			<date value="2022.8986301369864" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				venezuela
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				8.89363259762319
+			</attr>
+			<attr name="long">
+				-64.4049370136296
+			</attr>
+
+			
+			<attr name="location">
+				8.89363259762319 -64.4049370136296
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18439562|charadriiformes|united_states|4_3_1_1_2_1_1_3|2023-10-08">
+			<date value="2023.7671232876712" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern america
+			</attr>
+			<attr name="collection_countryname">
+				united states
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				32.6403385373358
+			</attr>
+			<attr name="long">
+				-83.4405725551842
+			</attr>
+
+			
+			<attr name="location">
+				32.6403385373358 -83.4405725551842
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18439563|charadriiformes|united_states|4_3_1_1_2_1_1_3|2023-10-08">
+			<date value="2023.7671232876712" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern america
+			</attr>
+			<attr name="collection_countryname">
+				united states
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				32.6403385373358
+			</attr>
+			<attr name="long">
+				-83.4405725551842
+			</attr>
+
+			
+			<attr name="location">
+				32.6403385373358 -83.4405725551842
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18439564|charadriiformes|united_states|4_3_1_1_2_1_1_3|2023-10-08">
+			<date value="2023.7671232876712" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern america
+			</attr>
+			<attr name="collection_countryname">
+				united states
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				32.6403385373358
+			</attr>
+			<attr name="long">
+				-83.4405725551842
+			</attr>
+
+			
+			<attr name="location">
+				32.6403385373358 -83.4405725551842
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698529|galliformes|argentina|4_3_1_1_2_1_1_3|2023-07-26">
+			<date value="2023.5643835616438" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-24.2949333512188
+			</attr>
+			<attr name="long">
+				-64.8055879616535
+			</attr>
+
+			
+			<attr name="location">
+				-24.2949333512188 -64.8055879616535
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698528|galliformes|argentina|4_3_1_1_2_1_1_3|2023-07-06">
+			<date value="2023.509589041096" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-24.8937176371018
+			</attr>
+			<attr name="long">
+				-59.949649967252
+			</attr>
+
+			
+			<attr name="location">
+				-24.8937176371018 -59.949649967252
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18497946|anseriformes|peru|4_3_1_1_2_1_1_3|2023-09-26">
+			<date value="2023.7342465753425" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				-6.35291743430401
+			</attr>
+			<attr name="long">
+				-79.8242308836425
+			</attr>
+
+			
+			<attr name="location">
+				-6.35291743430401 -79.8242308836425
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698530|galliformes|argentina|4_3_1_1_2_1_1_3|2023-07-27">
+			<date value="2023.5671232876712" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-32.1223499660356
+			</attr>
+			<attr name="long">
+				-63.8001999960292
+			</attr>
+
+			
+			<attr name="location">
+				-32.1223499660356 -63.8001999960292
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17353838|galliformes|colombia|4_3_1_1_2_1_1_3|2022-11-18">
+			<date value="2022.8794520547945" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				colombia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				10.2313388378974
+			</attr>
+			<attr name="long">
+				-74.2577076184347
+			</attr>
+
+			
+			<attr name="location">
+				10.2313388378974 -74.2577076184347
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698459|anseriformes|argentina|4_3_1_1_2_1_1_3|2023-02-11">
+			<date value="2023.1123287671232" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				-23.3179610327965
+			</attr>
+			<attr name="long">
+				-65.7649952758448
+			</attr>
+
+			
+			<attr name="location">
+				-23.3179610327965 -65.7649952758448
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885915|pelecaniformes|chile|4_3_1_1_2_1_1_3|2023-01-24">
+			<date value="2023.0630136986301" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-34.4357789812144
+			</attr>
+			<attr name="long">
+				-71.0464648196043
+			</attr>
+
+			
+			<attr name="location">
+				-34.4357789812144 -71.0464648196043
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18760061|pelecaniformes|chile|4_3_1_1_2_1_1_3|2023-02-13">
+			<date value="2023.1178082191782" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-37.4998667272625
+			</attr>
+			<attr name="long">
+				-72.3949210324733
+			</attr>
+
+			
+			<attr name="location">
+				-37.4998667272625 -72.3949210324733
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17973443|NA|ecuador|4_3_1_1_2_1_1_3|2023-01-11">
+			<date value="2023.027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				ecuador
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-0.751243186649703
+			</attr>
+			<attr name="long">
+				-80.1366162194134
+			</attr>
+
+			
+			<attr name="location">
+				-0.751243186649703 -80.1366162194134
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17805999|carnivora|peru|4_3_1_1_2_1_1_3|2023-02-08">
+			<date value="2023.1041095890412" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				-9.12690950582405
+			</attr>
+			<attr name="long">
+				-74.3967035676846
+			</attr>
+
+			
+			<attr name="location">
+				-9.12690950582405 -74.3967035676846
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17806000|pelecaniformes|peru|4_3_1_1_2_1_1_3|2022-11-10">
+			<date value="2022.8575342465754" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-9.12690950582405
+			</attr>
+			<attr name="long">
+				-74.3967035676846
+			</attr>
+
+			
+			<attr name="location">
+				-9.12690950582405 -74.3967035676846
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18265431|cetacea|peru|4_3_1_1_2_1_1_3|2022-11-22">
+			<date value="2022.890410958904" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				-9.12690950582405
+			</attr>
+			<attr name="long">
+				-74.3967035676846
+			</attr>
+
+			
+			<attr name="location">
+				-9.12690950582405 -74.3967035676846
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885972|charadriiformes|chile|4_3_1_1_2_1_1_3|2023-03-01">
+			<date value="2023.1616438356164" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				-35.6204383329149
+			</attr>
+			<attr name="long">
+				-71.4454635697529
+			</attr>
+
+			
+			<attr name="location">
+				-35.6204383329149 -71.4454635697529
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885934|pelecaniformes|chile|4_3_1_1_2_1_1_3|2022-12-15">
+			<date value="2022.9534246575342" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-23.5276504572593
+			</attr>
+			<attr name="long">
+				-69.1155261199782
+			</attr>
+
+			
+			<attr name="location">
+				-23.5276504572593 -69.1155261199782
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698754|carnivora|argentina|4_3_1_1_2_1_1_3|2023-08-08">
+			<date value="2023.6" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				-54.3319371060893
+			</attr>
+			<attr name="long">
+				-67.4125966256164
+			</attr>
+
+			
+			<attr name="location">
+				-54.3319371060893 -67.4125966256164
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885942|pelecaniformes|chile|4_3_1_1_2_1_1_3|2022-12-09">
+			<date value="2022.9369863013699" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-20.1723893841755
+			</attr>
+			<attr name="long">
+				-69.3557535441909
+			</attr>
+
+			
+			<attr name="location">
+				-20.1723893841755 -69.3557535441909
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17012018|pelecaniformes|chile|4_3_1_1_2_1_1_3|2022-12-07">
+			<date value="2022.9315068493152" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-36.352932692973
+			</attr>
+			<attr name="long">
+				-71.0631434301439
+			</attr>
+
+			
+			<attr name="location">
+				-36.352932692973 -71.0631434301439
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17777525|suliformes|peru|4_3_1_1_2_1_1_3|2023-04-03">
+			<date value="2023.2520547945205" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-12.0179113235961
+			</attr>
+			<attr name="long">
+				-76.9049187829412
+			</attr>
+
+			
+			<attr name="location">
+				-12.0179113235961 -76.9049187829412
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885948|sphenisciformes|chile|4_3_1_1_2_1_1_3|2023-02-28">
+			<date value="2023.158904109589" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-30.6129967369273
+			</attr>
+			<attr name="long">
+				-70.8586891785209
+			</attr>
+
+			
+			<attr name="location">
+				-30.6129967369273 -70.8586891785209
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18760074|galliformes|chile|4_3_1_1_2_1_1_3|2023-02-04">
+			<date value="2023.0931506849315" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-27.3880384326825
+			</attr>
+			<attr name="long">
+				-69.902133937498
+			</attr>
+
+			
+			<attr name="location">
+				-27.3880384326825 -69.902133937498
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18760069|carnivora|chile|4_3_1_1_2_1_1_3|2023-03-19">
+			<date value="2023.2109589041097" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				-32.7895224923796
+			</attr>
+			<attr name="long">
+				-71.3992840580514
+			</attr>
+
+			
+			<attr name="location">
+				-32.7895224923796 -71.3992840580514
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885980|charadriiformes|chile|4_3_1_1_2_1_1_3|2022-12-30">
+			<date value="2022.9945205479453" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				-18.4968307906384
+			</attr>
+			<attr name="long">
+				-69.6296363253853
+			</attr>
+
+			
+			<attr name="location">
+				-18.4968307906384 -69.6296363253853
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17468386|primates|chile|4_3_1_1_2_1_1_3|2023-03-24">
+			<date value="2023.2246575342465" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				human
+			</attr>
+			<attr name="lat">
+				-23.5276504572593
+			</attr>
+			<attr name="long">
+				-69.1155261199782
+			</attr>
+
+			
+			<attr name="location">
+				-23.5276504572593 -69.1155261199782
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17777532|carnivora|peru|4_3_1_1_2_1_1_3|2023-03-07">
+			<date value="2023.1780821917807" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				-17.644827527273
+			</attr>
+			<attr name="long">
+				-70.2791288812849
+			</attr>
+
+			
+			<attr name="location">
+				-17.644827527273 -70.2791288812849
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17777529|suliformes|peru|4_3_1_1_2_1_1_3|2023-03-17">
+			<date value="2023.2054794520548" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-11.9545824923705
+			</attr>
+			<attr name="long">
+				-77.1360367031896
+			</attr>
+
+			
+			<attr name="location">
+				-11.9545824923705 -77.1360367031896
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17099964|pelecaniformes|peru|4_3_1_1_2_1_1_3|2022-12-01">
+			<date value="2022.9150684931508" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				peru
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-14.2339783641518
+			</attr>
+			<attr name="long">
+				-75.5762320808058
+			</attr>
+
+			
+			<attr name="location">
+				-14.2339783641518 -75.5762320808058
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698518|galliformes|argentina|4_3_1_1_2_1_1_3|2023-05-01">
+			<date value="2023.3287671232877" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-26.3828503765305
+			</attr>
+			<attr name="long">
+				-60.7777509441554
+			</attr>
+
+			
+			<attr name="location">
+				-26.3828503765305 -60.7777509441554
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698511|galliformes|argentina|4_3_1_1_2_1_1_3|2023-04-12">
+			<date value="2023.2767123287672" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-43.7868223025616
+			</attr>
+			<attr name="long">
+				-68.511663809735
+			</attr>
+
+			
+			<attr name="location">
+				-43.7868223025616 -68.511663809735
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698497|galliformes|argentina|4_3_1_1_2_1_1_3|2023-03-04">
+			<date value="2023.1698630136987" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-30.6720306872131
+			</attr>
+			<attr name="long">
+				-60.9357621538365
+			</attr>
+
+			
+			<attr name="location">
+				-30.6720306872131 -60.9357621538365
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698525|galliformes|argentina|4_3_1_1_2_1_1_3|2023-05-18">
+			<date value="2023.3753424657534" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-32.0397430287849
+			</attr>
+			<attr name="long">
+				-59.2023932092603
+			</attr>
+
+			
+			<attr name="location">
+				-32.0397430287849 -59.2023932092603
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18310960|anseriformes|uruguay|4_3_1_1_2_1_1_3|2023-04-16">
+			<date value="2023.2876712328766" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				uruguay
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				-32.7868641942882
+			</attr>
+			<attr name="long">
+				-56.0254606768188
+			</attr>
+
+			
+			<attr name="location">
+				-32.7868641942882 -56.0254606768188
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698510|galliformes|argentina|4_3_1_1_2_1_1_3|2023-04-03">
+			<date value="2023.2520547945205" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-40.4108256408088
+			</attr>
+			<attr name="long">
+				-67.2098045960294
+			</attr>
+
+			
+			<attr name="location">
+				-40.4108256408088 -67.2098045960294
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18310962|galliformes|uruguay|4_3_1_1_2_1_1_3|2023-04-17">
+			<date value="2023.2904109589042" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				uruguay
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-32.7868641942882
+			</attr>
+			<attr name="long">
+				-56.0254606768188
+			</attr>
+
+			
+			<attr name="location">
+				-32.7868641942882 -56.0254606768188
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698515|anseriformes|argentina|4_3_1_1_2_1_1_3|2023-04-19">
+			<date value="2023.295890410959" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				-28.7729566425108
+			</attr>
+			<attr name="long">
+				-57.7999491192661
+			</attr>
+
+			
+			<attr name="location">
+				-28.7729566425108 -57.7999491192661
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18760060|galliformes|chile|4_3_1_1_2_1_1_3|2023-03-20">
+			<date value="2023.213698630137" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-33.6042434852213
+			</attr>
+			<attr name="long">
+				-70.6268454043396
+			</attr>
+
+			
+			<attr name="location">
+				-33.6042434852213 -70.6268454043396
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18755251|suliformes|brazil|4_3_1_1_2_1_1_3|2023-06-03">
+			<date value="2023.4191780821918" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				brazil
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-22.1966758001859
+			</attr>
+			<attr name="long">
+				-42.6576662414631
+			</attr>
+
+			
+			<attr name="location">
+				-22.1966758001859 -42.6576662414631
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18755338|charadriiformes|brazil|4_3_1_1_2_1_1_3|2023-05-15">
+			<date value="2023.3671232876711" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				brazil
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				-19.5709250592315
+			</attr>
+			<attr name="long">
+				-40.6652075301607
+			</attr>
+
+			
+			<attr name="location">
+				-19.5709250592315 -40.6652075301607
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698512|galliformes|argentina|4_3_1_1_2_1_1_3|2023-04-19">
+			<date value="2023.295890410959" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-34.6107738098794
+			</attr>
+			<attr name="long">
+				-68.5833000873727
+			</attr>
+
+			
+			<attr name="location">
+				-34.6107738098794 -68.5833000873727
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698513|galliformes|argentina|4_3_1_1_2_1_1_3|2023-04-17">
+			<date value="2023.2904109589042" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-48.7713269135881
+			</attr>
+			<attr name="long">
+				-69.8913370290236
+			</attr>
+
+			
+			<attr name="location">
+				-48.7713269135881 -69.8913370290236
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698504|galliformes|argentina|4_3_1_1_2_1_1_3|2023-03-16">
+			<date value="2023.2027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-37.1255727771995
+			</attr>
+			<attr name="long">
+				-65.4470299288487
+			</attr>
+
+			
+			<attr name="location">
+				-37.1255727771995 -65.4470299288487
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698480|galliformes|argentina|4_3_1_1_2_1_1_3|2023-02-22">
+			<date value="2023.1424657534246" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-33.7527938244466
+			</attr>
+			<attr name="long">
+				-66.0339496041068
+			</attr>
+
+			
+			<attr name="location">
+				-33.7527938244466 -66.0339496041068
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698502|galliformes|argentina|4_3_1_1_2_1_1_3|2023-03-13">
+			<date value="2023.194520547945" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-38.6247364397998
+			</attr>
+			<attr name="long">
+				-70.1087540238136
+			</attr>
+
+			
+			<attr name="location">
+				-38.6247364397998 -70.1087540238136
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885878|galliformes|chile|4_3_1_1_2_1_1_3|2023-02-27">
+			<date value="2023.1561643835616" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-36.6455443686508
+			</attr>
+			<attr name="long">
+				-71.9757909721378
+			</attr>
+
+			
+			<attr name="location">
+				-36.6455443686508 -71.9757909721378
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885869|anseriformes|chile|4_3_1_1_2_1_1_3|2023-02-28">
+			<date value="2023.158904109589" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				chile
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				-38.6482992883006
+			</attr>
+			<attr name="long">
+				-72.2753909310813
+			</attr>
+
+			
+			<attr name="location">
+				-38.6482992883006 -72.2753909310813
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698485|NA|argentina|4_3_1_1_2_1_1_3|2023-02-24">
+			<date value="2023.1479452054793" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-36.6626557465889
+			</attr>
+			<attr name="long">
+				-60.5480821834678
+			</attr>
+
+			
+			<attr name="location">
+				-36.6626557465889 -60.5480821834678
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18698490|galliformes|argentina|4_3_1_1_2_1_1_3|2023-02-24">
+			<date value="2023.1479452054793" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				argentina
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-32.1223499660356
+			</attr>
+			<attr name="long">
+				-63.8001999960292
+			</attr>
+
+			
+			<attr name="location">
+				-32.1223499660356 -63.8001999960292
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17353509|galliformes|colombia|5_4_9_1_2_1_1_1|2022-11-01">
+			<date value="2022.8328767123287" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				colombia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				5.93194075736459
+			</attr>
+			<attr name="long">
+				-76.9341377836413
+			</attr>
+
+			
+			<attr name="location">
+				5.93194075736459 -76.9341377836413
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17353839|anseriformes|colombia|5_4_9_1_2_1_1_1|2022-10-09">
+			<date value="2022.7698630136986" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				south america
+			</attr>
+			<attr name="collection_countryname">
+				colombia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				5.93194075736459
+			</attr>
+			<attr name="long">
+				-76.9341377836413
+			</attr>
+
+			
+			<attr name="location">
+				5.93194075736459 -76.9341377836413
+			</attr>
+
+			
+
+		</taxon>
+	</taxa>
+	
+	
+
+	
+	
+	<empiricalTreeDistributionModel id="treeModel" fileName="n1_southamerica_subsampled_relaxLn_Skygrid1-4_1000.trees"><taxa idref="taxa" /></empiricalTreeDistributionModel><statistic id="treeModel.currentTree" name="Current Tree"><empiricalTreeDistributionModel idref="treeModel" /></statistic><generalDataType id="collection_regionname.dataType">
+
+		
+		<state code="northern america" />
+		<state code="south america" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="collection_countryname.dataType">
+
+		
+		<state code="argentina" />
+		<state code="brazil" />
+		<state code="chile" />
+		<state code="colombia" />
+		<state code="ecuador" />
+		<state code="peru" />
+		<state code="united states" />
+		<state code="uruguay" />
+		<state code="venezuela" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="host_simplifiedhost.dataType">
+
+		
+		<state code="anseriformes-domestic" />
+		<state code="anseriformes-wild" />
+		<state code="charadriiformes-wild" />
+		<state code="galliformes-domestic" />
+		<state code="human" />
+		<state code="mammal" />
+		<state code="other-bird" />
+	</generalDataType>
+
+
+	
+	<attributePatterns id="collection_regionname.pattern" attribute="collection_regionname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_regionname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="collection_countryname.pattern" attribute="collection_countryname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_countryname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="host_simplifiedhost.pattern" attribute="host_simplifiedhost">
+		<taxa idref="taxa" />
+		<generalDataType idref="host_simplifiedhost.dataType" />
+	</attributePatterns>
+
+	
+
+
+	
+	
+	<strictClockBranchRates id="collection_regionname.branchRates">
+		<rate>
+			<parameter id="collection_regionname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_regionname.meanRate" name="collection_regionname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_regionname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="collection_countryname.branchRates">
+		<rate>
+			<parameter id="collection_countryname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_countryname.meanRate" name="collection_countryname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_countryname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="host_simplifiedhost.branchRates">
+		<rate>
+			<parameter id="host_simplifiedhost.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="host_simplifiedhost.meanRate" name="host_simplifiedhost.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<multivariateDiffusionModel id="location.diffusionModel">
+		<precisionMatrix>
+			<matrixParameter id="location.precision">
+				<parameter id="location.precision.col1" value="0.05 0.002" />
+				<parameter id="location.precision.col2" value="0.002 0.05" />
+			</matrixParameter>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+	<multivariateWishartPrior id="location.precisionPrior" df="2">
+		<scaleMatrix>
+			<matrixParameter>
+				<parameter value="1.0 0.0" />
+				<parameter value="0.0 1.0" />
+			</matrixParameter>
+		</scaleMatrix>
+		<data>
+			<parameter idref="location.precision" />
+		</data>
+	</multivariateWishartPrior>
+
+	
+
+
+	
+	<multivariateTraitLikelihood id="location.traitLikelihood" traitName="location" useTreeLength="true" scaleByTime="true" reportAsMultivariate="true" reciprocalRates="true" integrateInternalTraits="true">
+		<multivariateDiffusionModel idref="location.diffusionModel" />
+		<treeModel idref="treeModel" /><traitParameter>
+			<parameter id="leaf.location" />
+		</traitParameter>
+		<conjugateRootPrior>
+			<meanParameter>
+				<parameter value="0.0 0.0" />
+			</meanParameter>
+			<priorSampleSize>
+				<parameter value="0.000001" />
+			</priorSampleSize>
+		</conjugateRootPrior>
+	</multivariateTraitLikelihood>
+	<correlation id="location.correlation" dimension1="1" dimension2="2">
+		<matrixParameter idref="location.precision" />
+	</correlation>
+	<matrixInverse id="location.varCovar">
+		<matrixParameter idref="location.precision" />
+	</matrixInverse>
+	<continuousDiffusionStatistic id="location.diffusionRate" greatCircleDistance="true">
+		<multivariateTraitLikelihood idref="location.traitLikelihood" />
+	</continuousDiffusionStatistic>
+
+	
+
+
+	
+
+	
+	<generalSubstitutionModel id="collection_regionname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_regionname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_regionname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_regionname.dataType" />
+				<frequencies>
+					<parameter id="collection_regionname.frequencies" dimension="2" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_regionname.rates" dimension="2" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_regionname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_regionname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="collection_countryname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_countryname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_countryname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_countryname.dataType" />
+				<frequencies>
+					<parameter id="collection_countryname.frequencies" dimension="9" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_countryname.rates" dimension="72" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_countryname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_countryname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="host_simplifiedhost.model" randomizeIndicator="false">
+		<generalDataType idref="host_simplifiedhost.dataType" />
+		<frequencies>
+			<frequencyModel id="host_simplifiedhost.frequencyModel" normalize="true">
+				<generalDataType idref="host_simplifiedhost.dataType" />
+				<frequencies>
+					<parameter id="host_simplifiedhost.frequencies" dimension="7" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="host_simplifiedhost.rates" dimension="42" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="host_simplifiedhost.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<ancestralTreeLikelihood id="collection_regionname.treeLikelihood" stateTagName="collection_regionname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_regionname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_regionname.siteModel" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<strictClockBranchRates idref="collection_regionname.branchRates" />
+
+		
+		<frequencyModel id="collection_regionname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_regionname.dataType" />
+			<frequencies>
+				<parameter id="collection_regionname.root.frequencies" dimension="2" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="collection_countryname.treeLikelihood" stateTagName="collection_countryname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_countryname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_countryname.siteModel" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<strictClockBranchRates idref="collection_countryname.branchRates" />
+
+		
+		<frequencyModel id="collection_countryname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_countryname.dataType" />
+			<frequencies>
+				<parameter id="collection_countryname.root.frequencies" dimension="9" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="host_simplifiedhost.treeLikelihood" stateTagName="host_simplifiedhost.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="host_simplifiedhost.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="host_simplifiedhost.siteModel" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+		
+		<frequencyModel id="host_simplifiedhost.root.frequencyModel" normalize="true">
+			<generalDataType idref="host_simplifiedhost.dataType" />
+			<frequencies>
+				<parameter id="host_simplifiedhost.root.frequencies" dimension="7" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+	
+
+
+	
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_regionname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_countryname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="host_simplifiedhost.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_regionname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_countryname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="host_simplifiedhost.rates" />
+		</scaleOperator>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_regionname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_countryname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="host_simplifiedhost.root.frequencies" />
+		</deltaExchange>
+
+		
+		<precisionGibbsOperator weight="2">
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			<multivariateWishartPrior idref="location.precisionPrior" />
+		</precisionGibbsOperator>
+
+		
+
+	<empiricalTreeDistributionOperator weight="3"><empiricalTreeDistributionModel idref="treeModel" /></empiricalTreeDistributionOperator></operators>
+	
+
+	
+	<mcmc id="mcmc" chainLength="2000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_regionname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_countryname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="host_simplifiedhost.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_regionname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_regionname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_countryname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_countryname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="host_simplifiedhost.rates" />
+					</gammaPrior>
+					<parameter idref="host_simplifiedhost.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.root.frequencies" />
+				</uniformPrior>
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+				
+				<multivariateWishartPrior idref="location.precisionPrior" />
+
+				
+
+			</prior>
+			<likelihood id="likelihood">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+				
+
+
+				
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+				
+
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="200">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint" />
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior" />
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="collection_regionname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_regionname.clock.rate" />
+			</column>
+			<column label="collection_countryname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_countryname.clock.rate" />
+			</column>
+			<column label="host_simplifiedhost.clock.rate" sf="6" width="12">
+				<parameter idref="host_simplifiedhost.clock.rate" />
+			</column>
+
+			
+
+			
+
+		</log>
+
+		
+		<log id="fileLog" logEvery="200" fileName="n1_southamerica_subsampled_traits.log" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<parameter idref="collection_regionname.clock.rate" />
+			<parameter idref="collection_countryname.clock.rate" />
+			<parameter idref="host_simplifiedhost.clock.rate" />
+			<rateStatistic idref="collection_regionname.meanRate" />
+			<rateStatistic idref="collection_countryname.meanRate" />
+			<rateStatistic idref="host_simplifiedhost.meanRate" />
+
+			
+			<matrixParameter idref="location.precision" />
+			<correlation idref="location.correlation" />
+			<matrixInverse idref="location.varCovar" />
+			<continuousDiffusionStatistic idref="location.diffusionRate" />
+
+			
+
+
+			
+			<parameter idref="collection_regionname.rates" />
+			<parameter idref="collection_countryname.rates" />
+			<parameter idref="host_simplifiedhost.rates" />
+
+			
+
+			<strictClockBranchRates idref="collection_regionname.branchRates" />
+			<strictClockBranchRates idref="collection_countryname.branchRates" />
+			<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+			
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+
+			
+			<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+			
+
+			</log>
+
+		
+		<log id="n1_southamerica_subsampled_traits.collection_regionnamerateMatrixLog" logEvery="200" fileName="n1_southamerica_subsampled_traits.collection_regionname.rates.log">
+			<parameter idref="collection_regionname.rates" />
+		</log>
+		<log id="n1_southamerica_subsampled_traits.collection_countrynamerateMatrixLog" logEvery="200" fileName="n1_southamerica_subsampled_traits.collection_countryname.rates.log">
+			<parameter idref="collection_countryname.rates" />
+		</log>
+		<log id="n1_southamerica_subsampled_traits.host_simplifiedhostrateMatrixLog" logEvery="200" fileName="n1_southamerica_subsampled_traits.host_simplifiedhost.rates.log">
+			<parameter idref="host_simplifiedhost.rates" />
+		</log>
+
+		
+
+
+		
+		<logTree id="treeFileLog" logEvery="200" nexusFormat="true" fileName="n1_southamerica_subsampled_traits.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel" /><trait name="rate" tag="collection_regionname.rate">
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+			</trait>
+			<trait name="rate" tag="collection_countryname.rate">
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+			</trait>
+			<trait name="rate" tag="host_simplifiedhost.rate">
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+			</trait>
+			<joint idref="joint" />
+
+			
+			<trait name="collection_regionname.states" tag="collection_regionname">
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			</trait>
+			<trait name="collection_countryname.states" tag="collection_countryname">
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			</trait>
+			<trait name="host_simplifiedhost.states" tag="host_simplifiedhost">
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+			</trait>
+			<trait name="location" tag="location">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			</trait>
+
+			
+
+
+			
+			<multivariateDiffusionModel idref="location.diffusionModel" />
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+		</logTree>
+	</mcmc>
+	
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+	
+</beast>

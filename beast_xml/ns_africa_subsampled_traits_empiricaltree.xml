@@ -1,0 +1,5177 @@
+<beast version="1.10.4">
+	
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="H5N1|2344b|EPI_ISL_18127710|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="cluster_number">
+				profile0004
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127712|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="cluster_number">
+				profile0004
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127713|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="cluster_number">
+				profile0004
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127714|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="cluster_number">
+				profile0004
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127711|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="cluster_number">
+				profile0004
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N6|2344b|EPI_ISL_503150|anseriformes|nigeria|14_2_11_2_3_17_1_15|2019-06-30">
+			<date value="2019.4931506849316" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N6
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0015
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_18847130|anseriformes|egypt|22_2_3_1_3_2_1_2|2022-01-19">
+			<date value="2022.0493150684931" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_18847132|anseriformes|egypt|22_2_3_1_3_2_1_2|2021-11-25">
+			<date value="2021.8986301369864" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_405278|galliformes|nigeria|7_2_5_2_13_3_1_2|2019-07-05">
+			<date value="2019.5068493150684" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				7.0017747155077
+			</attr>
+			<attr name="long">
+				3.4674053159721
+			</attr>
+
+			
+			<attr name="location">
+				7.0017747155077 3.4674053159721
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4061481|galliformes|nigeria|NA|2021-02-10">
+			<date value="2021.109589041096" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4061490|galliformes|nigeria|3_2_3_1_3_2_1_2|2021-02-25">
+			<date value="2021.150684931507" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17414602|NA|nigeria|3_2_3_1_3_2_1_2|2021-02-02">
+			<date value="2021.0876712328768" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				9.20979731798597
+			</attr>
+			<attr name="long">
+				9.54756607799562
+			</attr>
+
+			
+			<attr name="location">
+				9.20979731798597 9.54756607799562
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17414607|NA|nigeria|3_2_3_1_3_2_1_2|2021-02-26">
+			<date value="2021.1534246575343" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				9.20979731798597
+			</attr>
+			<attr name="long">
+				9.54756607799562
+			</attr>
+
+			
+			<attr name="location">
+				9.20979731798597 9.54756607799562
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_14937233|galliformes|egypt|3_2_3_1_3_2_1_2|2021-03-03">
+			<date value="2021.1671232876713" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069650|galliformes|egypt|3_2_3_1_3_2_4_2|2019-02-21">
+			<date value="2019.1397260273973" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069752|galliformes|egypt|3_2_3_1_3_2_1_2|2019-02-21">
+			<date value="2019.1397260273973" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069778|anseriformes|egypt|3_2_3_1_3_2_1_2|2019-02-27">
+			<date value="2019.1561643835616" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4070896|galliformes|egypt|NA|2019-06-25">
+			<date value="2019.4794520547946" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N6|2344b|EPI_ISL_389795|galliformes|bangladesh|NA|2017-02-05">
+			<date value="2017.0958904109589" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N6
+			</attr>
+			<attr name="collection_regionname">
+				southern asia
+			</attr>
+			<attr name="collection_countryname">
+				bangladesh
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				23.8299093538119
+			</attr>
+			<attr name="long">
+				90.2865403636969
+			</attr>
+
+			
+			<attr name="location">
+				23.8299093538119 90.2865403636969
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_9572659|galliformes|nigeria|7_2_5_2_9_3_1_2|2019-02-28">
+			<date value="2019.158904109589" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_9572654|anseriformes|nigeria|7_2_5_2_9_3_1_2|2019-02-23">
+			<date value="2019.145205479452" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_9572656|galliformes|nigeria|7_2_5_2_9_3_1_2|2019-01-22">
+			<date value="2019.0575342465754" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_250231|anseriformes|russia|NA|2016-01-01">
+			<date value="2016.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				65.951077439978
+			</attr>
+			<attr name="long">
+				95.3658732364833
+			</attr>
+
+			
+			<attr name="location">
+				65.951077439978 95.3658732364833
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_237554|ciconiiformes|india|NA|2016-10-20">
+			<date value="2016.8005464480875" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				southern asia
+			</attr>
+			<attr name="collection_countryname">
+				india
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				22.2417444721501
+			</attr>
+			<attr name="long">
+				79.3532012780795
+			</attr>
+
+			
+			<attr name="location">
+				22.2417444721501 79.3532012780795
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_240677|anseriformes|russia|NA|2016-10-04">
+			<date value="2016.7568306010928" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				65.951077439978
+			</attr>
+			<attr name="long">
+				95.3658732364833
+			</attr>
+
+			
+			<attr name="location">
+				65.951077439978 95.3658732364833
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_240678|anseriformes|russia|NA|2016-10-10">
+			<date value="2016.7732240437158" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				65.951077439978
+			</attr>
+			<attr name="long">
+				95.3658732364833
+			</attr>
+
+			
+			<attr name="location">
+				65.951077439978 95.3658732364833
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_9594306|galliformes|egypt|7_2_5_2_5_3_1_2|2020-04-01">
+			<date value="2020.2486338797814" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N5|2344b|EPI_ISL_260059|suliformes|germany|NA|2017-01-30">
+			<date value="2017.0794520547945" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N5
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				germany
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				54.1814850326718
+			</attr>
+			<attr name="long">
+				9.81577342948134
+			</attr>
+
+			
+			<attr name="location">
+				54.1814850326718 9.81577342948134
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N5|2344b|EPI_ISL_260058|pelecaniformes|germany|NA|2017-01-22">
+			<date value="2017.0575342465754" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N5
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				germany
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.0528694457593
+			</attr>
+			<attr name="long">
+				13.3447264729352
+			</attr>
+
+			
+			<attr name="location">
+				51.0528694457593 13.3447264729352
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_337151|galliformes|russia|NA|2018-08-03">
+			<date value="2018.5863013698631" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				56.6045677212014
+			</attr>
+			<attr name="long">
+				47.9391032499845
+			</attr>
+
+			
+			<attr name="location">
+				56.6045677212014 47.9391032499845
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_320955|galliformes|russia|NA|2018-07-20">
+			<date value="2018.5479452054794" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				55.5042638073887
+			</attr>
+			<attr name="long">
+				47.1015243656298
+			</attr>
+
+			
+			<attr name="location">
+				55.5042638073887 47.1015243656298
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_320683|anseriformes|russia|NA|2018-07-04">
+			<date value="2018.504109589041" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				53.2832960533743
+			</attr>
+			<attr name="long">
+				50.463224992645
+			</attr>
+
+			
+			<attr name="location">
+				53.2832960533743 50.463224992645
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_320682|galliformes|russia|NA|2018-06-26">
+			<date value="2018.482191780822" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				51.70509261598
+			</attr>
+			<attr name="long">
+				36.1279987852197
+			</attr>
+
+			
+			<attr name="location">
+				51.70509261598 36.1279987852197
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_320674|galliformes|russia|NA|2018-07-09">
+			<date value="2018.517808219178" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				47.725861660493
+			</attr>
+			<attr name="long">
+				41.3470662241277
+			</attr>
+
+			
+			<attr name="location">
+				47.725861660493 41.3470662241277
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_320664|galliformes|russia|NA|2018-06-20">
+			<date value="2018.4657534246576" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.7922225034035
+			</attr>
+			<attr name="long">
+				36.4889624990651
+			</attr>
+
+			
+			<attr name="location">
+				52.7922225034035 36.4889624990651
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_320663|galliformes|russia|NA|2018-06-15">
+			<date value="2018.4520547945206" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				53.1887157945579
+			</attr>
+			<attr name="long">
+				44.6624109807356
+			</attr>
+
+			
+			<attr name="location">
+				53.1887157945579 44.6624109807356
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_1121144|galliformes|france|NA|2016-11-14">
+			<date value="2016.8688524590164" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				france
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_340075|galliformes|russia|NA|2017-05-12">
+			<date value="2017.358904109589" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				55.3847196142087
+			</attr>
+			<attr name="long">
+				50.9399477925889
+			</attr>
+
+			
+			<attr name="location">
+				55.3847196142087 50.9399477925889
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_256300|galliformes|russia|NA|2017-03-02">
+			<date value="2017.164383561644" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				55.6406420692902
+			</attr>
+			<attr name="long">
+				37.6789932871434
+			</attr>
+
+			
+			<attr name="location">
+				55.6406420692902 37.6789932871434
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_247719|galliformes|russia|NA|2017-01-06">
+			<date value="2017.013698630137" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				50.9552102106081
+			</attr>
+			<attr name="long">
+				40.3112702218899
+			</attr>
+
+			
+			<attr name="location">
+				50.9552102106081 40.3112702218899
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_240110|galliformes|russia|NA|2016-12-13">
+			<date value="2016.948087431694" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				47.1064465901659
+			</attr>
+			<attr name="long">
+				47.3587677312838
+			</attr>
+
+			
+			<attr name="location">
+				47.1064465901659 47.3587677312838
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_419350|anseriformes|bulgaria|NA|2017-10-17">
+			<date value="2017.7917808219179" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="collection_countryname">
+				bulgaria
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				42.7584172195881
+			</attr>
+			<attr name="long">
+				25.2179149681535
+			</attr>
+
+			
+			<attr name="location">
+				42.7584172195881 25.2179149681535
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_378634|anseriformes|china|NA|2016-11-23">
+			<date value="2016.8934426229507" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				33.8761853651454
+			</attr>
+			<attr name="long">
+				113.614527263456
+			</attr>
+
+			
+			<attr name="location">
+				33.8761853651454 113.614527263456
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_378362|anseriformes|china|NA|2016-12-20">
+			<date value="2016.967213114754" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="collection_countryname">
+				china
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				37.5496375119255
+			</attr>
+			<attr name="long">
+				112.274268590565
+			</attr>
+
+			
+			<attr name="location">
+				37.5496375119255 112.274268590565
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_231685|charadriiformes|russia|NA|2016-05-25">
+			<date value="2016.396174863388" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.6017202309913
+			</attr>
+			<attr name="long">
+				94.7622198146698
+			</attr>
+
+			
+			<attr name="location">
+				51.6017202309913 94.7622198146698
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_231684|anseriformes|russia|NA|2016-05-25">
+			<date value="2016.396174863388" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				central asia
+			</attr>
+			<attr name="collection_countryname">
+				russia
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				51.6017202309913
+			</attr>
+			<attr name="long">
+				94.7622198146698
+			</attr>
+
+			
+			<attr name="location">
+				51.6017202309913 94.7622198146698
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_400043|galliformes|egypt|3_2_3_2_3_3_2_2|2019-04-23">
+			<date value="2019.3068493150686" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16209015|galliformes|egypt|3_2_3_1_3_2_2_2|2020-02">
+			<date value="2020.0846994535518" direction="forwards" units="years" uncertainty="0.08333333333333333" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069710|galliformes|egypt|3_2_3_2_3_3_2_2|2019-02-13">
+			<date value="2019.1178082191782" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069759|galliformes|egypt|3_2_3_2_3_3_2_2|2019-02-13">
+			<date value="2019.1178082191782" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4070379|galliformes|egypt|3_2_3_2_3_3_2_2|2019-02-13">
+			<date value="2019.1178082191782" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069652|galliformes|egypt|3_2_3_2_3_3_2_2|2019-02-13">
+			<date value="2019.1178082191782" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069678|galliformes|egypt|3_2_3_2_3_3_2_2|2019-02-13">
+			<date value="2019.1178082191782" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069756|galliformes|egypt|3_2_3_2_3_3_2_2|2019-02-13">
+			<date value="2019.1178082191782" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069736|anseriformes|egypt|3_2_3_2_3_3_2_2|2019-02-13">
+			<date value="2019.1178082191782" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069651|anseriformes|egypt|1_2_3_2_3_3_2_2|2019-02-21">
+			<date value="2019.1397260273973" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069750|anseriformes|egypt|1_2_3_2_3_3_2_2|2019-02-21">
+			<date value="2019.1397260273973" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069758|anseriformes|egypt|1_2_3_2_3_3_2_2|2019-02-21">
+			<date value="2019.1397260273973" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4069762|anseriformes|egypt|1_2_3_2_3_3_2_2|2019-02-21">
+			<date value="2019.1397260273973" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0002
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_9594295|galliformes|egypt|NA|2018-02-05">
+			<date value="2018.0958904109589" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N8
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profileNA
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18847167|anseriformes|egypt|1_1_2_1_1_1_1_1|2022-12-15">
+			<date value="2022.9534246575342" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13048382|NA|burkina_faso|2_1_17_1_1_1_1_1|2021-12-07">
+			<date value="2021.9315068493152" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				burkina faso
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				12.2773783178266
+			</attr>
+			<attr name="long">
+				-1.75266049543
+			</attr>
+
+			
+			<attr name="location">
+				12.2773783178266 -1.75266049543
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15853935|galliformes|south_africa|1_1_1_1_1_1_1_1|2022-09-18">
+			<date value="2022.7123287671234" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638500|galliformes|niger|17_1_1_1_1_1_1_1|2023-01-28">
+			<date value="2023.0739726027398" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.1152079093427
+			</attr>
+			<attr name="long">
+				7.29977536646403
+			</attr>
+
+			
+			<attr name="location">
+				14.1152079093427 7.29977536646403
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638505|galliformes|niger|17_1_1_1_1_1_1_1|2023-02-14">
+			<date value="2023.1205479452055" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				14.1152079093427
+			</attr>
+			<attr name="long">
+				7.29977536646403
+			</attr>
+
+			
+			<attr name="location">
+				14.1152079093427 7.29977536646403
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638491|galliformes|niger|17_1_1_1_1_1_1_1|2022-12-14">
+			<date value="2022.9506849315069" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				15.7709378501361
+			</attr>
+			<attr name="long">
+				5.22990257425899
+			</attr>
+
+			
+			<attr name="location">
+				15.7709378501361 5.22990257425899
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638493|galliformes|niger|17_1_1_1_1_1_1_1|2023-01-12">
+			<date value="2023.0301369863014" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.1834739365711
+			</attr>
+			<attr name="long">
+				2.18634678358895
+			</attr>
+
+			
+			<attr name="location">
+				14.1834739365711 2.18634678358895
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638492|galliformes|niger|17_1_1_1_1_1_1_1|2022-12-18">
+			<date value="2022.9616438356165" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.5308086643374
+			</attr>
+			<attr name="long">
+				2.12749988854334
+			</attr>
+
+			
+			<attr name="location">
+				13.5308086643374 2.12749988854334
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638502|galliformes|niger|17_1_1_1_1_1_1_1|2023-02-02">
+			<date value="2023.0876712328768" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.9848330965973
+			</attr>
+			<attr name="long">
+				10.0264149840137
+			</attr>
+
+			
+			<attr name="location">
+				14.9848330965973 10.0264149840137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638503|anseriformes|niger|17_1_1_1_1_1_1_1|2023-02-06">
+			<date value="2023.0986301369862" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				15.7709378501361
+			</attr>
+			<attr name="long">
+				5.22990257425899
+			</attr>
+
+			
+			<attr name="location">
+				15.7709378501361 5.22990257425899
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957819|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957821|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957822|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957823|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13048381|NA|burkina_faso|NA|2021-12-08">
+			<date value="2021.9342465753425" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				burkina faso
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				12.2773783178266
+			</attr>
+			<attr name="long">
+				-1.75266049543
+			</attr>
+
+			
+			<attr name="location">
+				12.2773783178266 -1.75266049543
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414622|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-13">
+			<date value="2022.0328767123287" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				8.49899690269019
+			</attr>
+			<attr name="long">
+				8.18723814005546
+			</attr>
+
+			
+			<attr name="location">
+				8.49899690269019 8.18723814005546
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16642897|charadriiformes|united_states|NA|2022-03-07">
+			<date value="2022.1780821917807" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern america
+			</attr>
+			<attr name="collection_countryname">
+				united states
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				42.2600509271849
+			</attr>
+			<attr name="long">
+				-71.808843036148
+			</attr>
+
+			
+			<attr name="location">
+				42.2600509271849 -71.808843036148
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17885998|anseriformes|united_states|2_1_1_1_1_1_1_1|2022-06-23">
+			<date value="2022.4739726027397" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern america
+			</attr>
+			<attr name="collection_countryname">
+				united states
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				42.2600509271849
+			</attr>
+			<attr name="long">
+				-71.808843036148
+			</attr>
+
+			
+			<attr name="location">
+				42.2600509271849 -71.808843036148
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414642|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-10-26">
+			<date value="2021.8164383561643" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				4.86037197499283
+			</attr>
+			<attr name="long">
+				6.92528956111943
+			</attr>
+
+			
+			<attr name="location">
+				4.86037197499283 6.92528956111943
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18846970|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18846971|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18846972|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18846973|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18847152|environment|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14871337|galliformes|benin|2_1_1_1_1_1_1_1|2021-09-01">
+			<date value="2021.6657534246576" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				benin
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.64834530386091
+			</attr>
+			<attr name="long">
+				2.33970693359707
+			</attr>
+
+			
+			<attr name="location">
+				9.64834530386091 2.33970693359707
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414656|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-06-25">
+			<date value="2021.4794520547946" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				4.76778423512924
+			</attr>
+			<attr name="long">
+				6.10529827090822
+			</attr>
+
+			
+			<attr name="location">
+				4.76778423512924 6.10529827090822
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15853010|ciconiiformes|south_africa|1_1_1_1_1_1_1_1|2022-02-08">
+			<date value="2022.1041095890412" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-26.1053974962555
+			</attr>
+			<attr name="long">
+				28.126943330491
+			</attr>
+
+			
+			<attr name="location">
+				-26.1053974962555 28.126943330491
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414597|NA|nigeria|2_1_1_1_1_1_1_1|2021-12-28">
+			<date value="2021.9890410958903" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414613|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-07">
+			<date value="2022.0164383561644" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				10.354940788533
+			</attr>
+			<attr name="long">
+				7.70696240441167
+			</attr>
+
+			
+			<attr name="location">
+				10.354940788533 7.70696240441167
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414657|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-06-30">
+			<date value="2021.4931506849316" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.20979731798597
+			</attr>
+			<attr name="long">
+				9.54756607799562
+			</attr>
+
+			
+			<attr name="location">
+				9.20979731798597 9.54756607799562
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_19085481|charadriiformes|south_africa|2_1_1_1_1_1_1_1|2024-03-08">
+			<date value="2024.1830601092897" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				-33.016256445291
+			</attr>
+			<attr name="long">
+				20.6109109128761
+			</attr>
+
+			
+			<attr name="location">
+				-33.016256445291 20.6109109128761
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_11007545|galliformes|niger|2_1_1_1_1_1_1_1|2022-01-01">
+			<date value="2022.0" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				17.416961812486
+			</attr>
+			<attr name="long">
+				9.34752038596442
+			</attr>
+
+			
+			<attr name="location">
+				17.416961812486 9.34752038596442
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15852179|galliformes|south_africa|NA|2021-10-27">
+			<date value="2021.8191780821917" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.9709136281448
+			</attr>
+			<attr name="long">
+				25.1981253246192
+			</attr>
+
+			
+			<attr name="location">
+				-28.9709136281448 25.1981253246192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14934884|galliformes|south_africa|1_1_1_1_1_1_1_1|2021-09-08">
+			<date value="2021.6849315068494" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15852625|galliformes|south_africa|1_1_1_1_1_1_1_1|2022-01-24">
+			<date value="2022.0630136986301" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-26.1053974962555
+			</attr>
+			<attr name="long">
+				28.126943330491
+			</attr>
+
+			
+			<attr name="location">
+				-26.1053974962555 28.126943330491
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15852182|suliformes|south_africa|NA|2021-10-28">
+			<date value="2021.8219178082193" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-28.9709136281448
+			</attr>
+			<attr name="long">
+				25.1981253246192
+			</attr>
+
+			
+			<attr name="location">
+				-28.9709136281448 25.1981253246192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14918892|galliformes|south_africa|1_1_1_1_1_1_1_1|2021-06-30">
+			<date value="2021.4931506849316" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414635|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-02-01">
+			<date value="2022.0849315068492" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				12.2156756549758
+			</attr>
+			<attr name="long">
+				9.55085496397132
+			</attr>
+
+			
+			<attr name="location">
+				12.2156756549758 9.55085496397132
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414662|anseriformes|nigeria|2_1_1_1_1_1_1_1|2021-05-28">
+			<date value="2021.4027397260274" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				6.52719428768168
+			</attr>
+			<attr name="long">
+				3.56492158964815
+			</attr>
+
+			
+			<attr name="location">
+				6.52719428768168 3.56492158964815
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414641|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-10-26">
+			<date value="2021.8164383561643" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				5.45166157527629
+			</attr>
+			<attr name="long">
+				7.50906571219372
+			</attr>
+
+			
+			<attr name="location">
+				5.45166157527629 7.50906571219372
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16997921|galliformes|ghana|2_1_1_1_1_1_1_1|2021-06-08">
+			<date value="2021.4328767123288" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				ghana
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				7.9638263738498
+			</attr>
+			<attr name="long">
+				-1.20832086013494
+			</attr>
+
+			
+			<attr name="location">
+				7.9638263738498 -1.20832086013494
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14918327|struthioniformes|south_africa|2_1_1_1_1_1_1_1|2021-06-23">
+			<date value="2021.4739726027397" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-33.016256445291
+			</attr>
+			<attr name="long">
+				20.6109109128761
+			</attr>
+
+			
+			<attr name="location">
+				-33.016256445291 20.6109109128761
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14542488|galliformes|south_africa|2_1_1_1_1_1_1_1|2021-04-09">
+			<date value="2021.268493150685" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-26.1053974962555
+			</attr>
+			<attr name="long">
+				28.126943330491
+			</attr>
+
+			
+			<attr name="location">
+				-26.1053974962555 28.126943330491
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16839065|suliformes|namibia|2_1_1_1_1_1_1_1|2022-01-27">
+			<date value="2022.0712328767124" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				namibia
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-22.0779804513922
+			</attr>
+			<attr name="long">
+				17.2076847589786
+			</attr>
+
+			
+			<attr name="location">
+				-22.0779804513922 17.2076847589786
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414631|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-26">
+			<date value="2022.0684931506848" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				12.0879383702902
+			</attr>
+			<attr name="long">
+				6.2614977357571
+			</attr>
+
+			
+			<attr name="location">
+				12.0879383702902 6.2614977357571
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414655|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-04-03">
+			<date value="2021.2520547945205" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				11.7356997144779
+			</attr>
+			<attr name="long">
+				8.51358459540793
+			</attr>
+
+			
+			<attr name="location">
+				11.7356997144779 8.51358459540793
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414668|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-03-21">
+			<date value="2021.2164383561644" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				10.4048391234083
+			</attr>
+			<attr name="long">
+				11.2449552554432
+			</attr>
+
+			
+			<attr name="location">
+				10.4048391234083 11.2449552554432
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414598|NA|nigeria|2_1_1_1_1_1_1_1|2021-12-28">
+			<date value="2021.9890410958903" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				6.20811508115918
+			</attr>
+			<attr name="long">
+				6.9305894901959
+			</attr>
+
+			
+			<attr name="location">
+				6.20811508115918 6.9305894901959
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414634|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-02-01">
+			<date value="2022.0849315068492" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				8.14334925475427
+			</attr>
+			<attr name="long">
+				3.61881206075384
+			</attr>
+
+			
+			<attr name="location">
+				8.14334925475427 3.61881206075384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414587|NA|nigeria|2_1_1_1_1_1_1_1|2021-10-16">
+			<date value="2021.7890410958903" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				7.0017747155077
+			</attr>
+			<attr name="long">
+				3.4674053159721
+			</attr>
+
+			
+			<attr name="location">
+				7.0017747155077 3.4674053159721
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414648|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-12-16">
+			<date value="2021.9561643835616" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.93587181689239
+			</attr>
+			<attr name="long">
+				5.60268175555151
+			</attr>
+
+			
+			<attr name="location">
+				9.93587181689239 5.60268175555151
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N2|2344b|EPI_ISL_17414667|galliformes|nigeria|2_1_1_1_1_28_6_1|2021-12-28">
+			<date value="2021.9890410958903" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N2
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				10.7743712595196
+			</attr>
+			<attr name="long">
+				9.98774039325803
+			</attr>
+
+			
+			<attr name="location">
+				10.7743712595196 9.98774039325803
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414620|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-12">
+			<date value="2022.0301369863014" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				8.86133952932799
+			</attr>
+			<attr name="long">
+				7.14160399725458
+			</attr>
+
+			
+			<attr name="location">
+				8.86133952932799 7.14160399725458
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15614803|pelecaniformes|egypt|2_1_1_1_1_1_1_1|2022-06-17">
+			<date value="2022.4575342465753" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17529372|anseriformes|egypt|1_1_2_1_1_1_1_1|2021-12-15">
+			<date value="2021.9534246575342" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18462525|ciconiiformes|nigeria|2_1_1_1_1_1_1_1|2022-03-01">
+			<date value="2022.1616438356164" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18112322|galliformes|united_kingdom|2_1_1_1_1_1_1_1|2021-02-10">
+			<date value="2021.109589041096" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="collection_countryname">
+				united kingdom
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				56.7931587491509
+			</attr>
+			<attr name="long">
+				-4.20419908814114
+			</attr>
+
+			
+			<attr name="location">
+				56.7931587491509 -4.20419908814114
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_5146696|accipitriformes|germany|NA|2021-04-28">
+			<date value="2021.3205479452056" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				germany
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.7642105761026
+			</attr>
+			<attr name="long">
+				9.16783937293005
+			</attr>
+
+			
+			<attr name="location">
+				52.7642105761026 9.16783937293005
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_7987339|galliformes|italy|NA|2021-10-11">
+			<date value="2021.7753424657535" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="collection_countryname">
+				italy
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				42.7080607219025
+			</attr>
+			<attr name="long">
+				12.208345049127
+			</attr>
+
+			
+			<attr name="location">
+				42.7080607219025 12.208345049127
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17791407|galliformes|netherlands|2_1_1_1_1_1_1_1|2020-12-14">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="collection_countryname">
+				netherlands
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				53.1100430768808
+			</attr>
+			<attr name="long">
+				5.84863928632393
+			</attr>
+
+			
+			<attr name="location">
+				53.1100430768808 5.84863928632393
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17212547|anseriformes|united_kingdom|2_1_1_1_1_1_1_1|2020-12-03">
+			<date value="2020.9207650273224" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="collection_countryname">
+				united kingdom
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_4061484|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-03-01">
+			<date value="2021.1616438356164" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_2276069|galliformes|senegal|2_1_1_1_1_1_1_1|2020-12-23">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				senegal
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.831526394723
+			</attr>
+			<attr name="long">
+				-16.7546068121427
+			</attr>
+
+			
+			<attr name="location">
+				14.831526394723 -16.7546068121427
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_9650269|anseriformes|sweden|NA|2021-12-20">
+			<date value="2021.9671232876713" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="collection_countryname">
+				sweden
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				62.374013544985
+			</attr>
+			<attr name="long">
+				16.2835241791686
+			</attr>
+
+			
+			<attr name="location">
+				62.374013544985 16.2835241791686
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18462535|anseriformes|nigeria|2_1_1_1_1_1_1_1|2022-03-01">
+			<date value="2022.1616438356164" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414646|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-11-30">
+			<date value="2021.9123287671232" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				10.7743712595196
+			</attr>
+			<attr name="long">
+				9.98774039325803
+			</attr>
+
+			
+			<attr name="location">
+				10.7743712595196 9.98774039325803
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414630|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-26">
+			<date value="2022.0684931506848" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				11.8922370151818
+			</attr>
+			<attr name="long">
+				13.1748649188857
+			</attr>
+
+			
+			<attr name="location">
+				11.8922370151818 13.1748649188857
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414636|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-02-02">
+			<date value="2022.0876712328768" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.3426200777514
+			</attr>
+			<attr name="long">
+				12.443001831073
+			</attr>
+
+			
+			<attr name="location">
+				9.3426200777514 12.443001831073
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414621|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-13">
+			<date value="2022.0328767123287" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				6.62406411939859
+			</attr>
+			<attr name="long">
+				5.9045044271078
+			</attr>
+
+			
+			<attr name="location">
+				6.62406411939859 5.9045044271078
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414633|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-30">
+			<date value="2022.0794520547945" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				6.26522248643496
+			</attr>
+			<attr name="long">
+				8.00212811926889
+			</attr>
+
+			
+			<attr name="location">
+				6.26522248643496 8.00212811926889
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414588|NA|nigeria|2_1_1_1_1_1_1_1|2021-10-28">
+			<date value="2021.8219178082193" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				6.53403695811186
+			</attr>
+			<attr name="long">
+				7.42105893133197
+			</attr>
+
+			
+			<attr name="location">
+				6.53403695811186 7.42105893133197
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14769966|galliformes|lesotho|2_1_1_1_1_1_1_1|2021-05-29">
+			<date value="2021.4054794520548" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				lesotho
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-29.5819622998706
+			</attr>
+			<attr name="long">
+				28.2484329985868
+			</attr>
+
+			
+			<attr name="location">
+				-29.5819622998706 28.2484329985868
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14640323|charadriiformes|south_africa|2_1_1_1_1_1_1_1|2021-05-20">
+			<date value="2021.3808219178081" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				-33.016256445291
+			</attr>
+			<attr name="long">
+				20.6109109128761
+			</attr>
+
+			
+			<attr name="location">
+				-33.016256445291 20.6109109128761
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14918217|galliformes|south_africa|2_1_1_1_1_1_1_1|2021-06-20">
+			<date value="2021.4657534246576" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14542530|galliformes|south_africa|2_1_1_1_1_1_1_1|2021-04-19">
+			<date value="2021.295890410959" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-26.2691351203481
+			</attr>
+			<attr name="long">
+				25.5243200600828
+			</attr>
+
+			
+			<attr name="location">
+				-26.2691351203481 25.5243200600828
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14710239|galliformes|south_africa|2_1_1_1_1_1_1_1|2021-05-31">
+			<date value="2021.4109589041095" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.6110435828424
+			</attr>
+			<attr name="long">
+				26.8801631625401
+			</attr>
+
+			
+			<attr name="location">
+				-28.6110435828424 26.8801631625401
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414610|NA|nigeria|2_1_1_1_1_1_1_1|2021-03-23">
+			<date value="2021.2219178082191" direction="forwards" units="years" />
+			<attr name="virus_subtype">
+				H5N1
+			</attr>
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="cluster_number">
+				profile0001
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				12.3716337687424
+			</attr>
+			<attr name="long">
+				7.62989372513377
+			</attr>
+
+			
+			<attr name="location">
+				12.3716337687424 7.62989372513377
+			</attr>
+
+			
+
+		</taxon>
+	</taxa>
+	
+	
+
+	
+	
+	<empiricalTreeDistributionModel id="treeModel" fileName="ns_africa_subsampled_relaxLn_Skygrid9-36_1000.trees"><taxa idref="taxa" /></empiricalTreeDistributionModel><statistic id="treeModel.currentTree" name="Current Tree"><empiricalTreeDistributionModel idref="treeModel" /></statistic><generalDataType id="virus_subtype.dataType">
+
+		
+		<state code="H5N1" />
+		<state code="H5N2" />
+		<state code="H5N5" />
+		<state code="H5N6" />
+		<state code="H5N8" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="collection_regionname.dataType">
+
+		
+		<state code="central asia" />
+		<state code="eastern asia" />
+		<state code="eastern europe" />
+		<state code="northern africa" />
+		<state code="northern america" />
+		<state code="northern europe" />
+		<state code="southern africa" />
+		<state code="southern asia" />
+		<state code="southern europe" />
+		<state code="western africa" />
+		<state code="western europe" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="collection_countryname.dataType">
+
+		
+		<state code="bangladesh" />
+		<state code="benin" />
+		<state code="bulgaria" />
+		<state code="burkina faso" />
+		<state code="china" />
+		<state code="egypt" />
+		<state code="france" />
+		<state code="gambia" />
+		<state code="germany" />
+		<state code="ghana" />
+		<state code="india" />
+		<state code="italy" />
+		<state code="lesotho" />
+		<state code="mali" />
+		<state code="namibia" />
+		<state code="netherlands" />
+		<state code="niger" />
+		<state code="nigeria" />
+		<state code="russia" />
+		<state code="senegal" />
+		<state code="south africa" />
+		<state code="sweden" />
+		<state code="united kingdom" />
+		<state code="united states" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="cluster_number.dataType">
+
+		
+		<state code="profile0001" />
+		<state code="profile0002" />
+		<state code="profile0004" />
+		<state code="profile0015" />
+		<state code="profileNA" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="host_simplifiedhost.dataType">
+
+		
+		<state code="anseriformes-domestic" />
+		<state code="anseriformes-wild" />
+		<state code="charadriiformes-wild" />
+		<state code="environment" />
+		<state code="galliformes-domestic" />
+		<state code="galliformes-wild" />
+		<state code="other-bird" />
+	</generalDataType>
+
+
+	
+	<attributePatterns id="virus_subtype.pattern" attribute="virus_subtype">
+		<taxa idref="taxa" />
+		<generalDataType idref="virus_subtype.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="collection_regionname.pattern" attribute="collection_regionname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_regionname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="collection_countryname.pattern" attribute="collection_countryname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_countryname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="cluster_number.pattern" attribute="cluster_number">
+		<taxa idref="taxa" />
+		<generalDataType idref="cluster_number.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="host_simplifiedhost.pattern" attribute="host_simplifiedhost">
+		<taxa idref="taxa" />
+		<generalDataType idref="host_simplifiedhost.dataType" />
+	</attributePatterns>
+
+	
+
+
+	
+	
+	<strictClockBranchRates id="virus_subtype.branchRates">
+		<rate>
+			<parameter id="virus_subtype.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="virus_subtype.meanRate" name="virus_subtype.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="virus_subtype.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="collection_regionname.branchRates">
+		<rate>
+			<parameter id="collection_regionname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_regionname.meanRate" name="collection_regionname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_regionname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="collection_countryname.branchRates">
+		<rate>
+			<parameter id="collection_countryname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_countryname.meanRate" name="collection_countryname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_countryname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="cluster_number.branchRates">
+		<rate>
+			<parameter id="cluster_number.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="cluster_number.meanRate" name="cluster_number.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="cluster_number.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="host_simplifiedhost.branchRates">
+		<rate>
+			<parameter id="host_simplifiedhost.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="host_simplifiedhost.meanRate" name="host_simplifiedhost.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<multivariateDiffusionModel id="location.diffusionModel">
+		<precisionMatrix>
+			<matrixParameter id="location.precision">
+				<parameter id="location.precision.col1" value="0.05 0.002" />
+				<parameter id="location.precision.col2" value="0.002 0.05" />
+			</matrixParameter>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+	<multivariateWishartPrior id="location.precisionPrior" df="2">
+		<scaleMatrix>
+			<matrixParameter>
+				<parameter value="1.0 0.0" />
+				<parameter value="0.0 1.0" />
+			</matrixParameter>
+		</scaleMatrix>
+		<data>
+			<parameter idref="location.precision" />
+		</data>
+	</multivariateWishartPrior>
+
+	
+
+
+	
+	<multivariateTraitLikelihood id="location.traitLikelihood" traitName="location" useTreeLength="true" scaleByTime="true" reportAsMultivariate="true" reciprocalRates="true" integrateInternalTraits="true">
+		<multivariateDiffusionModel idref="location.diffusionModel" />
+		<treeModel idref="treeModel" /><traitParameter>
+			<parameter id="leaf.location" />
+		</traitParameter>
+		<conjugateRootPrior>
+			<meanParameter>
+				<parameter value="0.0 0.0" />
+			</meanParameter>
+			<priorSampleSize>
+				<parameter value="0.000001" />
+			</priorSampleSize>
+		</conjugateRootPrior>
+	</multivariateTraitLikelihood>
+	<correlation id="location.correlation" dimension1="1" dimension2="2">
+		<matrixParameter idref="location.precision" />
+	</correlation>
+	<matrixInverse id="location.varCovar">
+		<matrixParameter idref="location.precision" />
+	</matrixInverse>
+	<continuousDiffusionStatistic id="location.diffusionRate" greatCircleDistance="true">
+		<multivariateTraitLikelihood idref="location.traitLikelihood" />
+	</continuousDiffusionStatistic>
+
+	
+
+
+	
+
+	
+	<generalSubstitutionModel id="virus_subtype.model" randomizeIndicator="false">
+		<generalDataType idref="virus_subtype.dataType" />
+		<frequencies>
+			<frequencyModel id="virus_subtype.frequencyModel" normalize="true">
+				<generalDataType idref="virus_subtype.dataType" />
+				<frequencies>
+					<parameter id="virus_subtype.frequencies" dimension="5" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="virus_subtype.rates" dimension="20" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="virus_subtype.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="virus_subtype.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="collection_regionname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_regionname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_regionname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_regionname.dataType" />
+				<frequencies>
+					<parameter id="collection_regionname.frequencies" dimension="11" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_regionname.rates" dimension="110" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_regionname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_regionname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="collection_countryname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_countryname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_countryname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_countryname.dataType" />
+				<frequencies>
+					<parameter id="collection_countryname.frequencies" dimension="24" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_countryname.rates" dimension="552" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_countryname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_countryname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="cluster_number.model" randomizeIndicator="false">
+		<generalDataType idref="cluster_number.dataType" />
+		<frequencies>
+			<frequencyModel id="cluster_number.frequencyModel" normalize="true">
+				<generalDataType idref="cluster_number.dataType" />
+				<frequencies>
+					<parameter id="cluster_number.frequencies" dimension="5" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="cluster_number.rates" dimension="20" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="cluster_number.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="cluster_number.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="host_simplifiedhost.model" randomizeIndicator="false">
+		<generalDataType idref="host_simplifiedhost.dataType" />
+		<frequencies>
+			<frequencyModel id="host_simplifiedhost.frequencyModel" normalize="true">
+				<generalDataType idref="host_simplifiedhost.dataType" />
+				<frequencies>
+					<parameter id="host_simplifiedhost.frequencies" dimension="7" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="host_simplifiedhost.rates" dimension="42" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="host_simplifiedhost.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<ancestralTreeLikelihood id="virus_subtype.treeLikelihood" stateTagName="virus_subtype.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="virus_subtype.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="virus_subtype.siteModel" />
+		<generalSubstitutionModel idref="virus_subtype.model" />
+		<generalSubstitutionModel idref="virus_subtype.model" />
+		<strictClockBranchRates idref="virus_subtype.branchRates" />
+
+		
+		<frequencyModel id="virus_subtype.root.frequencyModel" normalize="true">
+			<generalDataType idref="virus_subtype.dataType" />
+			<frequencies>
+				<parameter id="virus_subtype.root.frequencies" dimension="5" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="collection_regionname.treeLikelihood" stateTagName="collection_regionname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_regionname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_regionname.siteModel" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<strictClockBranchRates idref="collection_regionname.branchRates" />
+
+		
+		<frequencyModel id="collection_regionname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_regionname.dataType" />
+			<frequencies>
+				<parameter id="collection_regionname.root.frequencies" dimension="11" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="collection_countryname.treeLikelihood" stateTagName="collection_countryname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_countryname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_countryname.siteModel" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<strictClockBranchRates idref="collection_countryname.branchRates" />
+
+		
+		<frequencyModel id="collection_countryname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_countryname.dataType" />
+			<frequencies>
+				<parameter id="collection_countryname.root.frequencies" dimension="24" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="cluster_number.treeLikelihood" stateTagName="cluster_number.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="cluster_number.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="cluster_number.siteModel" />
+		<generalSubstitutionModel idref="cluster_number.model" />
+		<generalSubstitutionModel idref="cluster_number.model" />
+		<strictClockBranchRates idref="cluster_number.branchRates" />
+
+		
+		<frequencyModel id="cluster_number.root.frequencyModel" normalize="true">
+			<generalDataType idref="cluster_number.dataType" />
+			<frequencies>
+				<parameter id="cluster_number.root.frequencies" dimension="5" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="host_simplifiedhost.treeLikelihood" stateTagName="host_simplifiedhost.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="host_simplifiedhost.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="host_simplifiedhost.siteModel" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+		
+		<frequencyModel id="host_simplifiedhost.root.frequencyModel" normalize="true">
+			<generalDataType idref="host_simplifiedhost.dataType" />
+			<frequencies>
+				<parameter id="host_simplifiedhost.root.frequencies" dimension="7" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+	
+
+
+	
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="virus_subtype.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_regionname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_countryname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="cluster_number.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="host_simplifiedhost.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="virus_subtype.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_regionname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_countryname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="cluster_number.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="host_simplifiedhost.rates" />
+		</scaleOperator>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="virus_subtype.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_regionname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_countryname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="cluster_number.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="host_simplifiedhost.root.frequencies" />
+		</deltaExchange>
+
+		
+		<precisionGibbsOperator weight="2">
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			<multivariateWishartPrior idref="location.precisionPrior" />
+		</precisionGibbsOperator>
+
+		
+
+	<empiricalTreeDistributionOperator weight="3"><empiricalTreeDistributionModel idref="treeModel" /></empiricalTreeDistributionOperator></operators>
+	
+
+	
+	<mcmc id="mcmc" chainLength="2000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="virus_subtype.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_regionname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_countryname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="cluster_number.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="host_simplifiedhost.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="virus_subtype.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="virus_subtype.rates" />
+					</gammaPrior>
+					<parameter idref="virus_subtype.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_regionname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_regionname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_countryname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_countryname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="cluster_number.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="cluster_number.rates" />
+					</gammaPrior>
+					<parameter idref="cluster_number.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="host_simplifiedhost.rates" />
+					</gammaPrior>
+					<parameter idref="host_simplifiedhost.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="virus_subtype.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="cluster_number.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.root.frequencies" />
+				</uniformPrior>
+				<strictClockBranchRates idref="virus_subtype.branchRates" />
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+				<strictClockBranchRates idref="cluster_number.branchRates" />
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+				
+				<multivariateWishartPrior idref="location.precisionPrior" />
+
+				
+
+			</prior>
+			<likelihood id="likelihood">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+				
+
+
+				
+				<ancestralTreeLikelihood idref="virus_subtype.treeLikelihood" />
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="cluster_number.treeLikelihood" />
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+				
+
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="200">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint" />
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior" />
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="virus_subtype.clock.rate" sf="6" width="12">
+				<parameter idref="virus_subtype.clock.rate" />
+			</column>
+			<column label="collection_regionname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_regionname.clock.rate" />
+			</column>
+			<column label="collection_countryname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_countryname.clock.rate" />
+			</column>
+			<column label="cluster_number.clock.rate" sf="6" width="12">
+				<parameter idref="cluster_number.clock.rate" />
+			</column>
+			<column label="host_simplifiedhost.clock.rate" sf="6" width="12">
+				<parameter idref="host_simplifiedhost.clock.rate" />
+			</column>
+
+			
+
+			
+
+		</log>
+
+		
+		<log id="fileLog" logEvery="200" fileName="ns_africa_subsampled_traits.log" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<parameter idref="virus_subtype.clock.rate" />
+			<parameter idref="collection_regionname.clock.rate" />
+			<parameter idref="collection_countryname.clock.rate" />
+			<parameter idref="cluster_number.clock.rate" />
+			<parameter idref="host_simplifiedhost.clock.rate" />
+			<rateStatistic idref="virus_subtype.meanRate" />
+			<rateStatistic idref="collection_regionname.meanRate" />
+			<rateStatistic idref="collection_countryname.meanRate" />
+			<rateStatistic idref="cluster_number.meanRate" />
+			<rateStatistic idref="host_simplifiedhost.meanRate" />
+
+			
+			<matrixParameter idref="location.precision" />
+			<correlation idref="location.correlation" />
+			<matrixInverse idref="location.varCovar" />
+			<continuousDiffusionStatistic idref="location.diffusionRate" />
+
+			
+
+
+			
+			<parameter idref="virus_subtype.rates" />
+			<parameter idref="collection_regionname.rates" />
+			<parameter idref="collection_countryname.rates" />
+			<parameter idref="cluster_number.rates" />
+			<parameter idref="host_simplifiedhost.rates" />
+
+			
+
+			<strictClockBranchRates idref="virus_subtype.branchRates" />
+			<strictClockBranchRates idref="collection_regionname.branchRates" />
+			<strictClockBranchRates idref="collection_countryname.branchRates" />
+			<strictClockBranchRates idref="cluster_number.branchRates" />
+			<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+			
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+
+			
+			<ancestralTreeLikelihood idref="virus_subtype.treeLikelihood" />
+			<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="cluster_number.treeLikelihood" />
+			<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+			
+
+			</log>
+
+		
+		<log id="ns_africa_subsampled_traits.virus_subtyperateMatrixLog" logEvery="200" fileName="ns_africa_subsampled_traits.virus_subtype.rates.log">
+			<parameter idref="virus_subtype.rates" />
+		</log>
+		<log id="ns_africa_subsampled_traits.collection_regionnamerateMatrixLog" logEvery="200" fileName="ns_africa_subsampled_traits.collection_regionname.rates.log">
+			<parameter idref="collection_regionname.rates" />
+		</log>
+		<log id="ns_africa_subsampled_traits.collection_countrynamerateMatrixLog" logEvery="200" fileName="ns_africa_subsampled_traits.collection_countryname.rates.log">
+			<parameter idref="collection_countryname.rates" />
+		</log>
+		<log id="ns_africa_subsampled_traits.cluster_numberrateMatrixLog" logEvery="200" fileName="ns_africa_subsampled_traits.cluster_number.rates.log">
+			<parameter idref="cluster_number.rates" />
+		</log>
+		<log id="ns_africa_subsampled_traits.host_simplifiedhostrateMatrixLog" logEvery="200" fileName="ns_africa_subsampled_traits.host_simplifiedhost.rates.log">
+			<parameter idref="host_simplifiedhost.rates" />
+		</log>
+
+		
+
+
+		
+		<logTree id="treeFileLog" logEvery="200" nexusFormat="true" fileName="ns_africa_subsampled_traits.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel" /><trait name="rate" tag="virus_subtype.rate">
+				<strictClockBranchRates idref="virus_subtype.branchRates" />
+			</trait>
+			<trait name="rate" tag="collection_regionname.rate">
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+			</trait>
+			<trait name="rate" tag="collection_countryname.rate">
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+			</trait>
+			<trait name="rate" tag="cluster_number.rate">
+				<strictClockBranchRates idref="cluster_number.branchRates" />
+			</trait>
+			<trait name="rate" tag="host_simplifiedhost.rate">
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+			</trait>
+			<joint idref="joint" />
+
+			
+			<trait name="virus_subtype.states" tag="virus_subtype">
+				<ancestralTreeLikelihood idref="virus_subtype.treeLikelihood" />
+			</trait>
+			<trait name="collection_regionname.states" tag="collection_regionname">
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			</trait>
+			<trait name="collection_countryname.states" tag="collection_countryname">
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			</trait>
+			<trait name="cluster_number.states" tag="cluster_number">
+				<ancestralTreeLikelihood idref="cluster_number.treeLikelihood" />
+			</trait>
+			<trait name="host_simplifiedhost.states" tag="host_simplifiedhost">
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+			</trait>
+			<trait name="location" tag="location">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			</trait>
+
+			
+
+
+			
+			<multivariateDiffusionModel idref="location.diffusionModel" />
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+		</logTree>
+	</mcmc>
+	
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+	
+</beast>

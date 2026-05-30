@@ -1,0 +1,6407 @@
+<beast version="1.10.4">
+	
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="H5N1|2344b|EPI_ISL_18127710|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date direction="forwards" units="years" value="2023.2465753424658" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127713|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date direction="forwards" units="years" value="2023.2465753424658" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127714|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date direction="forwards" units="years" value="2023.2465753424658" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15579539|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2022-10-02">
+			<date direction="forwards" units="years" value="2022.7506849315068" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				53.1100430768808
+			</attr>
+			<attr name="long">
+				5.84863928632393
+			</attr>
+
+			
+			<attr name="location">
+				53.1100430768808 5.84863928632393
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15878539|carnivora|france|1_1_4_1_4_1_1_4|2022-10-18">
+			<date direction="forwards" units="years" value="2022.7945205479452" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13519451|charadriiformes|france|1_1_4_1_4_1_1_4|2022-05-11">
+			<date direction="forwards" units="years" value="2022.3561643835617" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.9664542920368
+			</attr>
+			<attr name="long">
+				2.77424482433678
+			</attr>
+
+			
+			<attr name="location">
+				49.9664542920368 2.77424482433678
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13782459|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-06-15">
+			<date direction="forwards" units="years" value="2022.4520547945206" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14494796|carnivora|belgium|1_1_4_1_4_1_1_4|2022-06-16">
+			<date direction="forwards" units="years" value="2022.454794520548" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15957624|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-10-18">
+			<date direction="forwards" units="years" value="2022.7945205479452" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13778468|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2022-06-07">
+			<date direction="forwards" units="years" value="2022.4301369863015" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.4517197034959
+			</attr>
+			<attr name="long">
+				3.83526799798383
+			</attr>
+
+			
+			<attr name="location">
+				51.4517197034959 3.83526799798383
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15957660|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-10-21">
+			<date direction="forwards" units="years" value="2022.8027397260273" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.3299411115892
+			</attr>
+			<attr name="long">
+				-3.76558183366802
+			</attr>
+
+			
+			<attr name="location">
+				52.3299411115892 -3.76558183366802
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16507096|carnivora|france|1_1_4_1_4_1_1_4|2022-10-26">
+			<date direction="forwards" units="years" value="2022.8164383561643" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16524203|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2022-12-23">
+			<date direction="forwards" units="years" value="2022.9753424657533" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16524213|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-01-01">
+			<date direction="forwards" units="years" value="2023.0" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16524247|falconiformes|netherlands|1_1_4_1_4_1_1_4|2023-01-02">
+			<date direction="forwards" units="years" value="2023.0027397260274" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17072388|carnivora|united_kingdom|1_1_4_1_4_1_1_4|2022-08-23">
+			<date direction="forwards" units="years" value="2022.641095890411" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17208160|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-02-19">
+			<date direction="forwards" units="years" value="2023.1342465753426" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5266976905946
+			</attr>
+			<attr name="long">
+				5.60009163363913
+			</attr>
+
+			
+			<attr name="location">
+				52.5266976905946 5.60009163363913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17233302|carnivora|france|1_1_4_1_4_1_1_4|2023-02-10">
+			<date direction="forwards" units="years" value="2023.109589041096" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				48.7090354165318
+			</attr>
+			<attr name="long">
+				2.5047814681706
+			</attr>
+
+			
+			<attr name="location">
+				48.7090354165318 2.5047814681706
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17244973|carnivora|belgium|1_1_4_1_4_1_1_4|2023-02-27">
+			<date direction="forwards" units="years" value="2023.1561643835616" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17470106|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-04">
+			<date direction="forwards" units="years" value="2023.2547945205479" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.9969098943343
+			</attr>
+			<attr name="long">
+				14.5545810187162
+			</attr>
+
+			
+			<attr name="location">
+				49.9969098943343 14.5545810187162
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17470108|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-04">
+			<date direction="forwards" units="years" value="2023.2547945205479" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.9969098943343
+			</attr>
+			<attr name="long">
+				14.5545810187162
+			</attr>
+
+			
+			<attr name="location">
+				49.9969098943343 14.5545810187162
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17470109|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-04">
+			<date direction="forwards" units="years" value="2023.2547945205479" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.9969098943343
+			</attr>
+			<attr name="long">
+				14.5545810187162
+			</attr>
+
+			
+			<attr name="location">
+				49.9969098943343 14.5545810187162
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17547369|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-30">
+			<date direction="forwards" units="years" value="2023.2410958904109" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584810|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-03">
+			<date direction="forwards" units="years" value="2023.2520547945205" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.0792008172895
+			</attr>
+			<attr name="long">
+				16.6634176148425
+			</attr>
+
+			
+			<attr name="location">
+				49.0792008172895 16.6634176148425
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584812|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-11">
+			<date direction="forwards" units="years" value="2023.2739726027398" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.0792008172895
+			</attr>
+			<attr name="long">
+				16.6634176148425
+			</attr>
+
+			
+			<attr name="location">
+				49.0792008172895 16.6634176148425
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584813|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-11">
+			<date direction="forwards" units="years" value="2023.2739726027398" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.0928166218663
+			</attr>
+			<attr name="long">
+				14.4391547985202
+			</attr>
+
+			
+			<attr name="location">
+				49.0928166218663 14.4391547985202
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584814|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-11">
+			<date direction="forwards" units="years" value="2023.2739726027398" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.0928166218663
+			</attr>
+			<attr name="long">
+				14.4391547985202
+			</attr>
+
+			
+			<attr name="location">
+				49.0928166218663 14.4391547985202
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584817|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-12">
+			<date direction="forwards" units="years" value="2023.2767123287672" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.2395239668424
+			</attr>
+			<attr name="long">
+				17.7694110590927
+			</attr>
+
+			
+			<attr name="location">
+				49.2395239668424 17.7694110590927
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584820|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-13">
+			<date direction="forwards" units="years" value="2023.2794520547945" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				50.5294097303953
+			</attr>
+			<attr name="long">
+				13.8509106160886
+			</attr>
+
+			
+			<attr name="location">
+				50.5294097303953 13.8509106160886
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584821|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-13">
+			<date direction="forwards" units="years" value="2023.2794520547945" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				50.5294097303953
+			</attr>
+			<attr name="long">
+				13.8509106160886
+			</attr>
+
+			
+			<attr name="location">
+				50.5294097303953 13.8509106160886
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584825|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-13">
+			<date direction="forwards" units="years" value="2023.2794520547945" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				50.5294097303953
+			</attr>
+			<attr name="long">
+				13.8509106160886
+			</attr>
+
+			
+			<attr name="location">
+				50.5294097303953 13.8509106160886
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17584827|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-20">
+			<date direction="forwards" units="years" value="2023.2986301369863" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.7786245115919
+			</attr>
+			<attr name="long">
+				17.190355445158
+			</attr>
+
+			
+			<attr name="location">
+				49.7786245115919 17.190355445158
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17625761|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-04-09">
+			<date direction="forwards" units="years" value="2023.268493150685" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5266976905946
+			</attr>
+			<attr name="long">
+				5.60009163363913
+			</attr>
+
+			
+			<attr name="location">
+				52.5266976905946 5.60009163363913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17625762|accipitriformes|netherlands|1_1_4_1_4_1_1_4|2023-04-11">
+			<date direction="forwards" units="years" value="2023.2739726027398" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17626171|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-04-30">
+			<date direction="forwards" units="years" value="2023.3260273972603" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5266976905946
+			</attr>
+			<attr name="long">
+				5.60009163363913
+			</attr>
+
+			
+			<attr name="location">
+				52.5266976905946 5.60009163363913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17626173|falconiformes|netherlands|1_1_4_1_4_1_1_4|2023-04-04">
+			<date direction="forwards" units="years" value="2023.2547945205479" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17626175|falconiformes|netherlands|1_1_4_1_4_1_1_4|2023-04-04">
+			<date direction="forwards" units="years" value="2023.2547945205479" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17650918|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.8368899304208
+			</attr>
+			<attr name="long">
+				17.9578982609586
+			</attr>
+
+			
+			<attr name="location">
+				49.8368899304208 17.9578982609586
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17650920|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-05-02">
+			<date direction="forwards" units="years" value="2023.331506849315" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.8368899304208
+			</attr>
+			<attr name="long">
+				17.9578982609586
+			</attr>
+
+			
+			<attr name="location">
+				49.8368899304208 17.9578982609586
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679735|galliformes|italy|1_1_4_1_4_1_1_4|2023-03-30">
+			<date direction="forwards" units="years" value="2023.2410958904109" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				45.6595758067318
+			</attr>
+			<attr name="long">
+				11.8428083995249
+			</attr>
+
+			
+			<attr name="location">
+				45.6595758067318 11.8428083995249
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679739|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-03-10">
+			<date direction="forwards" units="years" value="2023.186301369863" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.6595758067318
+			</attr>
+			<attr name="long">
+				11.8428083995249
+			</attr>
+
+			
+			<attr name="location">
+				45.6595758067318 11.8428083995249
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679747|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-03-13">
+			<date direction="forwards" units="years" value="2023.194520547945" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.6595758067318
+			</attr>
+			<attr name="long">
+				11.8428083995249
+			</attr>
+
+			
+			<attr name="location">
+				45.6595758067318 11.8428083995249
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679751|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-02-23">
+			<date direction="forwards" units="years" value="2023.145205479452" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.6595758067318
+			</attr>
+			<attr name="long">
+				11.8428083995249
+			</attr>
+
+			
+			<attr name="location">
+				45.6595758067318 11.8428083995249
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679753|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-02-21">
+			<date direction="forwards" units="years" value="2023.1397260273973" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.6595758067318
+			</attr>
+			<attr name="long">
+				11.8428083995249
+			</attr>
+
+			
+			<attr name="location">
+				45.6595758067318 11.8428083995249
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679780|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-01-25">
+			<date direction="forwards" units="years" value="2023.0657534246575" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.6595758067318
+			</attr>
+			<attr name="long">
+				11.8428083995249
+			</attr>
+
+			
+			<attr name="location">
+				45.6595758067318 11.8428083995249
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679803|charadriiformes|france|1_1_4_1_4_1_1_4|2023-01-09">
+			<date direction="forwards" units="years" value="2023.021917808219" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679806|charadriiformes|france|1_1_4_1_4_1_1_4|2023-02-09">
+			<date direction="forwards" units="years" value="2023.1068493150685" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17679811|charadriiformes|france|1_1_4_1_4_1_1_4|2023-01-31">
+			<date direction="forwards" units="years" value="2023.0821917808219" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17699034|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-05-07">
+			<date direction="forwards" units="years" value="2023.345205479452" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17699037|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-05-07">
+			<date direction="forwards" units="years" value="2023.345205479452" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716065|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-03-14">
+			<date direction="forwards" units="years" value="2023.1972602739727" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.2089421257604
+			</attr>
+			<attr name="long">
+				16.3790253882177
+			</attr>
+
+			
+			<attr name="location">
+				48.2089421257604 16.3790253882177
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716066|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-03-27">
+			<date direction="forwards" units="years" value="2023.2328767123288" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.2089421257604
+			</attr>
+			<attr name="long">
+				16.3790253882177
+			</attr>
+
+			
+			<attr name="location">
+				48.2089421257604 16.3790253882177
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716070|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-04-25">
+			<date direction="forwards" units="years" value="2023.3123287671233" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.2089421257604
+			</attr>
+			<attr name="long">
+				16.3790253882177
+			</attr>
+
+			
+			<attr name="location">
+				48.2089421257604 16.3790253882177
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716071|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-04-27">
+			<date direction="forwards" units="years" value="2023.317808219178" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.1371934331394
+			</attr>
+			<attr name="long">
+				13.9653618911462
+			</attr>
+
+			
+			<attr name="location">
+				48.1371934331394 13.9653618911462
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716072|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-04-27">
+			<date direction="forwards" units="years" value="2023.317808219178" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.1371934331394
+			</attr>
+			<attr name="long">
+				13.9653618911462
+			</attr>
+
+			
+			<attr name="location">
+				48.1371934331394 13.9653618911462
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716075|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-05-05">
+			<date direction="forwards" units="years" value="2023.3397260273973" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				47.3885937043155
+			</attr>
+			<attr name="long">
+				13.0848644916096
+			</attr>
+
+			
+			<attr name="location">
+				47.3885937043155 13.0848644916096
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716077|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-05-05">
+			<date direction="forwards" units="years" value="2023.3397260273973" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				47.3885937043155
+			</attr>
+			<attr name="long">
+				13.0848644916096
+			</attr>
+
+			
+			<attr name="location">
+				47.3885937043155 13.0848644916096
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716079|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-05-09">
+			<date direction="forwards" units="years" value="2023.3506849315067" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.2089421257604
+			</attr>
+			<attr name="long">
+				16.3790253882177
+			</attr>
+
+			
+			<attr name="location">
+				48.2089421257604 16.3790253882177
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716088|accipitriformes|austria|1_1_4_1_4_1_1_4|2023-04-12">
+			<date direction="forwards" units="years" value="2023.2767123287672" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				48.2718646696418
+			</attr>
+			<attr name="long">
+				15.7529218938467
+			</attr>
+
+			
+			<attr name="location">
+				48.2718646696418 15.7529218938467
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17732340|falconiformes|czechia|1_1_4_1_4_1_1_4|2023-05-17">
+			<date direction="forwards" units="years" value="2023.372602739726" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				50.3852537596798
+			</attr>
+			<attr name="long">
+				15.8661896036913
+			</attr>
+
+			
+			<attr name="location">
+				50.3852537596798 15.8661896036913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17736649|primates|united_kingdom|1_1_4_1_4_1_1_4|2023-05-06">
+			<date direction="forwards" units="years" value="2023.3424657534247" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				human
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17786646|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-05-08">
+			<date direction="forwards" units="years" value="2023.3479452054794" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17830868|falconiformes|belgium|1_1_4_1_4_1_1_4|2023-04-11">
+			<date direction="forwards" units="years" value="2023.2739726027398" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17831040|falconiformes|belgium|1_1_4_1_4_1_1_4|2023-05-07">
+			<date direction="forwards" units="years" value="2023.345205479452" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17831136|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-05-17">
+			<date direction="forwards" units="years" value="2023.372602739726" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17831137|passeriformes|united_kingdom|1_1_4_1_4_1_1_4|2023-05-16">
+			<date direction="forwards" units="years" value="2023.3698630136987" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17831138|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-05-09">
+			<date direction="forwards" units="years" value="2023.3506849315067" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17831140|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-05-13">
+			<date direction="forwards" units="years" value="2023.3616438356164" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17859569|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-06-15">
+			<date direction="forwards" units="years" value="2023.4520547945206" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				57.1855292476939
+			</attr>
+			<attr name="long">
+				16.1305148015024
+			</attr>
+
+			
+			<attr name="location">
+				57.1855292476939 16.1305148015024
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17880914|carnivora|germany|1_1_4_1_4_1_1_4|2023-03-29">
+			<date direction="forwards" units="years" value="2023.2383561643835" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				52.7642105761026
+			</attr>
+			<attr name="long">
+				9.16783937293005
+			</attr>
+
+			
+			<attr name="location">
+				52.7642105761026 9.16783937293005
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17884625|falconiformes|czechia|1_1_4_1_4_1_1_4|2023-05-26">
+			<date direction="forwards" units="years" value="2023.3972602739725" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				50.3852537596798
+			</attr>
+			<attr name="long">
+				15.8661896036913
+			</attr>
+
+			
+			<attr name="location">
+				50.3852537596798 15.8661896036913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17884626|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-05-05">
+			<date direction="forwards" units="years" value="2023.3397260273973" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.0792008172895
+			</attr>
+			<attr name="long">
+				16.6634176148425
+			</attr>
+
+			
+			<attr name="location">
+				49.0792008172895 16.6634176148425
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16574529|galliformes|isle_of_man|1_1_4_1_4_1_1_4|2022-12-26">
+			<date direction="forwards" units="years" value="2022.9835616438356" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.2274459818122
+			</attr>
+			<attr name="long">
+				-4.5394736212416
+			</attr>
+
+			
+			<attr name="location">
+				54.2274459818122 -4.5394736212416
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16984642|anseriformes|belgium|1_1_4_1_4_1_1_4|2023-01-02">
+			<date direction="forwards" units="years" value="2023.0027397260274" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16984863|charadriiformes|belgium|1_1_4_1_4_1_1_4|2023-01-02">
+			<date direction="forwards" units="years" value="2023.0027397260274" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				50.3127973408239
+			</attr>
+			<attr name="long">
+				5.0143267931739
+			</attr>
+
+			
+			<attr name="location">
+				50.3127973408239 5.0143267931739
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17267146|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-05">
+			<date direction="forwards" units="years" value="2023.172602739726" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.083727924893
+			</attr>
+			<attr name="long">
+				5.16763788059654
+			</attr>
+
+			
+			<attr name="location">
+				52.083727924893 5.16763788059654
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17267148|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-03">
+			<date direction="forwards" units="years" value="2023.1671232876713" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.9374604216783
+			</attr>
+			<attr name="long">
+				4.46477045234472
+			</attr>
+
+			
+			<attr name="location">
+				51.9374604216783 4.46477045234472
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17267150|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-05">
+			<date direction="forwards" units="years" value="2023.172602739726" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.083727924893
+			</attr>
+			<attr name="long">
+				5.16763788059654
+			</attr>
+
+			
+			<attr name="location">
+				52.083727924893 5.16763788059654
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17409673|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-10">
+			<date direction="forwards" units="years" value="2023.186301369863" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.083727924893
+			</attr>
+			<attr name="long">
+				5.16763788059654
+			</attr>
+
+			
+			<attr name="location">
+				52.083727924893 5.16763788059654
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17409675|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-24">
+			<date direction="forwards" units="years" value="2023.2246575342465" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17521022|anseriformes|united_kingdom|1_1_4_1_4_1_1_4|2023-03-30">
+			<date direction="forwards" units="years" value="2023.2410958904109" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17521023|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2023-03-30">
+			<date direction="forwards" units="years" value="2023.2410958904109" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17599451|galliformes|belgium|1_1_4_1_4_1_1_4|2023-02-27">
+			<date direction="forwards" units="years" value="2023.1561643835616" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17599455|falconiformes|belgium|1_1_4_1_4_1_1_4|2023-03-01">
+			<date direction="forwards" units="years" value="2023.1616438356164" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17599532|charadriiformes|belgium|1_1_4_1_4_1_1_4|2023-01-12">
+			<date direction="forwards" units="years" value="2023.0301369863014" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				50.3127973408239
+			</attr>
+			<attr name="long">
+				5.0143267931739
+			</attr>
+
+			
+			<attr name="location">
+				50.3127973408239 5.0143267931739
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17606260|galliformes|belgium|1_1_4_1_4_1_1_4|2023-03-22">
+			<date direction="forwards" units="years" value="2023.2191780821918" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17606263|carnivora|belgium|1_1_4_1_4_1_1_4|2023-02-10">
+			<date direction="forwards" units="years" value="2023.109589041096" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17606756|carnivora|belgium|1_1_4_1_4_1_1_4|2023-03-14">
+			<date direction="forwards" units="years" value="2023.1972602739727" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17606759|charadriiformes|belgium|1_1_4_1_4_1_1_4|2023-02-16">
+			<date direction="forwards" units="years" value="2023.1260273972603" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17657734|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2023-04-28">
+			<date direction="forwards" units="years" value="2023.3205479452056" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17672077|charadriiformes|luxembourg|1_1_4_1_4_1_1_4|2023-05-12">
+			<date direction="forwards" units="years" value="2023.358904109589" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.6868212553332
+			</attr>
+			<attr name="long">
+				6.34949296820615
+			</attr>
+
+			
+			<attr name="location">
+				49.6868212553332 6.34949296820615
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17672954|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17710028|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-05-01">
+			<date direction="forwards" units="years" value="2023.3287671232877" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17710031|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-04-14">
+			<date direction="forwards" units="years" value="2023.282191780822" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716780|charadriiformes|denmark|1_1_4_1_4_1_1_4|2023-05-01">
+			<date direction="forwards" units="years" value="2023.3287671232877" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				55.3568797999445
+			</attr>
+			<attr name="long">
+				9.45020901930698
+			</attr>
+
+			
+			<attr name="location">
+				55.3568797999445 9.45020901930698
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716812|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.9006406346158
+			</attr>
+			<attr name="long">
+				16.1892997029385
+			</attr>
+
+			
+			<attr name="location">
+				49.9006406346158 16.1892997029385
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716813|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.9006406346158
+			</attr>
+			<attr name="long">
+				16.1892997029385
+			</attr>
+
+			
+			<attr name="location">
+				49.9006406346158 16.1892997029385
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716814|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.8368899304208
+			</attr>
+			<attr name="long">
+				17.9578982609586
+			</attr>
+
+			
+			<attr name="location">
+				49.8368899304208 17.9578982609586
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716822|galliformes|czechia|1_1_4_1_4_1_1_4|2023-05-05">
+			<date direction="forwards" units="years" value="2023.3397260273973" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				49.8368899304208
+			</attr>
+			<attr name="long">
+				17.9578982609586
+			</attr>
+
+			
+			<attr name="location">
+				49.8368899304208 17.9578982609586
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716825|charadriiformes|czechia|1_1_4_1_4_1_1_4|2023-05-11">
+			<date direction="forwards" units="years" value="2023.3561643835617" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				49.5901077813144
+			</attr>
+			<attr name="long">
+				13.2328532454248
+			</attr>
+
+			
+			<attr name="location">
+				49.5901077813144 13.2328532454248
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716826|falconiformes|czechia|1_1_4_1_4_1_1_4|2023-05-15">
+			<date direction="forwards" units="years" value="2023.3671232876711" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				50.5294097303953
+			</attr>
+			<attr name="long">
+				13.8509106160886
+			</attr>
+
+			
+			<attr name="location">
+				50.5294097303953 13.8509106160886
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17716827|falconiformes|czechia|1_1_4_1_4_1_1_4|2023-05-15">
+			<date direction="forwards" units="years" value="2023.3671232876711" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				50.5294097303953
+			</attr>
+			<attr name="long">
+				13.8509106160886
+			</attr>
+
+			
+			<attr name="location">
+				50.5294097303953 13.8509106160886
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17762861|charadriiformes|croatia|1_1_4_1_4_1_1_4|2023-05-15">
+			<date direction="forwards" units="years" value="2023.3671232876711" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				45.7905441204838
+			</attr>
+			<attr name="long">
+				16.0603237314168
+			</attr>
+
+			
+			<attr name="location">
+				45.7905441204838 16.0603237314168
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17780480|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-19">
+			<date direction="forwards" units="years" value="2023.3780821917808" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17780482|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-19">
+			<date direction="forwards" units="years" value="2023.3780821917808" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17780487|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-05">
+			<date direction="forwards" units="years" value="2023.3397260273973" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5266976905946
+			</attr>
+			<attr name="long">
+				5.60009163363913
+			</attr>
+
+			
+			<attr name="location">
+				52.5266976905946 5.60009163363913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17787131|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-05-22">
+			<date direction="forwards" units="years" value="2023.386301369863" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17787584|accipitriformes|sweden|1_1_4_1_4_1_1_4|2023-05-25">
+			<date direction="forwards" units="years" value="2023.3945205479451" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17787585|passeriformes|sweden|1_1_4_1_4_1_1_4|2023-05-24">
+			<date direction="forwards" units="years" value="2023.3917808219178" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17791391|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-08">
+			<date direction="forwards" units="years" value="2023.3479452054794" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5266976905946
+			</attr>
+			<attr name="long">
+				5.60009163363913
+			</attr>
+
+			
+			<attr name="location">
+				52.5266976905946 5.60009163363913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17821042|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-22">
+			<date direction="forwards" units="years" value="2023.386301369863" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.4517197034959
+			</attr>
+			<attr name="long">
+				3.83526799798383
+			</attr>
+
+			
+			<attr name="location">
+				51.4517197034959 3.83526799798383
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17821057|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-22">
+			<date direction="forwards" units="years" value="2023.386301369863" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.5616727876811
+			</attr>
+			<attr name="long">
+				5.19541346074046
+			</attr>
+
+			
+			<attr name="location">
+				51.5616727876811 5.19541346074046
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17821059|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-28">
+			<date direction="forwards" units="years" value="2023.4027397260274" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				53.2180813959811
+			</attr>
+			<attr name="long">
+				6.7445168668343
+			</attr>
+
+			
+			<attr name="location">
+				53.2180813959811 6.7445168668343
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17821062|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-02-11">
+			<date direction="forwards" units="years" value="2023.1123287671232" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				53.1100430768808
+			</attr>
+			<attr name="long">
+				5.84863928632393
+			</attr>
+
+			
+			<attr name="location">
+				53.1100430768808 5.84863928632393
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17821067|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-02">
+			<date direction="forwards" units="years" value="2023.4164383561645" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17821070|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-26">
+			<date direction="forwards" units="years" value="2023.3972602739725" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17821075|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-02">
+			<date direction="forwards" units="years" value="2023.4164383561645" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17514177|falconiformes|austria|1_1_4_1_4_1_1_4|2023-03-10">
+			<date direction="forwards" units="years" value="2023.186301369863" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				48.2089421257604
+			</attr>
+			<attr name="long">
+				16.3790253882177
+			</attr>
+
+			
+			<attr name="location">
+				48.2089421257604 16.3790253882177
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17514165|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-03-08">
+			<date direction="forwards" units="years" value="2023.1808219178083" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				47.3885937043155
+			</attr>
+			<attr name="long">
+				13.0848644916096
+			</attr>
+
+			
+			<attr name="location">
+				47.3885937043155 13.0848644916096
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17514133|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-03-07">
+			<date direction="forwards" units="years" value="2023.1780821917807" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.1371934331394
+			</attr>
+			<attr name="long">
+				13.9653618911462
+			</attr>
+
+			
+			<attr name="location">
+				48.1371934331394 13.9653618911462
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17780478|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-19">
+			<date direction="forwards" units="years" value="2023.3780821917808" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17780476|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-05-19">
+			<date direction="forwards" units="years" value="2023.3780821917808" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17958948|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-06-11">
+			<date direction="forwards" units="years" value="2023.441095890411" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				44.5384682233432
+			</attr>
+			<attr name="long">
+				11.0245992898255
+			</attr>
+
+			
+			<attr name="location">
+				44.5384682233432 11.0245992898255
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17958950|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-06-11">
+			<date direction="forwards" units="years" value="2023.441095890411" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				44.5384682233432
+			</attr>
+			<attr name="long">
+				11.0245992898255
+			</attr>
+
+			
+			<attr name="location">
+				44.5384682233432 11.0245992898255
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17982387|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-09">
+			<date direction="forwards" units="years" value="2023.4356164383562" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17982390|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-16">
+			<date direction="forwards" units="years" value="2023.454794520548" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17982393|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-16">
+			<date direction="forwards" units="years" value="2023.454794520548" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033204|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-03-23">
+			<date direction="forwards" units="years" value="2023.2219178082191" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033205|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-04-20">
+			<date direction="forwards" units="years" value="2023.2986301369863" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033208|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-04-25">
+			<date direction="forwards" units="years" value="2023.3123287671233" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033209|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033210|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033211|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-04-24">
+			<date direction="forwards" units="years" value="2023.309589041096" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033230|anseriformes|poland|1_1_4_1_4_1_1_4|2023-05-11">
+			<date direction="forwards" units="years" value="2023.3561643835617" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033231|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-05-08">
+			<date direction="forwards" units="years" value="2023.3479452054794" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033235|charadriiformes|poland|1_1_4_1_4_1_1_4|2023-05-30">
+			<date direction="forwards" units="years" value="2023.4082191780822" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033237|accipitriformes|poland|1_1_4_1_4_1_1_4|2023-05-18">
+			<date direction="forwards" units="years" value="2023.3753424657534" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033419|ciconiiformes|poland|1_1_4_1_4_1_1_4|2023-07-07">
+			<date direction="forwards" units="years" value="2023.5123287671233" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18033421|galliformes|poland|1_1_4_1_4_1_1_4|2023-06-28">
+			<date direction="forwards" units="years" value="2023.4876712328767" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18048777|galliformes|netherlands|1_1_4_1_4_1_1_4|2023-07-24">
+			<date direction="forwards" units="years" value="2023.558904109589" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.5266976905946
+			</attr>
+			<attr name="long">
+				5.60009163363913
+			</attr>
+
+			
+			<attr name="location">
+				52.5266976905946 5.60009163363913
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18065329|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-06-20">
+			<date direction="forwards" units="years" value="2023.4657534246576" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18065333|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-06-29">
+			<date direction="forwards" units="years" value="2023.490410958904" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18065337|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-06-24">
+			<date direction="forwards" units="years" value="2023.4767123287672" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18065348|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-06-27">
+			<date direction="forwards" units="years" value="2023.4849315068493" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				56.7931587491509
+			</attr>
+			<attr name="long">
+				-4.20419908814114
+			</attr>
+
+			
+			<attr name="location">
+				56.7931587491509 -4.20419908814114
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18115435|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-08-02">
+			<date direction="forwards" units="years" value="2023.5835616438355" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18115436|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-08-02">
+			<date direction="forwards" units="years" value="2023.5835616438355" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18122422|carnivora|finland|1_1_4_1_4_1_1_4|2023-07-14">
+			<date direction="forwards" units="years" value="2023.531506849315" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18122430|carnivora|finland|1_1_4_1_4_1_1_4|2023-07-18">
+			<date direction="forwards" units="years" value="2023.5424657534247" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18122433|carnivora|finland|1_1_4_1_4_1_1_4|2023-07-18">
+			<date direction="forwards" units="years" value="2023.5424657534247" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18122451|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-19">
+			<date direction="forwards" units="years" value="2023.545205479452" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18122458|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-20">
+			<date direction="forwards" units="years" value="2023.5479452054794" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18131276|carnivora|finland|1_1_4_1_4_1_1_4|2023-08-03">
+			<date direction="forwards" units="years" value="2023.5863013698631" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18255288|falconiformes|sweden|1_1_4_1_4_1_1_4|2023-07-20">
+			<date direction="forwards" units="years" value="2023.5479452054794" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				56.9527544067021
+			</attr>
+			<attr name="long">
+				12.8455535105187
+			</attr>
+
+			
+			<attr name="location">
+				56.9527544067021 12.8455535105187
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18255293|falconiformes|sweden|1_1_4_1_4_1_1_4|2023-06-06">
+			<date direction="forwards" units="years" value="2023.427397260274" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				55.9474024317265
+			</attr>
+			<attr name="long">
+				13.595146733816
+			</attr>
+
+			
+			<attr name="location">
+				55.9474024317265 13.595146733816
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18271509|charadriiformes|denmark|1_1_4_1_4_1_1_4|2023-06-22">
+			<date direction="forwards" units="years" value="2023.4712328767123" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				57.0522607274982
+			</attr>
+			<attr name="long">
+				9.67257639647962
+			</attr>
+
+			
+			<attr name="location">
+				57.0522607274982 9.67257639647962
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18292960|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-27">
+			<date direction="forwards" units="years" value="2023.5671232876712" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18317317|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-08-02">
+			<date direction="forwards" units="years" value="2023.5835616438355" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18317757|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-08-25">
+			<date direction="forwards" units="years" value="2023.6465753424657" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18509067|charadriiformes|latvia|1_1_4_1_4_1_1_4|2023-05-29">
+			<date direction="forwards" units="years" value="2023.4054794520548" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				56.8620641951116
+			</attr>
+			<attr name="long">
+				24.9396020767644
+			</attr>
+
+			
+			<attr name="location">
+				56.8620641951116 24.9396020767644
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18509071|carnivora|latvia|1_1_4_1_4_1_1_4|2023-05-25">
+			<date direction="forwards" units="years" value="2023.3945205479451" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				56.8620641951116
+			</attr>
+			<attr name="long">
+				24.9396020767644
+			</attr>
+
+			
+			<attr name="location">
+				56.8620641951116 24.9396020767644
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18509075|charadriiformes|latvia|1_1_4_1_4_1_1_4|2023-05-09">
+			<date direction="forwards" units="years" value="2023.3506849315067" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				56.8620641951116
+			</attr>
+			<attr name="long">
+				24.9396020767644
+			</attr>
+
+			
+			<attr name="location">
+				56.8620641951116 24.9396020767644
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18509077|charadriiformes|latvia|1_1_4_1_4_1_1_4|2023-05-12">
+			<date direction="forwards" units="years" value="2023.358904109589" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				56.8620641951116
+			</attr>
+			<attr name="long">
+				24.9396020767644
+			</attr>
+
+			
+			<attr name="location">
+				56.8620641951116 24.9396020767644
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18509079|podicipediformes|latvia|1_1_4_1_4_1_1_4|2023-05-18">
+			<date direction="forwards" units="years" value="2023.3753424657534" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				56.8620641951116
+			</attr>
+			<attr name="long">
+				24.9396020767644
+			</attr>
+
+			
+			<attr name="location">
+				56.8620641951116 24.9396020767644
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18514139|falconiformes|sweden|1_1_4_1_4_1_1_4|2023-07-02">
+			<date direction="forwards" units="years" value="2023.4986301369863" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				59.8005794263335
+			</attr>
+			<attr name="long">
+				16.315085578774
+			</attr>
+
+			
+			<attr name="location">
+				59.8005794263335 16.315085578774
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18612224|charadriiformes|slovenia|1_1_4_1_4_1_1_4|2023-05-16">
+			<date direction="forwards" units="years" value="2023.3698630136987" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				46.124137393352
+			</attr>
+			<attr name="long">
+				14.813678667363
+			</attr>
+
+			
+			<attr name="location">
+				46.124137393352 14.813678667363
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18612226|charadriiformes|slovenia|1_1_4_1_4_1_1_4|2023-03-17">
+			<date direction="forwards" units="years" value="2023.2054794520548" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				46.124137393352
+			</attr>
+			<attr name="long">
+				14.813678667363
+			</attr>
+
+			
+			<attr name="location">
+				46.124137393352 14.813678667363
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18647480|charadriiformes|belgium|1_1_4_1_4_1_1_4|2023-07-07">
+			<date direction="forwards" units="years" value="2023.5123287671233" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18647514|charadriiformes|belgium|1_1_4_1_4_1_1_4|2023-08-07">
+			<date direction="forwards" units="years" value="2023.5972602739726" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17985403|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-16">
+			<date direction="forwards" units="years" value="2023.454794520548" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17985406|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-20">
+			<date direction="forwards" units="years" value="2023.4657534246576" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17985409|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-20">
+			<date direction="forwards" units="years" value="2023.4657534246576" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18058688|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-03-28">
+			<date direction="forwards" units="years" value="2023.2356164383561" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				47.5942901543001
+			</attr>
+			<attr name="long">
+				14.1261824377155
+			</attr>
+
+			
+			<attr name="location">
+				47.5942901543001 14.1261824377155
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18058689|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-05-12">
+			<date direction="forwards" units="years" value="2023.358904109589" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				48.1371934331394
+			</attr>
+			<attr name="long">
+				13.9653618911462
+			</attr>
+
+			
+			<attr name="location">
+				48.1371934331394 13.9653618911462
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18058691|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-06-05">
+			<date direction="forwards" units="years" value="2023.4246575342465" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				47.2399358407422
+			</attr>
+			<attr name="long">
+				9.89649424147589
+			</attr>
+
+			
+			<attr name="location">
+				47.2399358407422 9.89649424147589
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18058695|charadriiformes|austria|1_1_4_1_4_1_1_4|2023-06-05">
+			<date direction="forwards" units="years" value="2023.4246575342465" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				47.2399358407422
+			</attr>
+			<attr name="long">
+				9.89649424147589
+			</attr>
+
+			
+			<attr name="location">
+				47.2399358407422 9.89649424147589
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18059050|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-07-04">
+			<date direction="forwards" units="years" value="2023.504109589041" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18059051|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-07-07">
+			<date direction="forwards" units="years" value="2023.5123287671233" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18059066|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-07-13">
+			<date direction="forwards" units="years" value="2023.5287671232877" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18067124|falconiformes|netherlands|1_1_4_1_4_1_1_4|2023-02-07">
+			<date direction="forwards" units="years" value="2023.1013698630136" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.9374604216783
+			</attr>
+			<attr name="long">
+				4.46477045234472
+			</attr>
+
+			
+			<attr name="location">
+				51.9374604216783 4.46477045234472
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075141|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-07">
+			<date direction="forwards" units="years" value="2023.1780821917807" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.4448999895994
+			</attr>
+			<attr name="long">
+				6.44900146928843
+			</attr>
+
+			
+			<attr name="location">
+				52.4448999895994 6.44900146928843
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075142|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-07">
+			<date direction="forwards" units="years" value="2023.1780821917807" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.2573048104135
+			</attr>
+			<attr name="long">
+				5.56251311224367
+			</attr>
+
+			
+			<attr name="location">
+				52.2573048104135 5.56251311224367
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075144|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-07">
+			<date direction="forwards" units="years" value="2023.1780821917807" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.4448999895994
+			</attr>
+			<attr name="long">
+				6.44900146928843
+			</attr>
+
+			
+			<attr name="location">
+				52.4448999895994 6.44900146928843
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075146|falconiformes|netherlands|1_1_4_1_4_1_1_4|2023-01-31">
+			<date direction="forwards" units="years" value="2023.0821917808219" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.5616727876811
+			</attr>
+			<attr name="long">
+				5.19541346074046
+			</attr>
+
+			
+			<attr name="location">
+				51.5616727876811 5.19541346074046
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075147|falconiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-10">
+			<date direction="forwards" units="years" value="2023.186301369863" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				52.8629285667789
+			</attr>
+			<attr name="long">
+				6.62382060282334
+			</attr>
+
+			
+			<attr name="location">
+				52.8629285667789 6.62382060282334
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075149|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-10">
+			<date direction="forwards" units="years" value="2023.186301369863" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075152|falconiformes|netherlands|1_1_4_1_4_1_1_4|2023-03-16">
+			<date direction="forwards" units="years" value="2023.2027397260274" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				53.2180813959811
+			</attr>
+			<attr name="long">
+				6.7445168668343
+			</attr>
+
+			
+			<attr name="location">
+				53.2180813959811 6.7445168668343
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18123934|carnivora|finland|1_1_4_1_4_1_1_4|2023-07-24">
+			<date direction="forwards" units="years" value="2023.558904109589" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18123945|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-20">
+			<date direction="forwards" units="years" value="2023.5479452054794" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18255396|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-07-20">
+			<date direction="forwards" units="years" value="2023.5479452054794" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				57.5128828372686
+			</attr>
+			<attr name="long">
+				18.541723046906
+			</attr>
+
+			
+			<attr name="location">
+				57.5128828372686 18.541723046906
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18435608|falconiformes|germany|1_1_4_1_4_1_1_4|2023-08-02">
+			<date direction="forwards" units="years" value="2023.5835616438355" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.4777551092159
+			</attr>
+			<attr name="long">
+				7.5539349720828
+			</attr>
+
+			
+			<attr name="location">
+				51.4777551092159 7.5539349720828
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18436064|falconiformes|belgium|1_1_4_1_4_1_1_4|2023-07-11">
+			<date direction="forwards" units="years" value="2023.5232876712328" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.0391095671615
+			</attr>
+			<attr name="long">
+				4.2420548599892
+			</attr>
+
+			
+			<attr name="location">
+				51.0391095671615 4.2420548599892
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18501394|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-10-11">
+			<date direction="forwards" units="years" value="2023.7753424657535" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18501398|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-10-11">
+			<date direction="forwards" units="years" value="2023.7753424657535" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18501401|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-10-11">
+			<date direction="forwards" units="years" value="2023.7753424657535" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18010493|falconiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-06-02">
+			<date direction="forwards" units="years" value="2023.4164383561645" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18010499|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-06-06">
+			<date direction="forwards" units="years" value="2023.427397260274" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18010917|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-30">
+			<date direction="forwards" units="years" value="2023.4931506849316" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18010929|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-06-24">
+			<date direction="forwards" units="years" value="2023.4767123287672" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.9374604216783
+			</attr>
+			<attr name="long">
+				4.46477045234472
+			</attr>
+
+			
+			<attr name="location">
+				51.9374604216783 4.46477045234472
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18010933|carnivora|finland|1_1_4_1_4_1_1_4|2023-07-06">
+			<date direction="forwards" units="years" value="2023.509589041096" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18011100|carnivora|finland|1_1_4_1_4_1_1_4|2023-07-17">
+			<date direction="forwards" units="years" value="2023.5397260273974" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075705|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-04-25">
+			<date direction="forwards" units="years" value="2023.3123287671233" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075714|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-06-05">
+			<date direction="forwards" units="years" value="2023.4246575342465" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075717|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-06-07">
+			<date direction="forwards" units="years" value="2023.4301369863015" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075720|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-02-14">
+			<date direction="forwards" units="years" value="2023.1205479452055" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075722|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-06-20">
+			<date direction="forwards" units="years" value="2023.4657534246576" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075725|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-06-19">
+			<date direction="forwards" units="years" value="2023.4630136986302" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075730|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-02-21">
+			<date direction="forwards" units="years" value="2023.1397260273973" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075733|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-03-07">
+			<date direction="forwards" units="years" value="2023.1780821917807" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18075770|strigiformes|spain|1_1_4_1_4_1_1_4|2023-03-15">
+			<date direction="forwards" units="years" value="2023.2" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				40.1894641959532
+			</attr>
+			<attr name="long">
+				-3.70568864248137
+			</attr>
+
+			
+			<attr name="location">
+				40.1894641959532 -3.70568864248137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18076011|charadriiformes|italy|1_1_4_1_4_1_1_4|2023-07-03">
+			<date direction="forwards" units="years" value="2023.5013698630137" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				44.5384682233432
+			</attr>
+			<attr name="long">
+				11.0245992898255
+			</attr>
+
+			
+			<attr name="location">
+				44.5384682233432 11.0245992898255
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18321748|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-12">
+			<date direction="forwards" units="years" value="2023.5260273972603" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				62.0597637912667
+			</attr>
+			<attr name="long">
+				23.6696745592397
+			</attr>
+
+			
+			<attr name="location">
+				62.0597637912667 23.6696745592397
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18321749|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-12">
+			<date direction="forwards" units="years" value="2023.5260273972603" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				62.0597637912667
+			</attr>
+			<attr name="long">
+				23.6696745592397
+			</attr>
+
+			
+			<attr name="location">
+				62.0597637912667 23.6696745592397
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18321750|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-12">
+			<date direction="forwards" units="years" value="2023.5260273972603" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				62.0597637912667
+			</attr>
+			<attr name="long">
+				23.6696745592397
+			</attr>
+
+			
+			<attr name="location">
+				62.0597637912667 23.6696745592397
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18321751|anseriformes|finland|1_1_4_1_4_1_1_4|2023-07-18">
+			<date direction="forwards" units="years" value="2023.5424657534247" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18321752|podicipediformes|finland|1_1_4_1_4_1_1_4|2023-07-18">
+			<date direction="forwards" units="years" value="2023.5424657534247" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17971918|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2023-05-28">
+			<date direction="forwards" units="years" value="2023.4027397260274" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.3299411115892
+			</attr>
+			<attr name="long">
+				-3.76558183366802
+			</attr>
+
+			
+			<attr name="location">
+				52.3299411115892 -3.76558183366802
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18011225|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-08">
+			<date direction="forwards" units="years" value="2023.5150684931507" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18011228|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-11">
+			<date direction="forwards" units="years" value="2023.5232876712328" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18011229|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-11">
+			<date direction="forwards" units="years" value="2023.5232876712328" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18013308|charadriiformes|germany|1_1_4_1_4_1_1_4|2023-06-02">
+			<date direction="forwards" units="years" value="2023.4164383561645" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.1814850326718
+			</attr>
+			<attr name="long">
+				9.81577342948134
+			</attr>
+
+			
+			<attr name="location">
+				54.1814850326718 9.81577342948134
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18013310|charadriiformes|germany|1_1_4_1_4_1_1_4|2023-06-05">
+			<date direction="forwards" units="years" value="2023.4246575342465" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				53.7551744161606
+			</attr>
+			<attr name="long">
+				12.5509509363277
+			</attr>
+
+			
+			<attr name="location">
+				53.7551744161606 12.5509509363277
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18013312|charadriiformes|germany|1_1_4_1_4_1_1_4|2023-06-01">
+			<date direction="forwards" units="years" value="2023.4136986301369" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				51.4777551092159
+			</attr>
+			<attr name="long">
+				7.5539349720828
+			</attr>
+
+			
+			<attr name="location">
+				51.4777551092159 7.5539349720828
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18013313|charadriiformes|germany|1_1_4_1_4_1_1_4|2023-06-02">
+			<date direction="forwards" units="years" value="2023.4164383561645" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.1814850326718
+			</attr>
+			<attr name="long">
+				9.81577342948134
+			</attr>
+
+			
+			<attr name="location">
+				54.1814850326718 9.81577342948134
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18112332|galliformes|jersey|1_1_4_1_4_1_1_4|2023-07-17">
+			<date direction="forwards" units="years" value="2023.5397260273974" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				49.2138286332854
+			</attr>
+			<attr name="long">
+				-2.13245261248515
+			</attr>
+
+			
+			<attr name="location">
+				49.2138286332854 -2.13245261248515
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18118723|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-07-21">
+			<date direction="forwards" units="years" value="2023.5506849315068" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.083727924893
+			</attr>
+			<attr name="long">
+				5.16763788059654
+			</attr>
+
+			
+			<attr name="location">
+				52.083727924893 5.16763788059654
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18118727|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-07-28">
+			<date direction="forwards" units="years" value="2023.5698630136985" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.5811544669078
+			</attr>
+			<attr name="long">
+				4.87272777813315
+			</attr>
+
+			
+			<attr name="location">
+				52.5811544669078 4.87272777813315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18226743|carnivora|united_kingdom|1_1_4_1_4_1_1_4|2023-07-26">
+			<date direction="forwards" units="years" value="2023.5643835616438" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18257879|passeriformes|sweden|1_1_4_1_4_1_1_4|2023-06-17">
+			<date direction="forwards" units="years" value="2023.4575342465753" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				59.4623673036598
+			</attr>
+			<attr name="long">
+				18.1712252623315
+			</attr>
+
+			
+			<attr name="location">
+				59.4623673036598 18.1712252623315
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18257880|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-06-22">
+			<date direction="forwards" units="years" value="2023.4712328767123" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.042931435791
+			</attr>
+			<attr name="long">
+				17.6839136610447
+			</attr>
+
+			
+			<attr name="location">
+				60.042931435791 17.6839136610447
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18257883|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-06-16">
+			<date direction="forwards" units="years" value="2023.454794520548" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				57.1855292476939
+			</attr>
+			<attr name="long">
+				16.1305148015024
+			</attr>
+
+			
+			<attr name="location">
+				57.1855292476939 16.1305148015024
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18257964|charadriiformes|sweden|1_1_4_1_4_1_1_4|2023-06-20">
+			<date direction="forwards" units="years" value="2023.4657534246576" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				57.1855292476939
+			</attr>
+			<attr name="long">
+				16.1305148015024
+			</attr>
+
+			
+			<attr name="location">
+				57.1855292476939 16.1305148015024
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18290467|carnivora|finland|1_1_4_1_4_1_1_4|2023-07-03">
+			<date direction="forwards" units="years" value="2023.5013698630137" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18290472|carnivora|finland|1_1_4_1_4_1_1_4|2023-08-01">
+			<date direction="forwards" units="years" value="2023.5808219178082" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18290481|carnivora|finland|1_1_4_1_4_1_1_4|2023-08-07">
+			<date direction="forwards" units="years" value="2023.5972602739726" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18445710|charadriiformes|france|1_1_4_1_4_1_1_4|2022-05-19">
+			<date direction="forwards" units="years" value="2022.3780821917808" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				46.5103009447381
+			</attr>
+			<attr name="long">
+				2.5780749353201
+			</attr>
+
+			
+			<attr name="location">
+				46.5103009447381 2.5780749353201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18445730|suliformes|france|1_1_4_1_4_1_1_4|2022-06-09">
+			<date direction="forwards" units="years" value="2022.4356164383562" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				46.5103009447381
+			</attr>
+			<attr name="long">
+				2.5780749353201
+			</attr>
+
+			
+			<attr name="location">
+				46.5103009447381 2.5780749353201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18445736|charadriiformes|france|1_1_4_1_4_1_1_4|2022-06-13">
+			<date direction="forwards" units="years" value="2022.4465753424658" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				46.5103009447381
+			</attr>
+			<attr name="long">
+				2.5780749353201
+			</attr>
+
+			
+			<attr name="location">
+				46.5103009447381 2.5780749353201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18445739|charadriiformes|france|1_1_4_1_4_1_1_4|2022-06-14">
+			<date direction="forwards" units="years" value="2022.4493150684932" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				46.5103009447381
+			</attr>
+			<attr name="long">
+				2.5780749353201
+			</attr>
+
+			
+			<attr name="location">
+				46.5103009447381 2.5780749353201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18445748|charadriiformes|france|1_1_4_1_4_1_1_4|2022-07-22">
+			<date direction="forwards" units="years" value="2022.5534246575342" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				46.5103009447381
+			</attr>
+			<attr name="long">
+				2.5780749353201
+			</attr>
+
+			
+			<attr name="location">
+				46.5103009447381 2.5780749353201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18455264|charadriiformes|norway|1_1_4_1_4_1_1_4|2023-05-23">
+			<date direction="forwards" units="years" value="2023.3890410958904" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				69.2782075900742
+			</attr>
+			<attr name="long">
+				19.5016391581555
+			</attr>
+
+			
+			<attr name="location">
+				69.2782075900742 19.5016391581555
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18503030|charadriiformes|russia|1_1_4_1_4_1_1_4|2023-08-29">
+			<date direction="forwards" units="years" value="2023.6575342465753" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				60.0038026239663
+			</attr>
+			<attr name="long">
+				31.7192161663564
+			</attr>
+
+			
+			<attr name="location">
+				60.0038026239663 31.7192161663564
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18612174|charadriiformes|slovenia|1_1_4_1_4_1_1_4|2023-03-21">
+			<date direction="forwards" units="years" value="2023.2164383561644" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				46.124137393352
+			</attr>
+			<attr name="long">
+				14.813678667363
+			</attr>
+
+			
+			<attr name="location">
+				46.124137393352 14.813678667363
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18618442|carnivora|finland|1_1_4_1_4_1_1_4|2023-08-04">
+			<date direction="forwards" units="years" value="2023.5890410958905" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18618701|carnivora|finland|1_1_4_1_4_1_1_4|2023-09-20">
+			<date direction="forwards" units="years" value="2023.717808219178" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18983379|charadriiformes|spain|1_1_4_1_4_1_1_4|2023-03-07">
+			<date direction="forwards" units="years" value="2023.1780821917807" />
+			<attr name="collection_regionname">
+				southern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				41.7971317406582
+			</attr>
+			<attr name="long">
+				1.52423490165211
+			</attr>
+
+			
+			<attr name="location">
+				41.7971317406582 1.52423490165211
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18771244|carnivora|finland|1_1_4_1_4_1_1_4|2023-10-17">
+			<date direction="forwards" units="years" value="2023.7917808219179" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				mammal
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18963393|galliformes|norway|1_1_4_1_4_1_1_4|2023-10-09">
+			<date direction="forwards" units="years" value="2023.7698630136986" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				69.2782075900742
+			</attr>
+			<attr name="long">
+				19.5016391581555
+			</attr>
+
+			
+			<attr name="location">
+				69.2782075900742 19.5016391581555
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18877429|charadriiformes|netherlands|1_1_4_1_4_1_1_4|2023-07-11">
+			<date direction="forwards" units="years" value="2023.5232876712328" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				52.0617180422494
+			</attr>
+			<attr name="long">
+				5.94466833784019
+			</attr>
+
+			
+			<attr name="location">
+				52.0617180422494 5.94466833784019
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18755127|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-20">
+			<date direction="forwards" units="years" value="2023.5479452054794" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18728075|charadriiformes|finland|1_1_4_1_4_1_1_4|2023-07-21">
+			<date direction="forwards" units="years" value="2023.5506849315068" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				64.2398144022788
+			</attr>
+			<attr name="long">
+				26.1623842060791
+			</attr>
+
+			
+			<attr name="location">
+				64.2398144022788 26.1623842060791
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14864636|charadriiformes|united_kingdom|1_1_4_1_4_1_1_4|2022-06-13">
+			<date direction="forwards" units="years" value="2022.4465753424658" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14497841|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-08-02">
+			<date direction="forwards" units="years" value="2022.5835616438355" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14864647|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-08-13">
+			<date direction="forwards" units="years" value="2022.613698630137" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14864649|anseriformes|united_kingdom|1_1_4_1_4_1_1_4|2022-08-20">
+			<date direction="forwards" units="years" value="2022.6328767123289" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15038823|pelecaniformes|united_kingdom|1_1_4_1_4_1_1_4|2022-08-28">
+			<date direction="forwards" units="years" value="2022.654794520548" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15038826|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-08-31">
+			<date direction="forwards" units="years" value="2022.66301369863" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15038821|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-09-04">
+			<date direction="forwards" units="years" value="2022.6739726027397" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15585859|galliformes|united_kingdom|1_1_4_1_4_1_1_4|2022-09-19">
+			<date direction="forwards" units="years" value="2022.7150684931507" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15586123|anseriformes|united_kingdom|1_1_4_1_4_1_1_4|2022-09-20">
+			<date direction="forwards" units="years" value="2022.717808219178" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15958024|anseriformes|united_kingdom|1_1_4_1_4_1_1_4|2022-10-21">
+			<date direction="forwards" units="years" value="2022.8027397260273" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				54.0438440515314
+			</attr>
+			<attr name="long">
+				-2.78687513666638
+			</attr>
+
+			
+			<attr name="location">
+				54.0438440515314 -2.78687513666638
+			</attr>
+
+			
+
+		</taxon>
+	</taxa>
+	
+	
+
+	
+	
+	<empiricalTreeDistributionModel fileName="pb2_11414114_subsampled_relaxLn_constant_2000.trees" id="treeModel"><taxa idref="taxa" /></empiricalTreeDistributionModel><statistic id="treeModel.currentTree" name="Current Tree"><empiricalTreeDistributionModel idref="treeModel" /></statistic><generalDataType id="collection_regionname.dataType">
+
+		
+		<state code="eastern europe" />
+		<state code="northern europe" />
+		<state code="southern europe" />
+		<state code="western africa" />
+		<state code="western europe" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="host_simplifiedhost.dataType">
+
+		
+		<state code="anseriformes-domestic" />
+		<state code="anseriformes-wild" />
+		<state code="charadriiformes-wild" />
+		<state code="galliformes-domestic" />
+		<state code="galliformes-wild" />
+		<state code="human" />
+		<state code="mammal" />
+		<state code="other-bird" />
+	</generalDataType>
+
+
+	
+	<attributePatterns attribute="collection_regionname" id="collection_regionname.pattern">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_regionname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns attribute="host_simplifiedhost" id="host_simplifiedhost.pattern">
+		<taxa idref="taxa" />
+		<generalDataType idref="host_simplifiedhost.dataType" />
+	</attributePatterns>
+
+	
+
+
+	
+	
+	<strictClockBranchRates id="collection_regionname.branchRates">
+		<rate>
+			<parameter id="collection_regionname.clock.rate" lower="0.0" value="1.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic external="true" id="collection_regionname.meanRate" internal="true" mode="mean" name="collection_regionname.meanRate">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_regionname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="host_simplifiedhost.branchRates">
+		<rate>
+			<parameter id="host_simplifiedhost.clock.rate" lower="0.0" value="1.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic external="true" id="host_simplifiedhost.meanRate" internal="true" mode="mean" name="host_simplifiedhost.meanRate">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<multivariateDiffusionModel id="location.diffusionModel">
+		<precisionMatrix>
+			<matrixParameter id="location.precision">
+				<parameter id="location.precision.col1" value="0.05 0.002" />
+				<parameter id="location.precision.col2" value="0.002 0.05" />
+			</matrixParameter>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+	<multivariateWishartPrior df="2" id="location.precisionPrior">
+		<scaleMatrix>
+			<matrixParameter>
+				<parameter value="1.0 0.0" />
+				<parameter value="0.0 1.0" />
+			</matrixParameter>
+		</scaleMatrix>
+		<data>
+			<parameter idref="location.precision" />
+		</data>
+	</multivariateWishartPrior>
+
+	
+
+
+	
+	<multivariateTraitLikelihood id="location.traitLikelihood" integrateInternalTraits="true" reciprocalRates="true" reportAsMultivariate="true" scaleByTime="true" traitName="location" useTreeLength="true">
+		<multivariateDiffusionModel idref="location.diffusionModel" />
+		<treeModel idref="treeModel" /><traitParameter>
+			<parameter id="leaf.location" />
+		</traitParameter>
+		<conjugateRootPrior>
+			<meanParameter>
+				<parameter value="0.0 0.0" />
+			</meanParameter>
+			<priorSampleSize>
+				<parameter value="0.000001" />
+			</priorSampleSize>
+		</conjugateRootPrior>
+	</multivariateTraitLikelihood>
+	<correlation dimension1="1" dimension2="2" id="location.correlation">
+		<matrixParameter idref="location.precision" />
+	</correlation>
+	<matrixInverse id="location.varCovar">
+		<matrixParameter idref="location.precision" />
+	</matrixInverse>
+	<continuousDiffusionStatistic greatCircleDistance="true" id="location.diffusionRate">
+		<multivariateTraitLikelihood idref="location.traitLikelihood" />
+	</continuousDiffusionStatistic>
+
+	
+
+
+	
+
+	
+	<generalSubstitutionModel id="collection_regionname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_regionname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_regionname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_regionname.dataType" />
+				<frequencies>
+					<parameter dimension="5" id="collection_regionname.frequencies" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter dimension="20" id="collection_regionname.rates" lower="0.0" value="1.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_regionname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_regionname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="host_simplifiedhost.model" randomizeIndicator="false">
+		<generalDataType idref="host_simplifiedhost.dataType" />
+		<frequencies>
+			<frequencyModel id="host_simplifiedhost.frequencyModel" normalize="true">
+				<generalDataType idref="host_simplifiedhost.dataType" />
+				<frequencies>
+					<parameter dimension="8" id="host_simplifiedhost.frequencies" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter dimension="56" id="host_simplifiedhost.rates" lower="0.0" value="1.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="host_simplifiedhost.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<ancestralTreeLikelihood id="collection_regionname.treeLikelihood" logCompleteHistory="false" saveCompleteHistory="false" stateTagName="collection_regionname.states" useUniformization="true">
+		<attributePatterns idref="collection_regionname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_regionname.siteModel" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<strictClockBranchRates idref="collection_regionname.branchRates" />
+
+		
+		<frequencyModel id="collection_regionname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_regionname.dataType" />
+			<frequencies>
+				<parameter dimension="5" id="collection_regionname.root.frequencies" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="host_simplifiedhost.treeLikelihood" logCompleteHistory="false" saveCompleteHistory="false" stateTagName="host_simplifiedhost.states" useUniformization="true">
+		<attributePatterns idref="host_simplifiedhost.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="host_simplifiedhost.siteModel" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+		
+		<frequencyModel id="host_simplifiedhost.root.frequencyModel" normalize="true">
+			<generalDataType idref="host_simplifiedhost.dataType" />
+			<frequencies>
+				<parameter dimension="8" id="host_simplifiedhost.root.frequencies" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+	
+
+
+	
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_regionname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="host_simplifiedhost.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleAllIndependently="true" scaleFactor="0.75" weight="15">
+			<parameter idref="collection_regionname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleAllIndependently="true" scaleFactor="0.75" weight="15">
+			<parameter idref="host_simplifiedhost.rates" />
+		</scaleOperator>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_regionname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="host_simplifiedhost.root.frequencies" />
+		</deltaExchange>
+
+		
+		<precisionGibbsOperator weight="2">
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			<multivariateWishartPrior idref="location.precisionPrior" />
+		</precisionGibbsOperator>
+
+		
+
+	<empiricalTreeDistributionOperator weight="3"><empiricalTreeDistributionModel idref="treeModel" /></empiricalTreeDistributionOperator></operators>
+	
+
+	
+	<mcmc autoOptimize="true" chainLength="2000000" id="mcmc">
+		<joint id="joint">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_regionname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="host_simplifiedhost.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior offset="0.0" scale="1.0" shape="1.0">
+						<parameter idref="collection_regionname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_regionname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior offset="0.0" scale="1.0" shape="1.0">
+						<parameter idref="host_simplifiedhost.rates" />
+					</gammaPrior>
+					<parameter idref="host_simplifiedhost.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.root.frequencies" />
+				</uniformPrior>
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+				
+				<multivariateWishartPrior idref="location.precisionPrior" />
+
+				
+
+			</prior>
+			<likelihood id="likelihood">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+				
+
+
+				
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+				
+
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="200">
+			<column dp="4" label="Joint" width="12">
+				<joint idref="joint" />
+			</column>
+			<column dp="4" label="Prior" width="12">
+				<prior idref="prior" />
+			</column>
+			<column dp="4" label="Likelihood" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="collection_regionname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_regionname.clock.rate" />
+			</column>
+			<column label="host_simplifiedhost.clock.rate" sf="6" width="12">
+				<parameter idref="host_simplifiedhost.clock.rate" />
+			</column>
+
+			
+
+			
+
+		</log>
+
+		
+		<log fileName="pb2_11414114_subsampled_traits.log" id="fileLog" logEvery="200" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<parameter idref="collection_regionname.clock.rate" />
+			<parameter idref="host_simplifiedhost.clock.rate" />
+			<rateStatistic idref="collection_regionname.meanRate" />
+			<rateStatistic idref="host_simplifiedhost.meanRate" />
+
+			
+			<matrixParameter idref="location.precision" />
+			<correlation idref="location.correlation" />
+			<matrixInverse idref="location.varCovar" />
+			<continuousDiffusionStatistic idref="location.diffusionRate" />
+
+			
+
+
+			
+			<parameter idref="collection_regionname.rates" />
+			<parameter idref="host_simplifiedhost.rates" />
+
+			
+
+			<strictClockBranchRates idref="collection_regionname.branchRates" />
+			<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+			
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+
+			
+			<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+			
+
+			</log>
+
+		
+		<log fileName="pb2_11414114_subsampled_traits.collection_regionname.rates.log" id="pb2_11414114_subsampled_traits.collection_regionnamerateMatrixLog" logEvery="200">
+			<parameter idref="collection_regionname.rates" />
+		</log>
+		<log fileName="pb2_11414114_subsampled_traits.host_simplifiedhost.rates.log" id="pb2_11414114_subsampled_traits.host_simplifiedhostrateMatrixLog" logEvery="200">
+			<parameter idref="host_simplifiedhost.rates" />
+		</log>
+
+		
+
+
+		
+		<logTree fileName="pb2_11414114_subsampled_traits.trees" id="treeFileLog" logEvery="200" nexusFormat="true" sortTranslationTable="true">
+			<treeModel idref="treeModel" /><trait name="rate" tag="collection_regionname.rate">
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+			</trait>
+			<trait name="rate" tag="host_simplifiedhost.rate">
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+			</trait>
+			<joint idref="joint" />
+
+			
+			<trait name="collection_regionname.states" tag="collection_regionname">
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			</trait>
+			<trait name="host_simplifiedhost.states" tag="host_simplifiedhost">
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+			</trait>
+			<trait name="location" tag="location">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			</trait>
+
+			
+
+
+			
+			<multivariateDiffusionModel idref="location.diffusionModel" />
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+		</logTree>
+	</mcmc>
+	
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+	
+</beast>

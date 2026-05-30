@@ -1,0 +1,1987 @@
+<beast version="1.10.4">
+	
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="H5N8|2344b|EPI_ISL_708704|galliformes|japan|7_1_5_2_1_3_1_2|2020-12-01">
+			<date value="2020.9153005464482" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				34.217379070784
+			</attr>
+			<attr name="long">
+				133.968927545016
+			</attr>
+
+			
+			<attr name="location">
+				34.217379070784 133.968927545016
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_708709|galliformes|japan|7_1_5_2_1_3_1_2|2020-12-01">
+			<date value="2020.9153005464482" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				34.217379070784
+			</attr>
+			<attr name="long">
+				133.968927545016
+			</attr>
+
+			
+			<attr name="location">
+				34.217379070784 133.968927545016
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_681274|galliformes|japan|7_1_5_2_1_3_1_2|2020-11-19">
+			<date value="2020.8825136612022" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				34.217379070784
+			</attr>
+			<attr name="long">
+				133.968927545016
+			</attr>
+
+			
+			<attr name="location">
+				34.217379070784 133.968927545016
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_1273435|galliformes|japan|7_1_5_2_1_3_1_2|2020-11-20">
+			<date value="2020.8852459016393" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				34.217379070784
+			</attr>
+			<attr name="long">
+				133.968927545016
+			</attr>
+
+			
+			<attr name="location">
+				34.217379070784 133.968927545016
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_681292|galliformes|japan|7_1_5_2_1_3_1_2|2020-11-10">
+			<date value="2020.8579234972678" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				34.217379070784
+			</attr>
+			<attr name="long">
+				133.968927545016
+			</attr>
+
+			
+			<attr name="location">
+				34.217379070784 133.968927545016
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_708715|galliformes|japan|7_1_5_2_1_3_1_2|2020-12-01">
+			<date value="2020.9153005464482" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				34.217379070784
+			</attr>
+			<attr name="long">
+				133.968927545016
+			</attr>
+
+			
+			<attr name="location">
+				34.217379070784 133.968927545016
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_681288|galliformes|japan|7_1_5_2_1_3_1_2|2020-11-07">
+			<date value="2020.8497267759562" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				34.217379070784
+			</attr>
+			<attr name="long">
+				133.968927545016
+			</attr>
+
+			
+			<attr name="location">
+				34.217379070784 133.968927545016
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_1273412|galliformes|japan|7_1_5_2_1_3_1_2|2020-11-25">
+			<date value="2020.8989071038252" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				35.0390049694389
+			</attr>
+			<attr name="long">
+				134.828550655208
+			</attr>
+
+			
+			<attr name="location">
+				35.0390049694389 134.828550655208
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_985193|galliformes|south_korea|7_1_5_2_1_3_1_2|2020-12-14">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				36.3474789243827
+			</attr>
+			<attr name="long">
+				128.748576389097
+			</attr>
+
+			
+			<attr name="location">
+				36.3474789243827 128.748576389097
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_681281|anseriformes|japan|7_1_5_2_1_3_1_2|2020-11-16">
+			<date value="2020.8743169398906" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				37.5201743528051
+			</attr>
+			<attr name="long">
+				138.914818034069
+			</attr>
+
+			
+			<attr name="location">
+				37.5201743528051 138.914818034069
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405660|environment|japan|7_1_5_2_1_3_1_2|2020-11-23">
+			<date value="2020.8934426229507" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805898|environment|japan|7_1_5_2_1_3_1_2|2020-11-23">
+			<date value="2020.8934426229507" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405655|environment|japan|7_1_5_2_1_3_1_2|2020-11-16">
+			<date value="2020.8743169398906" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805860|environment|japan|7_1_5_2_1_3_1_2|2020-11-16">
+			<date value="2020.8743169398906" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_697771|anseriformes|japan|7_1_5_2_1_3_1_2|2020-10-24">
+			<date value="2020.811475409836" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				43.3824165431654
+			</attr>
+			<attr name="long">
+				142.542521870972
+			</attr>
+
+			
+			<attr name="location">
+				43.3824165431654 142.542521870972
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405666|environment|japan|7_1_5_2_1_3_1_2|2020-11-30">
+			<date value="2020.9125683060108" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805870|environment|japan|7_1_5_2_1_3_1_2|2020-11-30">
+			<date value="2020.9125683060108" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405670|environment|japan|7_1_5_2_1_3_1_2|2020-12-07">
+			<date value="2020.931693989071" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805828|environment|japan|7_1_5_2_1_3_1_2|2020-12-07">
+			<date value="2020.931693989071" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_4071019|anseriformes|japan|7_1_5_2_1_3_1_2|2020-11-05">
+			<date value="2020.844262295082" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405659|environment|japan|7_1_5_2_1_3_1_2|2020-11-16">
+			<date value="2020.8743169398906" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_666687|anseriformes|south_korea|7_1_5_2_1_3_1_2|2020-10-24">
+			<date value="2020.811475409836" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				37.5315346337798
+			</attr>
+			<attr name="long">
+				127.181023197189
+			</attr>
+
+			
+			<attr name="location">
+				37.5315346337798 127.181023197189
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805866|environment|japan|7_1_5_2_1_3_1_2|2020-11-16">
+			<date value="2020.8743169398906" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_2820465|anseriformes|china|7_1_5_2_1_3_1_2|2020-10-16">
+			<date value="2020.7896174863388" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				37.2602231520297
+			</attr>
+			<attr name="long">
+				106.161545856493
+			</attr>
+
+			
+			<attr name="location">
+				37.2602231520297 106.161545856493
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405677|environment|japan|7_1_5_2_1_3_1_2|2020-12-21">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805845|environment|japan|7_1_5_2_1_3_1_2|2020-12-21">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_631824|anseriformes|south_korea|7_1_5_2_1_3_1_2|2020-10-21">
+			<date value="2020.8032786885246" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				36.737850075983
+			</attr>
+			<attr name="long">
+				127.830446360213
+			</attr>
+
+			
+			<attr name="location">
+				36.737850075983 127.830446360213
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_1009705|anseriformes|south_korea|7_1_5_2_1_3_1_2|2020-12-01">
+			<date value="2020.9153005464482" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				36.5298116066164
+			</attr>
+			<attr name="long">
+				126.847825775926
+			</attr>
+
+			
+			<attr name="location">
+				36.5298116066164 126.847825775926
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405664|environment|japan|7_1_5_2_1_3_1_2|2020-11-30">
+			<date value="2020.9125683060108" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805877|environment|japan|7_1_5_2_1_3_1_2|2020-11-30">
+			<date value="2020.9125683060108" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_16405665|environment|japan|7_1_5_2_1_3_1_2|2020-11-30">
+			<date value="2020.9125683060108" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				30.9949222722596
+			</attr>
+			<attr name="long">
+				130.419711465505
+			</attr>
+
+			
+			<attr name="location">
+				30.9949222722596 130.419711465505
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_17805826|environment|japan|7_1_5_2_1_3_1_2|2020-11-30">
+			<date value="2020.9125683060108" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				37.3996665395305
+			</attr>
+			<attr name="long">
+				137.574137168765
+			</attr>
+
+			
+			<attr name="location">
+				37.3996665395305 137.574137168765
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_1009695|anseriformes|south_korea|7_1_5_2_1_3_1_2|2020-11-03">
+			<date value="2020.8387978142077" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				36.5298116066164
+			</attr>
+			<attr name="long">
+				126.847825775926
+			</attr>
+
+			
+			<attr name="location">
+				36.5298116066164 126.847825775926
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_1009696|anseriformes|south_korea|7_1_5_2_1_3_1_2|2020-11-10">
+			<date value="2020.8579234972678" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				37.5315346337798
+			</attr>
+			<attr name="long">
+				127.181023197189
+			</attr>
+
+			
+			<attr name="location">
+				37.5315346337798 127.181023197189
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_985179|anseriformes|south_korea|7_1_5_2_1_3_1_2|2020-11-26">
+			<date value="2020.9016393442623" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				35.7159281817874
+			</attr>
+			<attr name="long">
+				127.140659781938
+			</attr>
+
+			
+			<attr name="location">
+				35.7159281817874 127.140659781938
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_1009702|anseriformes|south_korea|7_1_5_2_1_3_1_2|2020-12-01">
+			<date value="2020.9153005464482" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				34.8733358026855
+			</attr>
+			<attr name="long">
+				126.897223705092
+			</attr>
+
+			
+			<attr name="location">
+				34.8733358026855 126.897223705092
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_2815374|anseriformes|china|7_1_5_2_1_3_1_2|2020-10-15">
+			<date value="2020.7868852459017" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern asia
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				37.2602231520297
+			</attr>
+			<attr name="long">
+				106.161545856493
+			</attr>
+
+			
+			<attr name="location">
+				37.2602231520297 106.161545856493
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_813972|anseriformes|hungary|7_1_5_2_1_3_1_2|2020-05-11">
+			<date value="2020.3579234972678" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.7347169568285
+			</attr>
+			<attr name="long">
+				21.0059438310171
+			</attr>
+
+			
+			<attr name="location">
+				46.7347169568285 21.0059438310171
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_833482|anseriformes|hungary|7_1_5_2_1_3_1_2|2020-04-10">
+			<date value="2020.2732240437158" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.5624446150372
+			</attr>
+			<attr name="long">
+				19.3734257652929
+			</attr>
+
+			
+			<attr name="location">
+				46.5624446150372 19.3734257652929
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_811144|anseriformes|hungary|7_1_5_2_1_3_1_2|2020-04-30">
+			<date value="2020.327868852459" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.7347169568285
+			</attr>
+			<attr name="long">
+				21.0059438310171
+			</attr>
+
+			
+			<attr name="location">
+				46.7347169568285 21.0059438310171
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_813971|galliformes|hungary|7_1_5_2_1_3_1_2|2020-05-05">
+			<date value="2020.3415300546449" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				46.7347169568285
+			</attr>
+			<attr name="long">
+				21.0059438310171
+			</attr>
+
+			
+			<attr name="location">
+				46.7347169568285 21.0059438310171
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_811134|galliformes|hungary|7_1_5_2_1_3_1_2|2020-04-21">
+			<date value="2020.3032786885246" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				46.4291346697431
+			</attr>
+			<attr name="long">
+				20.2330085562192
+			</attr>
+
+			
+			<attr name="location">
+				46.4291346697431 20.2330085562192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_833485|anseriformes|hungary|7_1_5_2_1_3_1_2|2020-04-14">
+			<date value="2020.2841530054645" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.4291346697431
+			</attr>
+			<attr name="long">
+				20.2330085562192
+			</attr>
+
+			
+			<attr name="location">
+				46.4291346697431 20.2330085562192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_833487|galliformes|hungary|7_1_5_2_1_3_1_2|2020-04-19">
+			<date value="2020.2978142076502" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				46.5624446150372
+			</attr>
+			<attr name="long">
+				19.3734257652929
+			</attr>
+
+			
+			<attr name="location">
+				46.5624446150372 19.3734257652929
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_833580|galliformes|hungary|7_1_5_2_1_3_1_2|2020-04-18">
+			<date value="2020.295081967213" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				46.5624446150372
+			</attr>
+			<attr name="long">
+				19.3734257652929
+			</attr>
+
+			
+			<attr name="location">
+				46.5624446150372 19.3734257652929
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_811135|galliformes|hungary|7_1_5_2_1_3_1_2|2020-04-23">
+			<date value="2020.308743169399" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				46.4291346697431
+			</attr>
+			<attr name="long">
+				20.2330085562192
+			</attr>
+
+			
+			<attr name="location">
+				46.4291346697431 20.2330085562192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_780096|anseriformes|hungary|7_1_5_2_1_3_1_2|2020-03-25">
+			<date value="2020.2295081967213" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.5624446150372
+			</attr>
+			<attr name="long">
+				19.3734257652929
+			</attr>
+
+			
+			<attr name="location">
+				46.5624446150372 19.3734257652929
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_833583|anseriformes|hungary|7_1_5_2_1_3_1_2|2020-04-22">
+			<date value="2020.3060109289618" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				46.4291346697431
+			</attr>
+			<attr name="long">
+				20.2330085562192
+			</attr>
+
+			
+			<attr name="location">
+				46.4291346697431 20.2330085562192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_810970|galliformes|hungary|7_1_5_2_1_3_1_2|2020-04-14">
+			<date value="2020.2841530054645" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				46.5624446150372
+			</attr>
+			<attr name="long">
+				19.3734257652929
+			</attr>
+
+			
+			<attr name="location">
+				46.5624446150372 19.3734257652929
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_525448|galliformes|poland|7_1_5_2_1_3_1_2|2020-02-07">
+			<date value="2020.1010928961748" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_417415|galliformes|germany|7_1_5_2_1_3_1_2|2020-03-20">
+			<date value="2020.2158469945355" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.7642105761026
+			</attr>
+			<attr name="long">
+				9.16783937293005
+			</attr>
+
+			
+			<attr name="location">
+				52.7642105761026 9.16783937293005
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_415197|galliformes|germany|7_1_5_2_1_3_1_2|2020-03-12">
+			<date value="2020.1939890710382" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				51.0528694457593
+			</attr>
+			<attr name="long">
+				13.3447264729352
+			</attr>
+
+			
+			<attr name="location">
+				51.0528694457593 13.3447264729352
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_417414|accipitriformes|germany|7_1_5_2_1_3_1_2|2020-03-20">
+			<date value="2020.2158469945355" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.0528694457593
+			</attr>
+			<attr name="long">
+				13.3447264729352
+			</attr>
+
+			
+			<attr name="location">
+				51.0528694457593 13.3447264729352
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_419312|anseriformes|germany|7_1_5_2_1_3_1_2|2020-03-26">
+			<date value="2020.2322404371585" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				51.0528694457593
+			</attr>
+			<attr name="long">
+				13.3447264729352
+			</attr>
+
+			
+			<attr name="location">
+				51.0528694457593 13.3447264729352
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_404993|anseriformes|germany|7_1_5_2_1_3_1_2|2020-01-16">
+			<date value="2020.0409836065573" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				52.4686720071996
+			</attr>
+			<attr name="long">
+				13.4043192497063
+			</attr>
+
+			
+			<attr name="location">
+				52.4686720071996 13.4043192497063
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_525451|anseriformes|poland|7_1_5_2_1_3_1_2|2020-02-21">
+			<date value="2020.139344262295" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_418266|galliformes|czechia|7_1_5_2_1_3_1_2|2020-02-17">
+			<date value="2020.1284153005465" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				49.9006406346158
+			</attr>
+			<attr name="long">
+				16.1892997029385
+			</attr>
+
+			
+			<attr name="location">
+				49.9006406346158 16.1892997029385
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_525463|anseriformes|poland|7_1_5_2_1_3_1_2|2020-03-03">
+			<date value="2020.1693989071039" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_525450|anseriformes|poland|7_1_5_2_1_3_1_2|2020-02-20">
+			<date value="2020.136612021858" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-domestic
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_419220|galliformes|hungary|7_1_5_2_1_3_1_2|2020-01-09">
+			<date value="2020.0218579234972" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				47.1703761996839
+			</attr>
+			<attr name="long">
+				19.3977670199114
+			</attr>
+
+			
+			<attr name="location">
+				47.1703761996839 19.3977670199114
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_419314|galliformes|germany|7_1_5_2_1_3_1_2|2020-03-27">
+			<date value="2020.2349726775956" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.0090264158216
+			</attr>
+			<attr name="long">
+				11.7027467770331
+			</attr>
+
+			
+			<attr name="location">
+				52.0090264158216 11.7027467770331
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_525440|galliformes|poland|7_1_5_2_1_3_1_2|2020-01-02">
+			<date value="2020.0027322404371" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				51.2170859712694
+			</attr>
+			<attr name="long">
+				22.9017240742201
+			</attr>
+
+			
+			<attr name="location">
+				51.2170859712694 22.9017240742201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_405813|accipitriformes|poland|7_1_5_2_1_3_1_2|2020-01-06">
+			<date value="2020.0136612021859" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				51.2170859712694
+			</attr>
+			<attr name="long">
+				22.9017240742201
+			</attr>
+
+			
+			<attr name="location">
+				51.2170859712694 22.9017240742201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_419239|anseriformes|hungary|7_1_5_2_1_3_1_2|2020-01-10">
+			<date value="2020.0245901639344" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				47.1703761996839
+			</attr>
+			<attr name="long">
+				19.3977670199114
+			</attr>
+
+			
+			<attr name="location">
+				47.1703761996839 19.3977670199114
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_405391|galliformes|czechia|7_1_5_2_1_3_1_2|2020-01-17">
+			<date value="2020.0437158469945" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				49.4071187835784
+			</attr>
+			<attr name="long">
+				15.6903483593844
+			</attr>
+
+			
+			<attr name="location">
+				49.4071187835784 15.6903483593844
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_410291|galliformes|germany|7_1_5_2_1_3_1_2|2020-02-06">
+			<date value="2020.0983606557377" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				48.5335196122676
+			</attr>
+			<attr name="long">
+				9.04442576424602
+			</attr>
+
+			
+			<attr name="location">
+				48.5335196122676 9.04442576424602
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_525441|galliformes|poland|7_1_5_2_1_3_1_2|2020-01-02">
+			<date value="2020.0027322404371" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				51.2170859712694
+			</attr>
+			<attr name="long">
+				22.9017240742201
+			</attr>
+
+			
+			<attr name="location">
+				51.2170859712694 22.9017240742201
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N8|2344b|EPI_ISL_525442|galliformes|poland|7_1_5_2_1_3_1_2|2020-01-09">
+			<date value="2020.0218579234972" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				eastern europe
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				52.1141994014432
+			</attr>
+			<attr name="long">
+				19.4236724631525
+			</attr>
+
+			
+			<attr name="location">
+				52.1141994014432 19.4236724631525
+			</attr>
+
+			
+
+		</taxon>
+	</taxa>
+	
+	
+
+	
+	
+	<empiricalTreeDistributionModel id="treeModel" fileName="n8_71521312_subsampled_relaxLn_constant_1000.trees"><taxa idref="taxa" /></empiricalTreeDistributionModel><statistic id="treeModel.currentTree" name="Current Tree"><empiricalTreeDistributionModel idref="treeModel" /></statistic><generalDataType id="collection_regionname.dataType">
+
+		
+		<state code="eastern asia" />
+		<state code="eastern europe" />
+		<state code="western europe" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="host_simplifiedhost.dataType">
+
+		
+		<state code="anseriformes-domestic" />
+		<state code="anseriformes-wild" />
+		<state code="environment" />
+		<state code="galliformes-domestic" />
+		<state code="galliformes-wild" />
+		<state code="other-bird" />
+	</generalDataType>
+
+
+	
+	<attributePatterns id="collection_regionname.pattern" attribute="collection_regionname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_regionname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="host_simplifiedhost.pattern" attribute="host_simplifiedhost">
+		<taxa idref="taxa" />
+		<generalDataType idref="host_simplifiedhost.dataType" />
+	</attributePatterns>
+
+	
+
+
+	
+	
+	<strictClockBranchRates id="collection_regionname.branchRates">
+		<rate>
+			<parameter id="collection_regionname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_regionname.meanRate" name="collection_regionname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_regionname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="host_simplifiedhost.branchRates">
+		<rate>
+			<parameter id="host_simplifiedhost.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="host_simplifiedhost.meanRate" name="host_simplifiedhost.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<multivariateDiffusionModel id="location.diffusionModel">
+		<precisionMatrix>
+			<matrixParameter id="location.precision">
+				<parameter id="location.precision.col1" value="0.05 0.002" />
+				<parameter id="location.precision.col2" value="0.002 0.05" />
+			</matrixParameter>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+	<multivariateWishartPrior id="location.precisionPrior" df="2">
+		<scaleMatrix>
+			<matrixParameter>
+				<parameter value="1.0 0.0" />
+				<parameter value="0.0 1.0" />
+			</matrixParameter>
+		</scaleMatrix>
+		<data>
+			<parameter idref="location.precision" />
+		</data>
+	</multivariateWishartPrior>
+
+	
+
+
+	
+	<multivariateTraitLikelihood id="location.traitLikelihood" traitName="location" useTreeLength="true" scaleByTime="true" reportAsMultivariate="true" reciprocalRates="true" integrateInternalTraits="true">
+		<multivariateDiffusionModel idref="location.diffusionModel" />
+		<treeModel idref="treeModel" /><traitParameter>
+			<parameter id="leaf.location" />
+		</traitParameter>
+		<conjugateRootPrior>
+			<meanParameter>
+				<parameter value="0.0 0.0" />
+			</meanParameter>
+			<priorSampleSize>
+				<parameter value="0.000001" />
+			</priorSampleSize>
+		</conjugateRootPrior>
+	</multivariateTraitLikelihood>
+	<correlation id="location.correlation" dimension1="1" dimension2="2">
+		<matrixParameter idref="location.precision" />
+	</correlation>
+	<matrixInverse id="location.varCovar">
+		<matrixParameter idref="location.precision" />
+	</matrixInverse>
+	<continuousDiffusionStatistic id="location.diffusionRate" greatCircleDistance="true">
+		<multivariateTraitLikelihood idref="location.traitLikelihood" />
+	</continuousDiffusionStatistic>
+
+	
+
+
+	
+
+	
+	<generalSubstitutionModel id="collection_regionname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_regionname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_regionname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_regionname.dataType" />
+				<frequencies>
+					<parameter id="collection_regionname.frequencies" dimension="3" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_regionname.rates" dimension="6" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_regionname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_regionname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="host_simplifiedhost.model" randomizeIndicator="false">
+		<generalDataType idref="host_simplifiedhost.dataType" />
+		<frequencies>
+			<frequencyModel id="host_simplifiedhost.frequencyModel" normalize="true">
+				<generalDataType idref="host_simplifiedhost.dataType" />
+				<frequencies>
+					<parameter id="host_simplifiedhost.frequencies" dimension="6" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="host_simplifiedhost.rates" dimension="30" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="host_simplifiedhost.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<ancestralTreeLikelihood id="collection_regionname.treeLikelihood" stateTagName="collection_regionname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_regionname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_regionname.siteModel" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<strictClockBranchRates idref="collection_regionname.branchRates" />
+
+		
+		<frequencyModel id="collection_regionname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_regionname.dataType" />
+			<frequencies>
+				<parameter id="collection_regionname.root.frequencies" dimension="3" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="host_simplifiedhost.treeLikelihood" stateTagName="host_simplifiedhost.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="host_simplifiedhost.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="host_simplifiedhost.siteModel" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+		
+		<frequencyModel id="host_simplifiedhost.root.frequencyModel" normalize="true">
+			<generalDataType idref="host_simplifiedhost.dataType" />
+			<frequencies>
+				<parameter id="host_simplifiedhost.root.frequencies" dimension="6" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+	
+
+
+	
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_regionname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="host_simplifiedhost.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_regionname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="host_simplifiedhost.rates" />
+		</scaleOperator>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_regionname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="host_simplifiedhost.root.frequencies" />
+		</deltaExchange>
+
+		
+		<precisionGibbsOperator weight="2">
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			<multivariateWishartPrior idref="location.precisionPrior" />
+		</precisionGibbsOperator>
+
+		
+
+	<empiricalTreeDistributionOperator weight="3"><empiricalTreeDistributionModel idref="treeModel" /></empiricalTreeDistributionOperator></operators>
+	
+
+	
+	<mcmc id="mcmc" chainLength="2000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_regionname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="host_simplifiedhost.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_regionname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_regionname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="host_simplifiedhost.rates" />
+					</gammaPrior>
+					<parameter idref="host_simplifiedhost.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.root.frequencies" />
+				</uniformPrior>
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+				
+				<multivariateWishartPrior idref="location.precisionPrior" />
+
+				
+
+			</prior>
+			<likelihood id="likelihood">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+				
+
+
+				
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+				
+
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="200">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint" />
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior" />
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="collection_regionname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_regionname.clock.rate" />
+			</column>
+			<column label="host_simplifiedhost.clock.rate" sf="6" width="12">
+				<parameter idref="host_simplifiedhost.clock.rate" />
+			</column>
+
+			
+
+			
+
+		</log>
+
+		
+		<log id="fileLog" logEvery="200" fileName="n8_71521312_subsampled_traits.log" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<parameter idref="collection_regionname.clock.rate" />
+			<parameter idref="host_simplifiedhost.clock.rate" />
+			<rateStatistic idref="collection_regionname.meanRate" />
+			<rateStatistic idref="host_simplifiedhost.meanRate" />
+
+			
+			<matrixParameter idref="location.precision" />
+			<correlation idref="location.correlation" />
+			<matrixInverse idref="location.varCovar" />
+			<continuousDiffusionStatistic idref="location.diffusionRate" />
+
+			
+
+
+			
+			<parameter idref="collection_regionname.rates" />
+			<parameter idref="host_simplifiedhost.rates" />
+
+			
+
+			<strictClockBranchRates idref="collection_regionname.branchRates" />
+			<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+			
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+
+			
+			<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+			
+
+			</log>
+
+		
+		<log id="n8_71521312_subsampled_traits.collection_regionnamerateMatrixLog" logEvery="200" fileName="n8_71521312_subsampled_traits.collection_regionname.rates.log">
+			<parameter idref="collection_regionname.rates" />
+		</log>
+		<log id="n8_71521312_subsampled_traits.host_simplifiedhostrateMatrixLog" logEvery="200" fileName="n8_71521312_subsampled_traits.host_simplifiedhost.rates.log">
+			<parameter idref="host_simplifiedhost.rates" />
+		</log>
+
+		
+
+
+		
+		<logTree id="treeFileLog" logEvery="200" nexusFormat="true" fileName="n8_71521312_subsampled_traits.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel" /><trait name="rate" tag="collection_regionname.rate">
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+			</trait>
+			<trait name="rate" tag="host_simplifiedhost.rate">
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+			</trait>
+			<joint idref="joint" />
+
+			
+			<trait name="collection_regionname.states" tag="collection_regionname">
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			</trait>
+			<trait name="host_simplifiedhost.states" tag="host_simplifiedhost">
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+			</trait>
+			<trait name="location" tag="location">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			</trait>
+
+			
+
+
+			
+			<multivariateDiffusionModel idref="location.diffusionModel" />
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+		</logTree>
+	</mcmc>
+	
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+	
+</beast>

@@ -1,0 +1,2758 @@
+<beast version="1.10.4">
+	
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="H5N1|2344b|EPI_ISL_18846973|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18846971|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18846972|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18847152|environment|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				environment
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18846970|anseriformes|egypt|1_1_2_1_1_1_1_1|2023-02-09">
+			<date value="2023.1068493150685" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414666|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-04-14">
+			<date value="2021.282191780822" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				10.354940788533
+			</attr>
+			<attr name="long">
+				7.70696240441167
+			</attr>
+
+			
+			<attr name="location">
+				10.354940788533 7.70696240441167
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_19085481|charadriiformes|south_africa|2_1_1_1_1_1_1_1|2024-03-08">
+			<date value="2024.1830601092897" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				-33.016256445291
+			</attr>
+			<attr name="long">
+				20.6109109128761
+			</attr>
+
+			
+			<attr name="location">
+				-33.016256445291 20.6109109128761
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16839065|suliformes|namibia|2_1_1_1_1_1_1_1|2022-01-27">
+			<date value="2022.0712328767124" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				namibia
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-22.0779804513922
+			</attr>
+			<attr name="long">
+				17.2076847589786
+			</attr>
+
+			
+			<attr name="location">
+				-22.0779804513922 17.2076847589786
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15853610|charadriiformes|south_africa|2_1_1_1_1_1_1_1|2022-03-22">
+			<date value="2022.2191780821918" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				-33.016256445291
+			</attr>
+			<attr name="long">
+				20.6109109128761
+			</attr>
+
+			
+			<attr name="location">
+				-33.016256445291 20.6109109128761
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14973339|suliformes|south_africa|NA|2021-09-14">
+			<date value="2021.7013698630137" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-28.9709136281448
+			</attr>
+			<attr name="long">
+				25.1981253246192
+			</attr>
+
+			
+			<attr name="location">
+				-28.9709136281448 25.1981253246192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15853935|galliformes|south_africa|1_1_1_1_1_1_1_1|2022-09-18">
+			<date value="2022.7123287671234" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15853343|anseriformes|south_africa|2_1_1_1_1_1_1_1|2022-02-15">
+			<date value="2022.123287671233" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				-26.1053974962555
+			</attr>
+			<attr name="long">
+				28.126943330491
+			</attr>
+
+			
+			<attr name="location">
+				-26.1053974962555 28.126943330491
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14573038|galliformes|south_africa|2_1_1_1_1_1_1_1|2021-05-10">
+			<date value="2021.3534246575343" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-26.2691351203481
+			</attr>
+			<attr name="long">
+				25.5243200600828
+			</attr>
+
+			
+			<attr name="location">
+				-26.2691351203481 25.5243200600828
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15839274|anseriformes|south_africa|NA|2021-10-21">
+			<date value="2021.8027397260273" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				-28.9709136281448
+			</attr>
+			<attr name="long">
+				25.1981253246192
+			</attr>
+
+			
+			<attr name="location">
+				-28.9709136281448 25.1981253246192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14918217|galliformes|south_africa|2_1_1_1_1_1_1_1|2021-06-20">
+			<date value="2021.4657534246576" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14918327|struthioniformes|south_africa|2_1_1_1_1_1_1_1|2021-06-23">
+			<date value="2021.4739726027397" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-33.016256445291
+			</attr>
+			<attr name="long">
+				20.6109109128761
+			</attr>
+
+			
+			<attr name="location">
+				-33.016256445291 20.6109109128761
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15852625|galliformes|south_africa|1_1_1_1_1_1_1_1|2022-01-24">
+			<date value="2022.0630136986301" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-26.1053974962555
+			</attr>
+			<attr name="long">
+				28.126943330491
+			</attr>
+
+			
+			<attr name="location">
+				-26.1053974962555 28.126943330491
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15853010|ciconiiformes|south_africa|1_1_1_1_1_1_1_1|2022-02-08">
+			<date value="2022.1041095890412" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				-26.1053974962555
+			</attr>
+			<attr name="long">
+				28.126943330491
+			</attr>
+
+			
+			<attr name="location">
+				-26.1053974962555 28.126943330491
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15852181|galliformes|south_africa|NA|2021-10-28">
+			<date value="2021.8219178082193" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.9709136281448
+			</attr>
+			<attr name="long">
+				25.1981253246192
+			</attr>
+
+			
+			<attr name="location">
+				-28.9709136281448 25.1981253246192
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14934317|galliformes|south_africa|1_1_1_1_1_1_1_1|2021-07-30">
+			<date value="2021.5753424657535" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14769967|galliformes|lesotho|2_1_1_1_1_1_1_1|2021-06-05">
+			<date value="2021.4246575342465" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				lesotho
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-29.5819622998706
+			</attr>
+			<attr name="long">
+				28.2484329985868
+			</attr>
+
+			
+			<attr name="location">
+				-29.5819622998706 28.2484329985868
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14769966|galliformes|lesotho|2_1_1_1_1_1_1_1|2021-05-29">
+			<date value="2021.4054794520548" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				lesotho
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-29.5819622998706
+			</attr>
+			<attr name="long">
+				28.2484329985868
+			</attr>
+
+			
+			<attr name="location">
+				-29.5819622998706 28.2484329985868
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14918892|galliformes|south_africa|1_1_1_1_1_1_1_1|2021-06-30">
+			<date value="2021.4931506849316" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.7220063412643
+			</attr>
+			<attr name="long">
+				30.7367833141436
+			</attr>
+
+			
+			<attr name="location">
+				-28.7220063412643 30.7367833141436
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14710239|galliformes|south_africa|2_1_1_1_1_1_1_1|2021-05-31">
+			<date value="2021.4109589041095" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				southern africa
+			</attr>
+			<attr name="collection_countryname">
+				south africa
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				-28.6110435828424
+			</attr>
+			<attr name="long">
+				26.8801631625401
+			</attr>
+
+			
+			<attr name="location">
+				-28.6110435828424 26.8801631625401
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127711|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127713|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127710|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127714|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18127712|NA|gambia|1_1_4_1_4_1_1_4|2023-04-01">
+			<date value="2023.2465753424658" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				gambia
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				13.4527938239197
+			</attr>
+			<attr name="long">
+				-15.3731969085987
+			</attr>
+
+			
+			<attr name="location">
+				13.4527938239197 -15.3731969085987
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_15614803|pelecaniformes|egypt|2_1_1_1_1_1_1_1|2022-06-17">
+			<date value="2022.4575342465753" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17529369|anseriformes|egypt|1_1_2_1_1_1_1_1|2022-03-30">
+			<date value="2022.2410958904109" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18847129|anseriformes|egypt|1_1_2_1_1_1_1_1|2022-03-30">
+			<date value="2022.2410958904109" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_9641226|charadriiformes|sweden|NA|2021-11-08">
+			<date value="2021.8520547945207" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern europe
+			</attr>
+			<attr name="collection_countryname">
+				sweden
+			</attr>
+			<attr name="host_simplifiedhost">
+				charadriiformes-wild
+			</attr>
+			<attr name="lat">
+				62.374013544985
+			</attr>
+			<attr name="long">
+				16.2835241791686
+			</attr>
+
+			
+			<attr name="location">
+				62.374013544985 16.2835241791686
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13609610|pelecaniformes|israel|NA|2022-01-12">
+			<date value="2022.0301369863014" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western asia
+			</attr>
+			<attr name="collection_countryname">
+				israel
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				31.4459854424407
+			</attr>
+			<attr name="long">
+				35.0090837317994
+			</attr>
+
+			
+			<attr name="location">
+				31.4459854424407 35.0090837317994
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17529372|anseriformes|egypt|1_1_2_1_1_1_1_1|2021-12-15">
+			<date value="2021.9534246575342" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				northern africa
+			</attr>
+			<attr name="collection_countryname">
+				egypt
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				26.5331366423868
+			</attr>
+			<attr name="long">
+				29.7934978487062
+			</attr>
+
+			
+			<attr name="location">
+				26.5331366423868 29.7934978487062
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13658359|falconiformes|israel|NA|2022-01-02">
+			<date value="2022.0027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western asia
+			</attr>
+			<attr name="collection_countryname">
+				israel
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				31.4459854424407
+			</attr>
+			<attr name="long">
+				35.0090837317994
+			</attr>
+
+			
+			<attr name="location">
+				31.4459854424407 35.0090837317994
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414656|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-06-25">
+			<date value="2021.4794520547946" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				4.76778423512924
+			</attr>
+			<attr name="long">
+				6.10529827090822
+			</attr>
+
+			
+			<attr name="location">
+				4.76778423512924 6.10529827090822
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414616|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-07">
+			<date value="2022.0164383561644" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				4.86037197499283
+			</attr>
+			<attr name="long">
+				6.92528956111943
+			</attr>
+
+			
+			<attr name="location">
+				4.86037197499283 6.92528956111943
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18462531|caprimulgiformes|nigeria|2_1_1_1_1_1_1_1|2022-03-01">
+			<date value="2022.1616438356164" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638495|anseriformes|niger|17_1_1_1_1_1_1_1|2023-01-12">
+			<date value="2023.0301369863014" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				14.9848330965973
+			</attr>
+			<attr name="long">
+				10.0264149840137
+			</attr>
+
+			
+			<attr name="location">
+				14.9848330965973 10.0264149840137
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638498|galliformes|niger|17_1_1_1_1_1_1_1|2023-01-23">
+			<date value="2023.0602739726028" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.1152079093427
+			</attr>
+			<attr name="long">
+				7.29977536646403
+			</attr>
+
+			
+			<attr name="location">
+				14.1152079093427 7.29977536646403
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638500|galliformes|niger|17_1_1_1_1_1_1_1|2023-01-28">
+			<date value="2023.0739726027398" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.1152079093427
+			</attr>
+			<attr name="long">
+				7.29977536646403
+			</attr>
+
+			
+			<attr name="location">
+				14.1152079093427 7.29977536646403
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638491|galliformes|niger|17_1_1_1_1_1_1_1|2022-12-14">
+			<date value="2022.9506849315069" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				15.7709378501361
+			</attr>
+			<attr name="long">
+				5.22990257425899
+			</attr>
+
+			
+			<attr name="location">
+				15.7709378501361 5.22990257425899
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638493|galliformes|niger|17_1_1_1_1_1_1_1|2023-01-12">
+			<date value="2023.0301369863014" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.1834739365711
+			</attr>
+			<attr name="long">
+				2.18634678358895
+			</attr>
+
+			
+			<attr name="location">
+				14.1834739365711 2.18634678358895
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638504|galliformes|niger|17_1_1_1_1_1_1_1|2023-02-10">
+			<date value="2023.109589041096" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.5308086643374
+			</attr>
+			<attr name="long">
+				2.12749988854334
+			</attr>
+
+			
+			<attr name="location">
+				13.5308086643374 2.12749988854334
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17638505|galliformes|niger|17_1_1_1_1_1_1_1|2023-02-14">
+			<date value="2023.1205479452055" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				14.1152079093427
+			</attr>
+			<attr name="long">
+				7.29977536646403
+			</attr>
+
+			
+			<attr name="location">
+				14.1152079093427 7.29977536646403
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414631|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-26">
+			<date value="2022.0684931506848" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				12.0879383702902
+			</attr>
+			<attr name="long">
+				6.2614977357571
+			</attr>
+
+			
+			<attr name="location">
+				12.0879383702902 6.2614977357571
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414627|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-21">
+			<date value="2022.054794520548" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				8.86133952932799
+			</attr>
+			<attr name="long">
+				7.14160399725458
+			</attr>
+
+			
+			<attr name="location">
+				8.86133952932799 7.14160399725458
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414635|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-02-01">
+			<date value="2022.0849315068492" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				12.2156756549758
+			</attr>
+			<attr name="long">
+				9.55085496397132
+			</attr>
+
+			
+			<attr name="location">
+				12.2156756549758 9.55085496397132
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414619|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-12">
+			<date value="2022.0301369863014" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.20979731798597
+			</attr>
+			<attr name="long">
+				9.54756607799562
+			</attr>
+
+			
+			<attr name="location">
+				9.20979731798597 9.54756607799562
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414634|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-02-01">
+			<date value="2022.0849315068492" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				8.14334925475427
+			</attr>
+			<attr name="long">
+				3.61881206075384
+			</attr>
+
+			
+			<attr name="location">
+				8.14334925475427 3.61881206075384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414630|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-26">
+			<date value="2022.0684931506848" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				11.8922370151818
+			</attr>
+			<attr name="long">
+				13.1748649188857
+			</attr>
+
+			
+			<attr name="location">
+				11.8922370151818 13.1748649188857
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414598|NA|nigeria|2_1_1_1_1_1_1_1|2021-12-28">
+			<date value="2021.9890410958903" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				6.20811508115918
+			</attr>
+			<attr name="long">
+				6.9305894901959
+			</attr>
+
+			
+			<attr name="location">
+				6.20811508115918 6.9305894901959
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414650|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-12-17">
+			<date value="2021.958904109589" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				10.7743712595196
+			</attr>
+			<attr name="long">
+				9.98774039325803
+			</attr>
+
+			
+			<attr name="location">
+				10.7743712595196 9.98774039325803
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18462530|anseriformes|nigeria|2_1_1_1_1_1_1_1|2022-04-01">
+			<date value="2022.2465753424658" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_18462538|anseriformes|nigeria|2_1_1_1_1_1_1_1|2022-04-01">
+			<date value="2022.2465753424658" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13048382|NA|burkina_faso|2_1_17_1_1_1_1_1|2021-12-07">
+			<date value="2021.9315068493152" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				burkina faso
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				12.2773783178266
+			</attr>
+			<attr name="long">
+				-1.75266049543
+			</attr>
+
+			
+			<attr name="location">
+				12.2773783178266 -1.75266049543
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414636|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-02-02">
+			<date value="2022.0876712328768" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.3426200777514
+			</attr>
+			<attr name="long">
+				12.443001831073
+			</attr>
+
+			
+			<attr name="location">
+				9.3426200777514 12.443001831073
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957819|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957821|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957823|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13957822|galliformes|mali|2_1_17_1_1_1_1_1|2022-03-16">
+			<date value="2022.2027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				mali
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				13.6206931729579
+			</attr>
+			<attr name="long">
+				-7.64564850795128
+			</attr>
+
+			
+			<attr name="location">
+				13.6206931729579 -7.64564850795128
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_11007545|galliformes|niger|2_1_1_1_1_1_1_1|2022-01-01">
+			<date value="2022.0" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				17.416961812486
+			</attr>
+			<attr name="long">
+				9.34752038596442
+			</attr>
+
+			
+			<attr name="location">
+				17.416961812486 9.34752038596442
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13048383|galliformes|burkina_faso|2_1_17_1_1_1_1_1|2021-12-16">
+			<date value="2021.9561643835616" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				burkina faso
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				12.2773783178266
+			</attr>
+			<attr name="long">
+				-1.75266049543
+			</attr>
+
+			
+			<attr name="location">
+				12.2773783178266 -1.75266049543
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_13048381|NA|burkina_faso|NA|2021-12-08">
+			<date value="2021.9342465753425" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				burkina faso
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				12.2773783178266
+			</attr>
+			<attr name="long">
+				-1.75266049543
+			</attr>
+
+			
+			<attr name="location">
+				12.2773783178266 -1.75266049543
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414610|NA|nigeria|2_1_1_1_1_1_1_1|2021-03-23">
+			<date value="2021.2219178082191" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				12.3716337687424
+			</attr>
+			<attr name="long">
+				7.62989372513377
+			</attr>
+
+			
+			<attr name="location">
+				12.3716337687424 7.62989372513377
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414608|NA|nigeria|2_1_1_1_1_1_1_1|2021-03-12">
+			<date value="2021.1917808219177" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				9.93587181689239
+			</attr>
+			<attr name="long">
+				5.60268175555151
+			</attr>
+
+			
+			<attr name="location">
+				9.93587181689239 5.60268175555151
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_11007546|galliformes|niger|2_1_1_1_1_1_1_1|2022-01-01">
+			<date value="2022.0" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				niger
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				17.416961812486
+			</attr>
+			<attr name="long">
+				9.34752038596442
+			</attr>
+
+			
+			<attr name="location">
+				17.416961812486 9.34752038596442
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_16997921|galliformes|ghana|2_1_1_1_1_1_1_1|2021-06-08">
+			<date value="2021.4328767123288" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				ghana
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				7.9638263738498
+			</attr>
+			<attr name="long">
+				-1.20832086013494
+			</attr>
+
+			
+			<attr name="location">
+				7.9638263738498 -1.20832086013494
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414640|galliformes|nigeria|NA|2021-10-16">
+			<date value="2021.7890410958903" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414662|anseriformes|nigeria|2_1_1_1_1_1_1_1|2021-05-28">
+			<date value="2021.4027397260274" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				anseriformes-wild
+			</attr>
+			<attr name="lat">
+				6.52719428768168
+			</attr>
+			<attr name="long">
+				3.56492158964815
+			</attr>
+
+			
+			<attr name="location">
+				6.52719428768168 3.56492158964815
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414588|NA|nigeria|2_1_1_1_1_1_1_1|2021-10-28">
+			<date value="2021.8219178082193" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				6.53403695811186
+			</attr>
+			<attr name="long">
+				7.42105893133197
+			</attr>
+
+			
+			<attr name="location">
+				6.53403695811186 7.42105893133197
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414597|NA|nigeria|2_1_1_1_1_1_1_1|2021-12-28">
+			<date value="2021.9890410958903" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				45.5190780558984
+			</attr>
+			<attr name="long">
+				4.54715006428513
+			</attr>
+
+			
+			<attr name="location">
+				45.5190780558984 4.54715006428513
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414658|galliformes|nigeria|NA|2021-07-09">
+			<date value="2021.517808219178" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.58907159716497
+			</attr>
+			<attr name="long">
+				8.08769036750384
+			</attr>
+
+			
+			<attr name="location">
+				9.58907159716497 8.08769036750384
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414643|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-11-05">
+			<date value="2021.8438356164384" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				7.0017747155077
+			</attr>
+			<attr name="long">
+				3.4674053159721
+			</attr>
+
+			
+			<attr name="location">
+				7.0017747155077 3.4674053159721
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414641|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-10-26">
+			<date value="2021.8164383561643" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				5.45166157527629
+			</attr>
+			<attr name="long">
+				7.50906571219372
+			</attr>
+
+			
+			<attr name="location">
+				5.45166157527629 7.50906571219372
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_2276068|galliformes|senegal|2_1_1_1_1_1_1_1|2020-12-23">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				senegal
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.831526394723
+			</attr>
+			<attr name="long">
+				-16.7546068121427
+			</attr>
+
+			
+			<attr name="location">
+				14.831526394723 -16.7546068121427
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_2276069|galliformes|senegal|2_1_1_1_1_1_1_1|2020-12-23">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				senegal
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.831526394723
+			</attr>
+			<attr name="long">
+				-16.7546068121427
+			</attr>
+
+			
+			<attr name="location">
+				14.831526394723 -16.7546068121427
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_2276070|galliformes|senegal|2_1_1_1_1_1_1_1|2020-12-23">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				senegal
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				14.831526394723
+			</attr>
+			<attr name="long">
+				-16.7546068121427
+			</attr>
+
+			
+			<attr name="location">
+				14.831526394723 -16.7546068121427
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414645|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-11-30">
+			<date value="2021.9123287671232" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				11.7356997144779
+			</attr>
+			<attr name="long">
+				8.51358459540793
+			</attr>
+
+			
+			<attr name="location">
+				11.7356997144779 8.51358459540793
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_14871339|galliformes|benin|2_1_1_1_1_1_1_1|2021-09-01">
+			<date value="2021.6657534246576" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				benin
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				9.64834530386091
+			</attr>
+			<attr name="long">
+				2.33970693359707
+			</attr>
+
+			
+			<attr name="location">
+				9.64834530386091 2.33970693359707
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414668|galliformes|nigeria|2_1_1_1_1_1_1_1|2021-03-21">
+			<date value="2021.2164383561644" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-wild
+			</attr>
+			<attr name="lat">
+				10.4048391234083
+			</attr>
+			<attr name="long">
+				11.2449552554432
+			</attr>
+
+			
+			<attr name="location">
+				10.4048391234083 11.2449552554432
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414621|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-13">
+			<date value="2022.0328767123287" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				6.62406411939859
+			</attr>
+			<attr name="long">
+				5.9045044271078
+			</attr>
+
+			
+			<attr name="location">
+				6.62406411939859 5.9045044271078
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414633|galliformes|nigeria|2_1_1_1_1_1_1_1|2022-01-30">
+			<date value="2022.0794520547945" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				galliformes-domestic
+			</attr>
+			<attr name="lat">
+				6.26522248643496
+			</attr>
+			<attr name="long">
+				8.00212811926889
+			</attr>
+
+			
+			<attr name="location">
+				6.26522248643496 8.00212811926889
+			</attr>
+
+			
+
+		</taxon>
+		<taxon id="H5N1|2344b|EPI_ISL_17414583|NA|nigeria|2_1_1_1_1_1_1_1|2022-01-07">
+			<date value="2022.0164383561644" direction="forwards" units="years" />
+			<attr name="collection_regionname">
+				western africa
+			</attr>
+			<attr name="collection_countryname">
+				nigeria
+			</attr>
+			<attr name="host_simplifiedhost">
+				other-bird
+			</attr>
+			<attr name="lat">
+				8.49899690269019
+			</attr>
+			<attr name="long">
+				8.18723814005546
+			</attr>
+
+			
+			<attr name="location">
+				8.49899690269019 8.18723814005546
+			</attr>
+
+			
+
+		</taxon>
+	</taxa>
+	
+	
+
+	
+	
+	<empiricalTreeDistributionModel id="treeModel" fileName="n1_africa_subsampled_relaxLn_Skygrid4-16_1000.trees"><taxa idref="taxa" /></empiricalTreeDistributionModel><statistic id="treeModel.currentTree" name="Current Tree"><empiricalTreeDistributionModel idref="treeModel" /></statistic><generalDataType id="collection_regionname.dataType">
+
+		
+		<state code="northern africa" />
+		<state code="northern europe" />
+		<state code="southern africa" />
+		<state code="western africa" />
+		<state code="western asia" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="collection_countryname.dataType">
+
+		
+		<state code="benin" />
+		<state code="burkina faso" />
+		<state code="egypt" />
+		<state code="gambia" />
+		<state code="ghana" />
+		<state code="israel" />
+		<state code="lesotho" />
+		<state code="mali" />
+		<state code="namibia" />
+		<state code="niger" />
+		<state code="nigeria" />
+		<state code="senegal" />
+		<state code="south africa" />
+		<state code="sweden" />
+	</generalDataType>
+
+
+	
+	<generalDataType id="host_simplifiedhost.dataType">
+
+		
+		<state code="anseriformes-wild" />
+		<state code="charadriiformes-wild" />
+		<state code="environment" />
+		<state code="galliformes-domestic" />
+		<state code="galliformes-wild" />
+		<state code="other-bird" />
+	</generalDataType>
+
+
+	
+	<attributePatterns id="collection_regionname.pattern" attribute="collection_regionname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_regionname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="collection_countryname.pattern" attribute="collection_countryname">
+		<taxa idref="taxa" />
+		<generalDataType idref="collection_countryname.dataType" />
+	</attributePatterns>
+
+
+	
+	<attributePatterns id="host_simplifiedhost.pattern" attribute="host_simplifiedhost">
+		<taxa idref="taxa" />
+		<generalDataType idref="host_simplifiedhost.dataType" />
+	</attributePatterns>
+
+	
+
+
+	
+	
+	<strictClockBranchRates id="collection_regionname.branchRates">
+		<rate>
+			<parameter id="collection_regionname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_regionname.meanRate" name="collection_regionname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_regionname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="collection_countryname.branchRates">
+		<rate>
+			<parameter id="collection_countryname.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="collection_countryname.meanRate" name="collection_countryname.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="collection_countryname.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<strictClockBranchRates id="host_simplifiedhost.branchRates">
+		<rate>
+			<parameter id="host_simplifiedhost.clock.rate" value="1.0" lower="0.0" />
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="host_simplifiedhost.meanRate" name="host_simplifiedhost.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" /><strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+	</rateStatistic>
+	
+
+	
+	<multivariateDiffusionModel id="location.diffusionModel">
+		<precisionMatrix>
+			<matrixParameter id="location.precision">
+				<parameter id="location.precision.col1" value="0.05 0.002" />
+				<parameter id="location.precision.col2" value="0.002 0.05" />
+			</matrixParameter>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+	<multivariateWishartPrior id="location.precisionPrior" df="2">
+		<scaleMatrix>
+			<matrixParameter>
+				<parameter value="1.0 0.0" />
+				<parameter value="0.0 1.0" />
+			</matrixParameter>
+		</scaleMatrix>
+		<data>
+			<parameter idref="location.precision" />
+		</data>
+	</multivariateWishartPrior>
+
+	
+
+
+	
+	<multivariateTraitLikelihood id="location.traitLikelihood" traitName="location" useTreeLength="true" scaleByTime="true" reportAsMultivariate="true" reciprocalRates="true" integrateInternalTraits="true">
+		<multivariateDiffusionModel idref="location.diffusionModel" />
+		<treeModel idref="treeModel" /><traitParameter>
+			<parameter id="leaf.location" />
+		</traitParameter>
+		<conjugateRootPrior>
+			<meanParameter>
+				<parameter value="0.0 0.0" />
+			</meanParameter>
+			<priorSampleSize>
+				<parameter value="0.000001" />
+			</priorSampleSize>
+		</conjugateRootPrior>
+	</multivariateTraitLikelihood>
+	<correlation id="location.correlation" dimension1="1" dimension2="2">
+		<matrixParameter idref="location.precision" />
+	</correlation>
+	<matrixInverse id="location.varCovar">
+		<matrixParameter idref="location.precision" />
+	</matrixInverse>
+	<continuousDiffusionStatistic id="location.diffusionRate" greatCircleDistance="true">
+		<multivariateTraitLikelihood idref="location.traitLikelihood" />
+	</continuousDiffusionStatistic>
+
+	
+
+
+	
+
+	
+	<generalSubstitutionModel id="collection_regionname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_regionname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_regionname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_regionname.dataType" />
+				<frequencies>
+					<parameter id="collection_regionname.frequencies" dimension="5" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_regionname.rates" dimension="20" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_regionname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_regionname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="collection_countryname.model" randomizeIndicator="false">
+		<generalDataType idref="collection_countryname.dataType" />
+		<frequencies>
+			<frequencyModel id="collection_countryname.frequencyModel" normalize="true">
+				<generalDataType idref="collection_countryname.dataType" />
+				<frequencies>
+					<parameter id="collection_countryname.frequencies" dimension="14" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="collection_countryname.rates" dimension="182" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="collection_countryname.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="collection_countryname.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<generalSubstitutionModel id="host_simplifiedhost.model" randomizeIndicator="false">
+		<generalDataType idref="host_simplifiedhost.dataType" />
+		<frequencies>
+			<frequencyModel id="host_simplifiedhost.frequencyModel" normalize="true">
+				<generalDataType idref="host_simplifiedhost.dataType" />
+				<frequencies>
+					<parameter id="host_simplifiedhost.frequencies" dimension="6" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		
+		<rates>
+			<parameter id="host_simplifiedhost.rates" dimension="30" value="1.0" lower="0.0" />
+		</rates>
+	</generalSubstitutionModel>
+	<siteModel id="host_simplifiedhost.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		</substitutionModel>
+	</siteModel>
+
+	
+	<ancestralTreeLikelihood id="collection_regionname.treeLikelihood" stateTagName="collection_regionname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_regionname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_regionname.siteModel" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<generalSubstitutionModel idref="collection_regionname.model" />
+		<strictClockBranchRates idref="collection_regionname.branchRates" />
+
+		
+		<frequencyModel id="collection_regionname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_regionname.dataType" />
+			<frequencies>
+				<parameter id="collection_regionname.root.frequencies" dimension="5" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="collection_countryname.treeLikelihood" stateTagName="collection_countryname.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="collection_countryname.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="collection_countryname.siteModel" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<generalSubstitutionModel idref="collection_countryname.model" />
+		<strictClockBranchRates idref="collection_countryname.branchRates" />
+
+		
+		<frequencyModel id="collection_countryname.root.frequencyModel" normalize="true">
+			<generalDataType idref="collection_countryname.dataType" />
+			<frequencies>
+				<parameter id="collection_countryname.root.frequencies" dimension="14" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="host_simplifiedhost.treeLikelihood" stateTagName="host_simplifiedhost.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="host_simplifiedhost.pattern" />
+		<treeModel idref="treeModel" /><siteModel idref="host_simplifiedhost.siteModel" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<generalSubstitutionModel idref="host_simplifiedhost.model" />
+		<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+		
+		<frequencyModel id="host_simplifiedhost.root.frequencyModel" normalize="true">
+			<generalDataType idref="host_simplifiedhost.dataType" />
+			<frequencies>
+				<parameter id="host_simplifiedhost.root.frequencies" dimension="6" />
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+	
+
+
+	
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_regionname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="collection_countryname.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="host_simplifiedhost.clock.rate" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_regionname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="collection_countryname.rates" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="host_simplifiedhost.rates" />
+		</scaleOperator>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_regionname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="collection_countryname.root.frequencies" />
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="host_simplifiedhost.root.frequencies" />
+		</deltaExchange>
+
+		
+		<precisionGibbsOperator weight="2">
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			<multivariateWishartPrior idref="location.precisionPrior" />
+		</precisionGibbsOperator>
+
+		
+
+	<empiricalTreeDistributionOperator weight="3"><empiricalTreeDistributionModel idref="treeModel" /></empiricalTreeDistributionOperator></operators>
+	
+
+	
+	<mcmc id="mcmc" chainLength="2000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_regionname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="collection_countryname.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="host_simplifiedhost.clock.rate" />
+					</ctmcScale>
+					<treeModel idref="treeModel" /></ctmcScalePrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_regionname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_regionname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="collection_countryname.rates" />
+					</gammaPrior>
+					<parameter idref="collection_countryname.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.frequencies" />
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="host_simplifiedhost.rates" />
+					</gammaPrior>
+					<parameter idref="host_simplifiedhost.rates" />
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_regionname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="collection_countryname.root.frequencies" />
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host_simplifiedhost.root.frequencies" />
+				</uniformPrior>
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+				
+				<multivariateWishartPrior idref="location.precisionPrior" />
+
+				
+
+			</prior>
+			<likelihood id="likelihood">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+				
+
+
+				
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+				
+
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="200">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint" />
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior" />
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="collection_regionname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_regionname.clock.rate" />
+			</column>
+			<column label="collection_countryname.clock.rate" sf="6" width="12">
+				<parameter idref="collection_countryname.clock.rate" />
+			</column>
+			<column label="host_simplifiedhost.clock.rate" sf="6" width="12">
+				<parameter idref="host_simplifiedhost.clock.rate" />
+			</column>
+
+			
+
+			
+
+		</log>
+
+		
+		<log id="fileLog" logEvery="200" fileName="n1_africa_subsampled_traits.log" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<parameter idref="collection_regionname.clock.rate" />
+			<parameter idref="collection_countryname.clock.rate" />
+			<parameter idref="host_simplifiedhost.clock.rate" />
+			<rateStatistic idref="collection_regionname.meanRate" />
+			<rateStatistic idref="collection_countryname.meanRate" />
+			<rateStatistic idref="host_simplifiedhost.meanRate" />
+
+			
+			<matrixParameter idref="location.precision" />
+			<correlation idref="location.correlation" />
+			<matrixInverse idref="location.varCovar" />
+			<continuousDiffusionStatistic idref="location.diffusionRate" />
+
+			
+
+
+			
+			<parameter idref="collection_regionname.rates" />
+			<parameter idref="collection_countryname.rates" />
+			<parameter idref="host_simplifiedhost.rates" />
+
+			
+
+			<strictClockBranchRates idref="collection_regionname.branchRates" />
+			<strictClockBranchRates idref="collection_countryname.branchRates" />
+			<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+
+			
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+
+			
+			<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+
+			
+
+			</log>
+
+		
+		<log id="n1_africa_subsampled_traits.collection_regionnamerateMatrixLog" logEvery="200" fileName="n1_africa_subsampled_traits.collection_regionname.rates.log">
+			<parameter idref="collection_regionname.rates" />
+		</log>
+		<log id="n1_africa_subsampled_traits.collection_countrynamerateMatrixLog" logEvery="200" fileName="n1_africa_subsampled_traits.collection_countryname.rates.log">
+			<parameter idref="collection_countryname.rates" />
+		</log>
+		<log id="n1_africa_subsampled_traits.host_simplifiedhostrateMatrixLog" logEvery="200" fileName="n1_africa_subsampled_traits.host_simplifiedhost.rates.log">
+			<parameter idref="host_simplifiedhost.rates" />
+		</log>
+
+		
+
+
+		
+		<logTree id="treeFileLog" logEvery="200" nexusFormat="true" fileName="n1_africa_subsampled_traits.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel" /><trait name="rate" tag="collection_regionname.rate">
+				<strictClockBranchRates idref="collection_regionname.branchRates" />
+			</trait>
+			<trait name="rate" tag="collection_countryname.rate">
+				<strictClockBranchRates idref="collection_countryname.branchRates" />
+			</trait>
+			<trait name="rate" tag="host_simplifiedhost.rate">
+				<strictClockBranchRates idref="host_simplifiedhost.branchRates" />
+			</trait>
+			<joint idref="joint" />
+
+			
+			<trait name="collection_regionname.states" tag="collection_regionname">
+				<ancestralTreeLikelihood idref="collection_regionname.treeLikelihood" />
+			</trait>
+			<trait name="collection_countryname.states" tag="collection_countryname">
+				<ancestralTreeLikelihood idref="collection_countryname.treeLikelihood" />
+			</trait>
+			<trait name="host_simplifiedhost.states" tag="host_simplifiedhost">
+				<ancestralTreeLikelihood idref="host_simplifiedhost.treeLikelihood" />
+			</trait>
+			<trait name="location" tag="location">
+				<multivariateTraitLikelihood idref="location.traitLikelihood" />
+			</trait>
+
+			
+
+
+			
+			<multivariateDiffusionModel idref="location.diffusionModel" />
+			<multivariateTraitLikelihood idref="location.traitLikelihood" />
+
+			
+
+		</logTree>
+	</mcmc>
+	
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+	
+</beast>
